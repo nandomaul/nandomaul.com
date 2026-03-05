@@ -72,16 +72,22 @@
         /* MOBILE CONTROLS */
         #mobile-controls { display: none; }
         @media (max-width: 1024px) {
-            #mobile-controls { display: block; position: absolute; bottom: 20px; width: 100%; height: 200px; z-index: 20; pointer-events: none; }
-            .joystick-zone { position: absolute; bottom: 20px; width: 140px; height: 140px; background: rgba(255, 255, 255, 0.1); border: 2px solid rgba(0, 255, 255, 0.3); border-radius: 50%; pointer-events: auto; backdrop-filter: blur(2px); }
-            #stick-left { left: 30px; }
-            #stick-right { right: 30px; }
-            .stick-knob { position: absolute; top: 50%; left: 50%; width: 50px; height: 50px; background: rgba(0, 255, 255, 0.5); border-radius: 50%; transform: translate(-50%, -50%); box-shadow: 0 0 15px cyan; pointer-events: none; }
-            #mobile-btns { position: absolute; right: 190px; bottom: 40px; display: flex; gap: 15px; pointer-events: auto; }
-            .mob-btn { width: 60px; height: 60px; border-radius: 50%; border: 2px solid white; background: rgba(0,0,0,0.5); color: white; font-size: 10px; display: flex; align-items: center; justify-content: center; font-weight: bold; font-family: 'Share Tech Mono'; }
-            .mob-btn:active { background: white; color: black; }
+            #mobile-controls { display: block; position: absolute; bottom: 0; left: 0; width: 100%; height: 100%; z-index: 20; pointer-events: none; }
+            .joystick-zone { position: absolute; bottom: 30px; width: 120px; height: 120px; background: rgba(255, 255, 255, 0.1); border: 2px solid rgba(0, 255, 255, 0.3); border-radius: 50%; pointer-events: auto; backdrop-filter: blur(2px); }
+            #stick-left { left: 20px; }
+            #stick-right { right: 20px; }
+            .stick-knob { position: absolute; top: 50%; left: 50%; width: 45px; height: 45px; background: rgba(0, 255, 255, 0.5); border-radius: 50%; transform: translate(-50%, -50%); box-shadow: 0 0 15px cyan; pointer-events: none; }
+            
+            /* UPDATED MOBILE BUTTONS LAYOUT */
+            #mobile-action-area { position: absolute; right: 20px; bottom: 170px; display: flex; flex-direction: column; align-items: flex-end; gap: 12px; pointer-events: none; }
+            .mobile-row { display: flex; gap: 12px; pointer-events: auto; }
+            
+            .mob-btn { width: 55px; height: 55px; border-radius: 50%; border: 2px solid white; background: rgba(0,0,0,0.6); color: white; font-size: 11px; display: flex; align-items: center; justify-content: center; font-weight: bold; font-family: 'Share Tech Mono'; box-shadow: 0 0 10px rgba(0,255,255,0.2); transition: transform 0.1s; }
+            .mob-btn:active { background: white; color: black; transform: scale(0.9); box-shadow: 0 0 20px white; }
+            .mob-btn-small { width: 45px; height: 45px; font-size: 16px; }
+
             #custom-cursor { display: none !important; } /* Force hide on mobile */
-            #hud { transform: scale(0.8); transform-origin: bottom left; width: 120%; }
+            #hud { transform: scale(0.8); transform-origin: top left; width: 125%; }
         }
 
         #reload-bar-bg {
@@ -242,8 +248,17 @@
     <div id="canvas-container"></div>
     <div id="frost-overlay" class="absolute hidden pointer-events-none z-20" style="width: 100vw; background: radial-gradient(circle, transparent 60%, rgba(0, 255, 255, 0.3) 100%);"></div>
     
-    <div id="top-controls" class="absolute top-8 right-8 z-[9999] flex items-center gap-4 fade-in-up" style="animation-delay: 0.5s;">
-        <div class="group flex items-center gap-2 bg-transparent backdrop-blur-md p-1.5 rounded-full border-2 border-white/50 hover:border-white transition-colors duration-300">
+    <div id="top-controls" class="absolute top-4 right-4 md:top-8 md:right-8 z-[9999] flex items-center gap-2 md:gap-4 fade-in-up" style="animation-delay: 0.5s;">
+        <!-- Pause Button Mobile Only -->
+        <button id="btn-pause-mobile" class="md:hidden bg-transparent backdrop-blur-md p-2 rounded-full border-2 border-white/50 hover:border-white text-white hover:scale-110 transition-all duration-200 shadow-[0_0_15px_rgba(255,255,255,0.3)] pointer-events-auto">
+            <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                <rect x="6" y="4" width="4" height="16"></rect>
+                <rect x="14" y="4" width="4" height="16"></rect>
+            </svg>
+        </button>
+
+        <!-- Volume Desktop Only -->
+        <div class="hidden md:flex group items-center gap-2 bg-transparent backdrop-blur-md p-1.5 rounded-full border-2 border-white/50 hover:border-white transition-colors duration-300">
             <button id="btn-volume-icon" class="text-white hover:text-gray-300 transition-all w-6 h-6 flex items-center justify-center cursor-pointer pointer-events-auto">
                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                     <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
@@ -278,10 +293,17 @@
     <div id="mobile-controls">
         <div id="stick-left" class="joystick-zone"><div class="stick-knob" id="knob-left"></div></div>
         <div id="stick-right" class="joystick-zone"><div class="stick-knob" id="knob-right"></div></div>
-        <div id="mobile-btns">
-            <div class="mob-btn" id="btn-dash">DASH</div>
-            <div class="mob-btn" id="btn-melee">HIT</div>
-            <div class="mob-btn" id="btn-mol">MOL</div>
+        
+        <div id="mobile-action-area">
+            <div class="mobile-row" style="justify-content: flex-end; width: 100%;">
+                <div class="mob-btn mob-btn-small" id="btn-prev">◀</div>
+                <div class="mob-btn mob-btn-small" id="btn-next">▶</div>
+            </div>
+            <div class="mobile-row">
+                <div class="mob-btn" id="btn-dash">DASH</div>
+                <div class="mob-btn" id="btn-melee">HIT</div>
+                <div class="mob-btn" id="btn-mol">MOL</div>
+            </div>
         </div>
     </div>
 
@@ -298,7 +320,7 @@
             </button>
         </div>
 
-        <div class="fade-in-up w-full max-w-5xl px-8" style="animation-delay: 0.3s;">
+        <div class="hidden md:block fade-in-up w-full max-w-5xl px-8" style="animation-delay: 0.3s;">
             <h2 class="text-2xl text-cyan-400 font-bold mb-8 tracking-[0.2em] text-center border-b border-cyan-900/50 pb-2 mx-auto w-1/3">SYSTEM CONTROLS</h2>
             
             <div class="grid grid-cols-1 md:grid-cols-2 gap-x-16 gap-y-8 text-left justify-center">
@@ -377,7 +399,7 @@
             <button id="btn-music" class="px-16 py-4 bg-transparent border border-cyan-500 text-cyan-500 font-bold hover:bg-cyan-500 hover:text-black transition uppercase tracking-widest w-64 font-raj">MUSIC: ON</button>
         </div>
         <!-- Simplified controls for pause menu -->
-        <div class="mt-8 grid grid-cols-2 gap-4 text-left">
+        <div class="hidden md:grid mt-8 grid-cols-2 gap-4 text-left">
              <div class="flex items-center gap-3"><div class="key-cap" style="width:30px;height:30px;font-size:12px;">W</div><span class="text-gray-300 font-bold font-raj">MOVE</span></div>
              <div class="flex items-center gap-3"><div class="key-cap-wide" style="height:30px;font-size:12px;padding:0 8px;">SPACE</div><span class="text-gray-300 font-bold font-raj">DASH</span></div>
         </div>
@@ -405,12 +427,13 @@
             <div id="q-indicator" class="mt-4 text-xs font-bold text-white border border-white p-2 inline-block">AUTO-FIRE [Q]: <span id="q-status">ON</span></div>
         </div>
 
-        <div class="absolute top-6 left-1/2 -translate-x-1/2 text-center w-full pointer-events-none">
+        <!-- Timer repositioned to the right -->
+        <div class="absolute top-[70px] right-4 md:top-[90px] md:right-8 text-right pointer-events-none max-md:scale-75 max-md:origin-top-right z-10">
             <div id="timer" class="text-5xl font-black text-white tracking-widest drop-shadow-[0_0_10px_white] font-tech">00:00</div>
             <div id="level-display" class="text-sm font-bold text-cyan-400 tracking-widest mt-1 font-raj">THREAT LEVEL: 1</div>
         </div>
 
-        <div class="absolute bottom-6 right-6 text-right font-tech scale-75 origin-bottom-right md:scale-100 pointer-events-none">
+        <div class="absolute max-md:bottom-[240px] md:bottom-6 right-6 text-right font-tech scale-75 origin-bottom-right md:scale-100 pointer-events-none">
             <div id="weapon-name" class="text-6xl font-black text-white italic uppercase tracking-tighter font-raj" style="text-shadow: 0 0 15px white;">SMG</div>
             <div class="flex justify-end items-end gap-2 mt-2" id="ammo-container">
                 <div class="text-6xl font-bold text-white leading-none" id="ammo-cur">50</div>
@@ -427,14 +450,14 @@
             <div class="tip-row"><div id="key-1" class="key-bubble">1</div><div id="key-2" class="key-bubble">2</div><div id="key-3" class="key-bubble">3</div> <span>WEAPON</span></div>
         </div>
 
-        <div class="credits">DESIGN & DEVELOP GAME BY NANDO</div>
+        <div class="credits hidden md:block">DESIGN & DEVELOP GAME BY NANDO</div>
     </div>
 
     <div id="game-over" class="ui-layer interactive w-full hidden flex-col items-center justify-center bg-red-900/40 backdrop-blur-md z-50">
         <div class="glitch-text text-6xl md:text-7xl font-black text-white mb-4 tracking-tighter drop-shadow-lg text-center font-raj">SYSTEM FAILURE</div>
         <div class="text-3xl text-white font-tech mb-8 fade-in-up">SURVIVED: <span id="final-time" class="font-bold text-yellow-300">00:00</span></div>
         <button id="btn-restart" class="px-16 py-4 bg-white text-black font-bold hover:bg-gray-200 transition uppercase tracking-widest cursor-pointer shadow-2xl fade-in-up font-raj" style="animation-delay: 0.2s;">REPLAY SYSTEM</button>
-        <div class="controls-list mt-8 fade-in-up" style="animation-delay: 0.4s;">
+        <div class="controls-list mt-8 fade-in-up hidden md:grid" style="animation-delay: 0.4s;">
             <div><span class="key">[R]</span> RELOAD FASTER</div>
             <div><span class="key">[F]</span> DETACH LEECH</div>
         </div>
@@ -785,6 +808,9 @@
                 document.getElementById('btn-music').addEventListener('click', toggleMusic);
                 document.getElementById('btn-fullscreen').addEventListener('click', toggleFullscreen); 
                 
+                // Tambahan Event Pause untuk Mobile
+                document.getElementById('btn-pause-mobile').addEventListener('click', togglePause);
+                
                 const volSlider = document.getElementById('volume-slider');
                 const volIcon = document.getElementById('btn-volume-icon');
                 const bgm = document.getElementById('bgm');
@@ -902,8 +928,16 @@
             });
         }
 
+        function cycleWeapon(dir) {
+            if(!PLAYER.reloading) {
+                let nextIdx = (PLAYER.wepIdx + dir) % WEAPONS.length;
+                if(nextIdx < 0) nextIdx += WEAPONS.length;
+                swap(nextIdx);
+            }
+        }
+
         function initMobileControls() {
-            if('ontouchstart' in window) {
+            if('ontouchstart' in window || navigator.maxTouchPoints > 0) {
                 STATE.mobile = true;
                 const leftStick = document.getElementById('stick-left');
                 const leftKnob = document.getElementById('knob-left');
@@ -912,6 +946,8 @@
                 const btnDash = document.getElementById('btn-dash');
                 const btnMelee = document.getElementById('btn-melee');
                 const btnMol = document.getElementById('btn-mol');
+                const btnPrev = document.getElementById('btn-prev');
+                const btnNext = document.getElementById('btn-next');
                 
                 let lCenter = {x:0, y:0};
                 let rCenter = {x:0, y:0};
@@ -948,6 +984,9 @@
                 btnDash.addEventListener('touchstart', (e) => { e.preventDefault(); handleDash(); });
                 btnMelee.addEventListener('touchstart', (e) => { e.preventDefault(); handleMelee(); });
                 btnMol.addEventListener('touchstart', (e) => { e.preventDefault(); handleMolotov(); });
+                
+                if(btnPrev) btnPrev.addEventListener('touchstart', (e) => { e.preventDefault(); cycleWeapon(-1); });
+                if(btnNext) btnNext.addEventListener('touchstart', (e) => { e.preventDefault(); cycleWeapon(1); });
             }
         }
 
@@ -962,7 +1001,9 @@
             if(isMove) {
                 keys.d = (dx > 10) ? 1 : 0; keys.a = (dx < -10) ? 1 : 0; keys.s = (dy > 10) ? 1 : 0; keys.w = (dy < -10) ? 1 : 0;
             } else {
-                mouse.x = Math.cos(angle) * 0.5; mouse.y = -Math.sin(angle) * 0.5;
+                // FIX: Dihilangkan tanda minus pada perhitungan koordinat Y agar aim presisi tidak terbalik
+                mouse.x = Math.cos(angle) * 0.5; 
+                mouse.y = Math.sin(angle) * 0.5; 
             }
         }
 
@@ -1141,9 +1182,23 @@
             else if (isShotgun) { camOffset.y *= 1.15; camOffset.z *= 1.15; } 
             else { camOffset.y *= 1.05; camOffset.z *= 1.05; }
 
+            // Menyesuaikan tampilan karakter lebih kecil/wide untuk mode portrait mobile
+            if (window.innerWidth < window.innerHeight) {
+                if (isSniper) {
+                    camOffset.y *= 1.3; // Sniper tidak perlu di-zoom out sejauh senjata lain agar karakter tetap terlihat
+                    camOffset.z *= 1.2;
+                } else {
+                    camOffset.y *= 1.8;
+                    camOffset.z *= 1.4;
+                }
+            }
+
             const targetPos = new THREE.Vector3(playerMesh.position.x + camOffset.x, camOffset.y, playerMesh.position.z + camOffset.z);
             camera.position.lerp(targetPos, 0.05); 
             camera.lookAt(playerMesh.position); 
+            
+            // FIX: Sesuaikan ketebalan kabut dinamis dengan tinggi kamera agar tidak gelap gulita saat pakai Sniper
+            scene.fog.density = 0.6 / Math.max(camera.position.y, 20);
 
             playerMesh.position.copy(playerBody.position);
             playerMesh.position.y -= 1;

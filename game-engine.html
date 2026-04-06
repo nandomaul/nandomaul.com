@@ -25,7 +25,7 @@
             margin: 0; overflow: hidden; background-color: #050505; 
             font-family: 'Rajdhani', sans-serif;
             user-select: none; cursor: default; /* Default cursor for menus */
-            touch-action: none; 
+            /* touch-action: none; DIHAPUS: Agar layar bisa di-scroll saat di menu utama */
         }
         
         .font-tech { font-family: 'Share Tech Mono', monospace; }
@@ -70,9 +70,9 @@
         }
         
         /* MOBILE CONTROLS */
-        #mobile-controls { display: none; }
+        #mobile-controls { display: none; } /* Tetap display none sampai diaktifkan via JS */
         @media (max-width: 1024px) {
-            #mobile-controls { display: block; position: absolute; bottom: 0; left: 0; width: 100%; height: 100%; z-index: 20; pointer-events: none; }
+            #mobile-controls { position: absolute; bottom: 0; left: 0; width: 100%; height: 100%; z-index: 20; pointer-events: none; }
             .joystick-zone { position: absolute; bottom: 30px; width: 120px; height: 120px; background: rgba(255, 255, 255, 0.1); border: 2px solid rgba(0, 255, 255, 0.3); border-radius: 50%; pointer-events: auto; backdrop-filter: blur(2px); }
             #stick-left { left: 20px; }
             #stick-right { right: 20px; }
@@ -249,7 +249,6 @@
     <div id="frost-overlay" class="absolute hidden pointer-events-none z-20" style="width: 100vw; background: radial-gradient(circle, transparent 60%, rgba(0, 255, 255, 0.3) 100%);"></div>
     
     <div id="top-controls" class="absolute top-4 right-4 md:top-8 md:right-8 z-[9999] flex items-center gap-2 md:gap-4 fade-in-up" style="animation-delay: 0.5s;">
-        <!-- Pause Button Mobile Only -->
         <button id="btn-pause-mobile" class="md:hidden bg-transparent backdrop-blur-md p-2 rounded-full border-2 border-white/50 hover:border-white text-white hover:scale-110 transition-all duration-200 shadow-[0_0_15px_rgba(255,255,255,0.3)] pointer-events-auto">
             <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                 <rect x="6" y="4" width="4" height="16"></rect>
@@ -257,7 +256,6 @@
             </svg>
         </button>
 
-        <!-- Volume Desktop Only -->
         <div class="hidden md:flex group items-center gap-2 bg-transparent backdrop-blur-md p-1.5 rounded-full border-2 border-white/50 hover:border-white transition-colors duration-300">
             <button id="btn-volume-icon" class="text-white hover:text-gray-300 transition-all w-6 h-6 flex items-center justify-center cursor-pointer pointer-events-auto">
                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -270,14 +268,12 @@
         </div>
 
         <button id="btn-fullscreen" class="bg-transparent backdrop-blur-md p-2 rounded-full border-2 border-white/50 hover:border-white text-white hover:scale-110 transition-all duration-200 shadow-[0_0_15px_rgba(255,255,255,0.3)] pointer-events-auto">
-            <!-- Fullscreen Icon -->
             <svg id="icon-maximize" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="square" stroke-linejoin="miter">
                 <polyline points="15 3 21 3 21 9"></polyline>
                 <polyline points="9 21 3 21 3 15"></polyline>
                 <line x1="21" y1="3" x2="14" y2="10"></line>
                 <line x1="3" y1="21" x2="10" y2="14"></line>
             </svg>
-            <!-- Exit Fullscreen Icon (Hidden by default) -->
             <svg id="icon-minimize" class="hidden" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
                 <line x1="18" y1="6" x2="6" y2="18"></line>
                 <line x1="6" y1="6" x2="18" y2="18"></line>
@@ -310,7 +306,6 @@
     <div id="leech-warning">PRESS [F] TO DETACH!</div>
     <div id="slowed-label">SLOWED</div>
 
-    <!-- START SCREEN REVISED -->
     <div id="start-screen" class="ui-layer interactive w-full flex flex-col items-center justify-center z-50 backdrop-blur-md" style="background: rgba(0, 15, 40, 0.85);">
         <h1 class="text-7xl md:text-8xl font-black text-white mb-4 tracking-tighter fade-in-up glitch-wrapper text-center font-raj" data-text="NEON CHAOS">NEON CHAOS</h1>
         
@@ -324,7 +319,6 @@
             <h2 class="text-2xl text-cyan-400 font-bold mb-8 tracking-[0.2em] text-center border-b border-cyan-900/50 pb-2 mx-auto w-1/3">SYSTEM CONTROLS</h2>
             
             <div class="grid grid-cols-1 md:grid-cols-2 gap-x-16 gap-y-8 text-left justify-center">
-                <!-- Movement -->
                 <div class="flex items-center gap-6 justify-start md:justify-end">
                     <div class="flex gap-2">
                         <div class="key-cap">W</div>
@@ -335,7 +329,6 @@
                     <span class="text-xl text-white font-bold tracking-widest font-raj">MOVEMENT</span>
                 </div>
 
-                <!-- Aim/Shoot -->
                 <div class="flex items-center gap-6 justify-start">
                     <div class="flex gap-2">
                         <div class="key-cap-wide flex items-center gap-2">
@@ -347,31 +340,26 @@
                     <span class="text-xl text-white font-bold tracking-widest font-raj">AIM & FIRE</span>
                 </div>
 
-                <!-- Dash -->
                 <div class="flex items-center gap-6 justify-start md:justify-end">
                     <div class="key-cap-wide w-32">SPACE</div>
                     <span class="text-xl text-white font-bold tracking-widest font-raj">DASH <span class="text-sm text-cyan-400">(-10 SP)</span></span>
                 </div>
 
-                <!-- Melee -->
                 <div class="flex items-center gap-6 justify-start">
                     <div class="key-cap">F</div>
                     <span class="text-xl text-white font-bold tracking-widest font-raj">MELEE / DETACH</span>
                 </div>
 
-                <!-- Reload -->
                 <div class="flex items-center gap-6 justify-start md:justify-end">
                     <div class="key-cap">R</div>
                     <span class="text-xl text-white font-bold tracking-widest font-raj">RELOAD</span>
                 </div>
 
-                <!-- Molotov -->
                 <div class="flex items-center gap-6 justify-start">
                     <div class="key-cap">E</div>
                     <span class="text-xl text-white font-bold tracking-widest font-raj">MOLOTOV</span>
                 </div>
                 
-                <!-- Weapon Swap -->
                 <div class="flex items-center gap-6 justify-start md:justify-end">
                     <div class="flex gap-2">
                         <div class="key-cap">1</div>
@@ -381,7 +369,6 @@
                     <span class="text-xl text-white font-bold tracking-widest font-raj">WEAPONS</span>
                 </div>
 
-                <!-- Pause -->
                 <div class="flex items-center gap-6 justify-start">
                     <div class="key-cap-wide">ESC</div>
                     <span class="text-xl text-white font-bold tracking-widest font-raj">PAUSE</span>
@@ -398,7 +385,6 @@
             <button id="btn-restart-pause" class="px-16 py-4 bg-transparent border border-red-500 text-red-500 font-bold hover:bg-red-500 hover:text-white transition uppercase tracking-widest w-64 font-raj">RESTART</button>
             <button id="btn-music" class="px-16 py-4 bg-transparent border border-cyan-500 text-cyan-500 font-bold hover:bg-cyan-500 hover:text-black transition uppercase tracking-widest w-64 font-raj">MUSIC: ON</button>
         </div>
-        <!-- Simplified controls for pause menu -->
         <div class="hidden md:grid mt-8 grid-cols-2 gap-4 text-left">
              <div class="flex items-center gap-3"><div class="key-cap" style="width:30px;height:30px;font-size:12px;">W</div><span class="text-gray-300 font-bold font-raj">MOVE</span></div>
              <div class="flex items-center gap-3"><div class="key-cap-wide" style="height:30px;font-size:12px;padding:0 8px;">SPACE</div><span class="text-gray-300 font-bold font-raj">DASH</span></div>
@@ -427,7 +413,6 @@
             <div id="q-indicator" class="mt-4 text-xs font-bold text-white border border-white p-2 inline-block">AUTO-FIRE [Q]: <span id="q-status">ON</span></div>
         </div>
 
-        <!-- Timer repositioned to the right -->
         <div class="absolute top-[70px] right-4 md:top-[90px] md:right-8 text-right pointer-events-none max-md:scale-75 max-md:origin-top-right z-10">
             <div id="timer" class="text-5xl font-black text-white tracking-widest drop-shadow-[0_0_10px_white] font-tech">00:00</div>
             <div id="level-display" class="text-sm font-bold text-cyan-400 tracking-widest mt-1 font-raj">THREAT LEVEL: 1</div>
@@ -731,6 +716,9 @@
 
         function init() {
             try {
+                // FIX: Aktifkan scroll di menu awal untuk device mobile agar tidak stuck
+                document.body.style.touchAction = 'auto';
+
                 scene = new THREE.Scene();
                 scene.fog = new THREE.FogExp2(CONFIG.COLORS.BG, 0.015);
                 scene.background = new THREE.Color(CONFIG.COLORS.BG);
@@ -1721,6 +1709,9 @@
 
                 setTimeout(() => {
                     // Logic behind the curtain
+                    document.body.style.touchAction = 'none'; // FIX: Lock scroll during gameplay
+                    if (STATE.mobile) document.getElementById('mobile-controls').style.display = 'block'; // FIX: Show joysticks only when playing
+
                     document.getElementById('start-screen').style.display = 'none';
                     document.getElementById('hud').classList.remove('hidden');
                     document.body.style.cursor = 'none'; 
@@ -1748,6 +1739,8 @@
         
         function resetGame() {
             STATE.isRunning = false; STATE.paused = false;
+            document.body.style.touchAction = 'auto'; // FIX: Unlock scroll on reset
+
             document.getElementById('pause-screen').classList.add('hidden'); document.getElementById('pause-screen').classList.remove('flex');
             
             if(spawnInterval) clearInterval(spawnInterval);
@@ -1780,6 +1773,7 @@
 
         function gameOver() {
             playSound('ui_over'); STATE.isRunning = false;
+            document.body.style.touchAction = 'auto'; // FIX: Unlock scroll on game over
             
             // Show Game Over screen, Restore system cursor
             document.getElementById('game-over').classList.remove('hidden'); document.getElementById('game-over').classList.add('flex');

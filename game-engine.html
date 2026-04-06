@@ -521,20 +521,31 @@
             }
         }
 
+        function safeRequestFullscreen() {
+            try {
+                if (document.documentElement.requestFullscreen) {
+                    document.documentElement.requestFullscreen().catch(err => {});
+                } else if (document.documentElement.webkitRequestFullscreen) {
+                    document.documentElement.webkitRequestFullscreen();
+                }
+            } catch (e) {}
+        }
+
         function toggleFullscreen() {
-            if (!document.fullscreenElement) {
-                document.documentElement.requestFullscreen().catch(err => {
-                    console.log(`Error attempting to enable full-screen mode: ${err.message} (${err.name})`);
-                });
+            if (!document.fullscreenElement && !document.webkitFullscreenElement) {
+                safeRequestFullscreen();
             } else {
-                if (document.exitFullscreen) document.exitFullscreen();
+                try {
+                    if (document.exitFullscreen) document.exitFullscreen();
+                    else if (document.webkitExitFullscreen) document.webkitExitFullscreen();
+                } catch (e) {}
             }
         }
 
         function updateFullscreenIcon() {
             const maxIcon = document.getElementById('icon-maximize');
             const minIcon = document.getElementById('icon-minimize');
-            if (document.fullscreenElement) {
+            if (document.fullscreenElement || document.webkitFullscreenElement) {
                 maxIcon.classList.add('hidden');
                 minIcon.classList.remove('hidden');
             } else {
@@ -819,7 +830,7 @@
                     updateFullscreenIcon();
                     keys.w = 0; keys.a = 0; keys.s = 0; keys.d = 0; keys.click = 0;
                     
-                    if (!document.fullscreenElement && STATE.isRunning && !STATE.paused) {
+                    if (!document.fullscreenElement && !document.webkitFullscreenElement && STATE.isRunning && !STATE.paused) {
                         togglePause();
                     }
                 });
@@ -1563,8 +1574,8 @@
                 if (p.type === 'snow' || p.type === 'fire') {
                     if (p.mesh.position.y <= 0) {
                         playImpactSound(); 
-                        if(p.type === 'snow') { showNotification("FROST IMPACT"); if(playerMesh.position.distanceTo(p.mesh.position) < 10) { hitPlayer(4); PLAYER.frozenTimer = 0.5; } } 
-                        else { if(playerMesh.position.distanceTo(p.mesh.position) < 12) hitPlayer(1.5); }
+                        if(p.type === 'snow') { showNotification("FROST IMPACT"); if(playerMesh.position.distanceTo(p.mesh.position) < 10) { hitPlayer(2); PLAYER.frozenTimer = 0.5; } } 
+                        else { if(playerMesh.position.distanceTo(p.mesh.position) < 12) hitPlayer(0.75); }
                         scene.remove(p.mesh); 
                         const wave = new THREE.Mesh(new THREE.RingGeometry(1, 15, 32), new THREE.MeshBasicMaterial({color: p.type === 'snow' ? 0x00ffff : 0xffaa00, transparent: true, opacity: 0.5}));
                         wave.rotation.x = -Math.PI/2; wave.position.set(p.mesh.position.x, 0.2, p.mesh.position.z);
@@ -1689,16 +1700,24 @@
                 document.body.style.touchAction = 'none';
                 if (STATE.mobile) document.getElementById('mobile-controls').style.display = 'block';
 
-                if (!document.fullscreenElement) {
-                    document.documentElement.requestFullscreen().catch(err => {});
-                }
+                try {
+                    if (!document.fullscreenElement && document.documentElement.requestFullscreen) {
+                        document.documentElement.requestFullscreen().catch(err => {});
+                    } else if (document.documentElement.webkitRequestFullscreen) {
+                        document.documentElement.webkitRequestFullscreen();
+                    }
+                } catch(e) {}
             }
         }
 
         function startGame() {
-            if (!document.fullscreenElement) {
-                document.documentElement.requestFullscreen().catch(err => console.log(err));
-            }
+            try {
+                if (!document.fullscreenElement && document.documentElement.requestFullscreen) {
+                    document.documentElement.requestFullscreen().catch(err => {});
+                } else if (document.documentElement.webkitRequestFullscreen) {
+                    document.documentElement.webkitRequestFullscreen();
+                }
+            } catch(e) {}
 
             initAudio(); 
             const bgm = document.getElementById('bgm');

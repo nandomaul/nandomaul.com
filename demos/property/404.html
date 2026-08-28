@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/assets/brand/logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Halaman Tidak Ditemukan | Rumah Subsidi Bogor</title>
+
+    <style>
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+
+      body {
+        min-height: 100vh;
+        font-family: Arial, Helvetica, sans-serif;
+        background:
+          radial-gradient(circle at top right, rgba(212, 175, 55, 0.22), transparent 32%),
+          radial-gradient(circle at bottom left, rgba(45, 106, 79, 0.22), transparent 30%),
+          #f7f7f3;
+        color: #0f2922;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 24px;
+      }
+
+      .card {
+        width: 100%;
+        max-width: 560px;
+        background: rgba(255, 255, 255, 0.92);
+        border: 1px solid rgba(15, 41, 34, 0.08);
+        border-radius: 32px;
+        box-shadow: 0 24px 70px rgba(15, 41, 34, 0.16);
+        padding: 36px 28px;
+        text-align: center;
+        overflow: hidden;
+        position: relative;
+      }
+
+      .card::before {
+        content: "";
+        position: absolute;
+        inset: 0 0 auto 0;
+        height: 8px;
+        background: linear-gradient(90deg, #0f2922, #2d6a4f, #d4af37);
+      }
+
+      .logo-wrap {
+        width: 92px;
+        height: 92px;
+        margin: 0 auto 22px;
+        background: #ffffff;
+        border-radius: 24px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 12px 30px rgba(15, 41, 34, 0.12);
+        border: 1px solid #e9efea;
+      }
+
+      .logo-wrap img {
+        max-width: 72px;
+        max-height: 72px;
+        object-fit: contain;
+      }
+
+      .eyebrow {
+        display: inline-block;
+        background: #f4f7f5;
+        color: #1b4d3e;
+        border: 1px solid #e9efea;
+        padding: 8px 14px;
+        border-radius: 999px;
+        font-size: 11px;
+        font-weight: 800;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+        margin-bottom: 18px;
+      }
+
+      h1 {
+        font-size: clamp(48px, 13vw, 96px);
+        line-height: 0.9;
+        font-weight: 900;
+        color: #1b4d3e;
+        margin-bottom: 14px;
+      }
+
+      h2 {
+        font-size: clamp(24px, 6vw, 36px);
+        line-height: 1.12;
+        font-weight: 900;
+        color: #0f2922;
+        margin-bottom: 14px;
+      }
+
+      p {
+        color: #5f6f69;
+        font-size: 15px;
+        line-height: 1.7;
+        max-width: 430px;
+        margin: 0 auto 26px;
+      }
+
+      .buttons {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 12px;
+      }
+
+      a {
+        text-decoration: none;
+      }
+
+      .btn-primary,
+      .btn-secondary {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 52px;
+        padding: 14px 20px;
+        border-radius: 18px;
+        font-weight: 900;
+        font-size: 14px;
+        transition: 0.2s ease;
+      }
+
+      .btn-primary {
+        background: #1b4d3e;
+        color: #ffffff;
+        box-shadow: 0 12px 28px rgba(27, 77, 62, 0.25);
+      }
+
+      .btn-primary:hover {
+        background: #0f2922;
+        transform: translateY(-2px);
+      }
+
+      .btn-secondary {
+        background: #25d366;
+        color: #ffffff;
+        box-shadow: 0 12px 28px rgba(37, 211, 102, 0.22);
+      }
+
+      .btn-secondary:hover {
+        background: #1ebd5c;
+        transform: translateY(-2px);
+      }
+
+      .note {
+        margin-top: 22px;
+        font-size: 12px;
+        color: #8a9993;
+      }
+
+      @media (min-width: 560px) {
+        .card {
+          padding: 44px 42px;
+        }
+
+        .buttons {
+          grid-template-columns: 1fr 1fr;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <main class="card">
+      <div class="logo-wrap">
+        <img src="/assets/brand/logo.png" alt="Rumah Subsidi Bogor" />
+      </div>
+
+      <div class="eyebrow">Rumah Subsidi Bogor</div>
+
+      <h1>404</h1>
+
+      <h2>Halaman tidak ditemukan</h2>
+
+      <p>
+        Sepertinya halaman yang kamu cari sudah pindah, salah alamat, atau belum tersedia.
+        Tenang, kamu bisa kembali ke halaman utama atau langsung hubungi marketing.
+      </p>
+
+      <div class="buttons">
+        <a class="btn-primary" href="/">Kembali ke Beranda</a>
+        <a
+          class="btn-secondary"
+          href="https://wa.me/62811826090?text=Halo%20Admin%2C%20saya%20tertarik%20dengan%20promo%20Rumah%20Subsidi%20Pesona%20Bunga%20Cibatok."
+          target="_blank"
+          rel="noreferrer"
+        >
+          Hubungi Marketing
+        </a>
+      </div>
+
+      <div class="note">
+        Pesona Bunga Cibatok · View Pegunungan Sejuk dan Asri
+      </div>
+    </main>
+  </body>
+</html>

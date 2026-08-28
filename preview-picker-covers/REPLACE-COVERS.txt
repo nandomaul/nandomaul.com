@@ -1,0 +1,18 @@
+REPLACE THESE EIGHT JPG FILES WITH YOUR FINAL COVER ART
+
+Recommended size: 1600 x 900 px (16:9 landscape)
+Keep the filenames exactly the same:
+
+01-rumah-subsidi.jpg
+02-intos.jpg
+03-zeemy.jpg
+04-kreavityworks.jpg
+05-khabila-kitchen.jpg
+06-porprov.jpg
+07-gaknyampe.jpg
+08-3d-game.jpg
+
+Folder in the project:
+public/preview-picker-covers/
+
+The All Previews / Choose a system screen reads these files directly.

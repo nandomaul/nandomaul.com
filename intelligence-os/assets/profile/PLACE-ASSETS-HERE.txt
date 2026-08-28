@@ -1,0 +1,2 @@
+Optional asset:
+- avatar.png (recommended 500x500)

@@ -1,0 +1,13 @@
+UI icons are selected from the Adwaita icon theme by the GNOME Project.
+Source: https://www.gnome.org/
+License: LGPL-3.0 or CC-BY-SA-3.0 / CC-BY-SA-4.0.
+
+V24 adds go-home-symbolic, object-rotate-right-symbolic, and view-list-symbolic
+from the same locally installed Adwaita icon theme.
+
+V27 adds mail-unread-symbolic from the same Adwaita icon theme.
+
+V25 uses Bootstrap Icons 1.13.1 for laptop, phone, zoom in, zoom out,
+external link, GitHub, and LinkedIn icons.
+Source: https://icons.getbootstrap.com/
+License: MIT.

@@ -1,0 +1,4 @@
+Optional assets:
+- logo.png
+- hero-loop.webm
+- hero-loop.mp4

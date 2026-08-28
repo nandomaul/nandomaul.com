@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+
+    <!-- GitHub Pages SPA Route Recovery -->
+    <script>
+      (function (location) {
+        if (!location.search.startsWith('?/')) {
+          return;
+        }
+
+        const decodedRoute = location.search
+          .slice(2)
+          .split('&')
+          .map(function (segment) {
+            return segment.replace(/~and~/g, '&');
+          });
+
+        const routePath = decodedRoute.shift() || '';
+        const queryString = decodedRoute.length
+          ? '?' + decodedRoute.join('&')
+          : '';
+
+        window.history.replaceState(
+          null,
+          '',
+          '/' + routePath + queryString + location.hash
+        );
+      })(window.location);
+    </script>
+
+    <link
+      rel="icon"
+      type="image/png"
+      href="/demos/property/assets/brand/favicon-rumahsubsidi.png?v=13"
+    />
+
+    <link
+      rel="apple-touch-icon"
+      href="/demos/property/assets/brand/favicon-rumahsubsidi.png?v=13"
+    />
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+
+    <meta
+      name="theme-color"
+      content="#0F2922"
+    />
+
+    <title>
+      Rumah Subsidi Bogor - Pesona Bunga Cibatok
+    </title>
+
+    <meta
+      name="description"
+      content="Rumah Subsidi Pesona Bunga Cibatok, Bogor. DP 0 Rupiah, booking Rp500 ribu, dan angsuran mulai 1 juta-an per bulan."
+    />
+
+    <!-- Open Graph / WhatsApp Preview -->
+    <meta
+      property="og:type"
+      content="website"
+    />
+
+    <meta
+      property="og:site_name"
+      content="Rumah Subsidi Bogor"
+    />
+
+    <meta
+      property="og:locale"
+      content="id_ID"
+    />
+
+    <meta
+      property="og:title"
+      content="Rumah Subsidi Bogor - Pesona Bunga Cibatok"
+    />
+
+    <meta
+      property="og:description"
+      content="DP 0 Rupiah • Booking Rp500 ribu • Angsuran mulai 1 juta-an • Cibatok, Bogor"
+    />
+
+    <meta
+      property="og:url"
+      content="https://subsidirumahbogor.com/"
+    />
+
+    <meta
+      property="og:image"
+      content="https://subsidirumahbogor.com/assets/brand/logowhatapps.png?v=13"
+    />
+
+    <meta
+      property="og:image:secure_url"
+      content="https://subsidirumahbogor.com/assets/brand/logowhatapps.png?v=13"
+    />
+
+    <meta
+      property="og:image:type"
+      content="image/png"
+    />
+
+    <meta
+      property="og:image:width"
+      content="1200"
+    />
+
+    <meta
+      property="og:image:height"
+      content="630"
+    />
+
+    <meta
+      property="og:image:alt"
+      content="Rumah Subsidi Bogor Pesona Bunga Cibatok"
+    />
+
+    <!-- Twitter -->
+    <meta
+      name="twitter:card"
+      content="summary_large_image"
+    />
+
+    <meta
+      name="twitter:title"
+      content="Rumah Subsidi Bogor - Pesona Bunga Cibatok"
+    />
+
+    <meta
+      name="twitter:description"
+      content="DP 0 Rupiah • Booking Rp500 ribu • Angsuran mulai 1 juta-an • Cibatok, Bogor"
+    />
+
+    <meta
+      name="twitter:image"
+      content="https://subsidirumahbogor.com/assets/brand/logowhatapps.png?v=13"
+    />
+
+    <!-- Basic SEO -->
+    <link
+      rel="canonical"
+      href="https://subsidirumahbogor.com/"
+    />
+    <script type="module" crossorigin src="/demos/property/assets/index-GDpIjEri.js"></script>
+    <link rel="stylesheet" crossorigin href="/demos/property/assets/index-BQBMxnkb.css">
+  </head>
+
+  <body>
+    <div id="root"></div>
+
+  <script src="/portfolio-demo-safety.js"></script>
+  <script src="/demos/property/property-polish.js"></script></body>
+</html>

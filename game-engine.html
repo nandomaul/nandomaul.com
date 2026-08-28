@@ -21,8 +21,9 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700;900&family=Share+Tech+Mono&display=swap');
         
-        body { 
-            margin: 0; overflow: hidden; background-color: #050505; 
+        html, body {
+            width: 100%; height: 100%; min-height: 100%;
+            margin: 0; overflow: hidden; background-color: #050505;
             font-family: 'Rajdhani', sans-serif;
             user-select: none; cursor: default;
         }
@@ -30,9 +31,9 @@
         .font-tech { font-family: 'Share Tech Mono', monospace; }
         .font-raj { font-family: 'Rajdhani', sans-serif; font-weight: 700; }
 
-        #canvas-container { 
-            width: 100vw; height: 120vh; position: absolute; top: 50%; left: 50%; 
-            transform: translate(-50%, -50%); z-index: 1;
+        #canvas-container {
+            position: fixed; z-index: 1; inset: 0;
+            width: 100%; height: 100%; min-height: 100dvh;
         }
         
         .ui-layer { position: absolute; z-index: 10; pointer-events: none; }
@@ -202,7 +203,7 @@
         }
         @keyframes pulseText { 0%, 100% { opacity: 0.8; } 50% { opacity: 1; text-shadow: 0 0 20px cyan; } }
 
-        #pause-screen, #hud, #start-screen, #game-over, #frost-overlay { height: 100vh; bottom: 0; top: auto; }
+        #pause-screen, #hud, #start-screen, #game-over, #frost-overlay { height: 100%; min-height: 100dvh; bottom: 0; top: auto; }
 
         .controls-list {
             margin-top: 20px; display: grid; grid-template-columns: 1fr 1fr; gap: 10px 20px;
@@ -231,7 +232,7 @@
 </head>
 <body>
 
-    <audio id="bgm" src="public/11-musicgame/musicbackground.mp3" loop onerror="console.log('BGM ERROR');"></audio>
+    <audio id="bgm" loop></audio>
     <div id="black-curtain"></div>
 
     <div id="canvas-container"></div>
@@ -846,7 +847,19 @@
                 composer.render();
                 animate();
 
-            } catch (e) { console.error(e); }
+            } catch (e) {
+                console.error(e);
+                const start = document.getElementById('start-screen');
+                const playButton = document.getElementById('btn-start');
+                if (start) start.style.display = 'flex';
+                if (playButton) {
+                    playButton.disabled = true;
+                    playButton.textContent = 'WEBGL REQUIRED';
+                    playButton.title = 'Open this build in a browser with WebGL enabled to play.';
+                    playButton.style.opacity = '0.55';
+                    playButton.style.cursor = 'not-allowed';
+                }
+            }
         }
 
         function onResize() {
@@ -1700,25 +1713,10 @@
                 document.body.style.touchAction = 'none';
                 if (STATE.mobile) document.getElementById('mobile-controls').style.display = 'block';
 
-                try {
-                    if (!document.fullscreenElement && document.documentElement.requestFullscreen) {
-                        document.documentElement.requestFullscreen().catch(err => {});
-                    } else if (document.documentElement.webkitRequestFullscreen) {
-                        document.documentElement.webkitRequestFullscreen();
-                    }
-                } catch(e) {}
             }
         }
 
         function startGame() {
-            try {
-                if (!document.fullscreenElement && document.documentElement.requestFullscreen) {
-                    document.documentElement.requestFullscreen().catch(err => {});
-                } else if (document.documentElement.webkitRequestFullscreen) {
-                    document.documentElement.webkitRequestFullscreen();
-                }
-            } catch(e) {}
-
             initAudio(); 
             const bgm = document.getElementById('bgm');
             if(bgm) {
@@ -1863,5 +1861,5 @@
         
         init();
     </script>
-</body>
+<script src="/portfolio-demo-safety.js"></script></body>
 </html>

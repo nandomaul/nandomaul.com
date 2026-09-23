@@ -1,0 +1,7 @@
+Optional looping logo videos:
+
+nando-logo-desktop.mp4
+nando-logo-mobile.mp4
+
+Recommended export: square 1000x1000 H.264 MP4, no audio, seamless loop.
+public/brand/nando-logo-white.png remains the permanent fallback while video loads or when video is unavailable.

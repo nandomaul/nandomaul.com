@@ -1,0 +1,18 @@
+Place optional hover videos in this folder.
+
+The portfolio keeps each PNG cover visible when a matching MP4 is absent or fails to load.
+On pointer devices, a valid video starts after 1.5 seconds of hover.
+Video hover is intentionally disabled on mobile, coarse pointers, and reduced-motion mode.
+
+Expected filenames:
+adf-system.mp4
+rumah-subsidi.mp4
+intos.mp4
+zeemy.mp4
+kreavityworks.mp4
+khabila-kitchen.mp4
+porprov.mp4
+gaknyampe.mp4
+neon-chaos.mp4
+
+Recommended export: H.264 MP4, no audio, 1600x1000, 4-10 seconds, under 8 MB.

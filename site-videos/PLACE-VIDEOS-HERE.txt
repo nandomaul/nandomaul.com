@@ -1,0 +1,7 @@
+Optional Design Philosophy background videos:
+
+design-philosophy-desktop.mp4  - recommended 1920x1080
+design-philosophy-mobile.mp4   - recommended 1080x1920
+
+Use H.264 MP4, muted/no audio, seamless loop, and keep the first frame dark.
+The section remains black when either video is missing or still loading.

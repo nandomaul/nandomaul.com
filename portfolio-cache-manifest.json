@@ -1,0 +1,4182 @@
+{
+  "version": "46a737fad6a51a73",
+  "assets": [
+    {
+      "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
+      "bytes": 112594,
+      "hash": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/0m4lk93awlr0x.css",
+      "bytes": 3609,
+      "hash": "054855a19bca040dfc6f671baa879124424c77eac628b0ffa2f955090b544672",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/0umf92h1sb77c.js",
+      "bytes": 13822,
+      "hash": "c410d0f2543e080768fc14f73b2bd1fdf103e26956e9730390b5e41c4fb5ff8b",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/1gwud4t10r9jf.css",
+      "bytes": 284246,
+      "hash": "648a7ca00dbc292c598db4482ad090b5d40024cdef3144828d4dffe3275daf31",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/1vsdhxn4ytqv8.js",
+      "bytes": 126953,
+      "hash": "4758c2ad78013caffeb1aed802215000dbb984b6bf77a5ebb2c3b8cb0d2e6420",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/2vlgjjnsppgna.js",
+      "bytes": 181923,
+      "hash": "ce47fb918b440fc409e311e09f1bbd48479977775caefe6bbf3ba6565ca1e826",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/3333gs1h_w689.js",
+      "bytes": 20744,
+      "hash": "f6336c96d8c18e4b5dc252c99b1304c07e339b0db5d9cf37806728cf6d57d9ce",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/3dmm3v_fq28gc.js",
+      "bytes": 229820,
+      "hash": "12c72318dee8d15a8fc5ea65c908da89cbbbfdc3ec455040db8b2fd3d2e7e0f8",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
+      "bytes": 10030,
+      "hash": "8bbb58cbfd4633c1d828c6bc37bc32abc768a149c01b1dfc4f5131fd81274551",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/media/4fa387ec64143e14-s.2tuy5pz7dlieh.woff2",
+      "bytes": 12872,
+      "hash": "75b3bedbebc35f347c0ae3b416aa871941555357e7b0f83767eb5987875589ed",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/media/53b9e256198e5412-s.390ncx5urfkfu.woff2",
+      "bytes": 7968,
+      "hash": "f689f638f29fff460a2d5749edb5d5c38d7bef0389f32032d871f23fc6ebb008",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/media/5ce348bf30bf5439-s.31988l_ccedte.woff2",
+      "bytes": 6204,
+      "hash": "e27f657e38d52887baa3b6b2f812bef93dfdd356f0810e40edd4ee284cc7e9f6",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/media/6306c77e7c8268e4-s.2dbetqa9o8jxf.woff2",
+      "bytes": 5892,
+      "hash": "d67e4a94ba498635f764ddca7d1ec4271f5642f032eb24b426764480f66f8497",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/media/7178b3e590c64307-s.21jp631_3pja2.woff2",
+      "bytes": 16540,
+      "hash": "58a6b173d5ca1dec92166ea3c6cb1a84a4144556d10928ac14e8e6b40e4787bd",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2",
+      "bytes": 23108,
+      "hash": "5f3d6ad60f29d6cb708414ec6887163d63bf197377ef5417d2483ff31ace6c3b",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/media/7d817b4c03b0c5f1-s.1uyisp29ctx0d.woff2",
+      "bytes": 7728,
+      "hash": "16e1d48b6dd29eb240aec5db36184eb182933c082cd43de7f35af686d58087d2",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/media/8a480f0b521d4e75-s.1qq4vpdcun5oj.woff2",
+      "bytes": 14900,
+      "hash": "6129fc8571c3e0cb0a4c41f5160c974a843b055009dc4ad8858bd808e18a2d86",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/media/bbc41e54d2fcbd21-s.1rgnod-3esatf.woff2",
+      "bytes": 14712,
+      "hash": "745994b5cd950ec201b66526375f057d540847cccfc70f4f24f5f571d26d3923",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2",
+      "bytes": 29288,
+      "hash": "9b6f5ff45b278c744b5f379a2c4ecbaf858a842b8eaf82ac8d21b699ca16c608",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/media/fef07dbb0973bf53-s.3p2_lha1f2xer.woff2",
+      "bytes": 7252,
+      "hash": "b7a545bbb08256bd809f11cfe66d88da3e22d169ea4407737b1ef0ec1ed3d791",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/oBTMmlFA4bricVZdsx-BT/_buildManifest.js",
+      "bytes": 219,
+      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/oBTMmlFA4bricVZdsx-BT/_clientMiddlewareManifest.js",
+      "bytes": 96,
+      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/oBTMmlFA4bricVZdsx-BT/_ssgManifest.js",
+      "bytes": 107,
+      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
+      "priority": 0
+    },
+    {
+      "path": "/adf-portfolio-demo.js",
+      "bytes": 8369,
+      "hash": "c1b00e8ecd1d25874d260f14e1e6333a902bb79068776c0633553773502ad675",
+      "priority": 0
+    },
+    {
+      "path": "/adf-preview-redirect.js",
+      "bytes": 520,
+      "hash": "7dfa10da29ba550eadacc07b78b43df70dd854440b2a41a02f5af56bdbebae04",
+      "priority": 0
+    },
+    {
+      "path": "/admin/dashboard/index.html",
+      "bytes": 3442,
+      "hash": "e058644fe9a614c2f95b954920ca2e9748adb25b76e601e13a08656067c08da9",
+      "priority": 0
+    },
+    {
+      "path": "/admin/index.html",
+      "bytes": 3491,
+      "hash": "f82ef506105361be66e98e1471a58897af1e2a33ecd78f87f3319540460ccea2",
+      "priority": 0
+    },
+    {
+      "path": "/assets/index-B4krXeFY.js",
+      "bytes": 802344,
+      "hash": "b773b6ee5c308b63dba29cd1e2d2e517cb7f9d7b55a425d28f6c9c3f000868a2",
+      "priority": 0
+    },
+    {
+      "path": "/assets/index-BiT_jPba.css",
+      "bytes": 143508,
+      "hash": "436eb09605e9ce1fb53c9a9129eaeea065435f12784e771b89cc972ef28b7155",
+      "priority": 0
+    },
+    {
+      "path": "/assets/index-BLhZUKTb.css",
+      "bytes": 143239,
+      "hash": "e5bfe194b6db8d785997ebf2404ab204e40afb327d72e23422aae4579de5da55",
+      "priority": 0
+    },
+    {
+      "path": "/assets/index-BQcZPOU7.js",
+      "bytes": 951102,
+      "hash": "02c20d39993d76fe69794bc9434bbe2e775a42d85b6f480bd4685daa7177cc62",
+      "priority": 0
+    },
+    {
+      "path": "/assets/index-BT0aaQMH.js",
+      "bytes": 951392,
+      "hash": "c50f504fb6d6dc624073cb5f360f83f2a1fb71403340a3f821b2a6022d8a38a3",
+      "priority": 0
+    },
+    {
+      "path": "/assets/index-CJ9Uvhaz.css",
+      "bytes": 128072,
+      "hash": "b4a6ce4e054d90cf63adc219df77c14cbcf404a9bbbe7995d28cf94a17f67e4c",
+      "priority": 0
+    },
+    {
+      "path": "/assets/index-D9U-h9Vw.js",
+      "bytes": 951181,
+      "hash": "a14ea46c827ac190d96d997124852ae6b547f536962e3c91638bef4c6bd89636",
+      "priority": 0
+    },
+    {
+      "path": "/assets/index-Dcp55dyJ.js",
+      "bytes": 946398,
+      "hash": "2e7b18d57d6592e401bb30592d20a06ea16e03ef5ff664967db778919fbd9a00",
+      "priority": 0
+    },
+    {
+      "path": "/assets/index-DmZHCV2b.js",
+      "bytes": 946670,
+      "hash": "95a9ed9b2b56f16404fce1396d0d3f0f0c4a94869042f98de49fbc5279472ce8",
+      "priority": 0
+    },
+    {
+      "path": "/assets/index-DT-yQ_RX.js",
+      "bytes": 951184,
+      "hash": "9f59e9d462e52fd976a04aa0fc287975fbca2ef367951e94188f298b33cb35da",
+      "priority": 0
+    },
+    {
+      "path": "/assets/index-DV_Py-K_.js",
+      "bytes": 951764,
+      "hash": "0122780347e9013ea800f762199454e8548f42016bfb41190327080a086a2d28",
+      "priority": 0
+    },
+    {
+      "path": "/assets/index-dZxtKxfQ.css",
+      "bytes": 173224,
+      "hash": "41d521a0959853b0c975a59512c64e0f9270cd0d19a0bc89d18b2e914e729d68",
+      "priority": 0
+    },
+    {
+      "path": "/avatar/fotoprofile1.png",
+      "bytes": 2311405,
+      "hash": "0f2cb6b0dc0850d838d5c2fdcfc9f5484b24321765d43c4fc358a5300a2e5dbd",
+      "priority": 1
+    },
+    {
+      "path": "/avatar/fotoprofile10.png",
+      "bytes": 911698,
+      "hash": "46f711bd0e877526c0d363823039b2b42f3430748596127e11633b8c84566f52",
+      "priority": 1
+    },
+    {
+      "path": "/avatar/fotoprofile11.png",
+      "bytes": 955496,
+      "hash": "e95a805c63bc8c7e2c3c21180d14a6bebc4418a05934af1799e4e94307529d14",
+      "priority": 1
+    },
+    {
+      "path": "/avatar/fotoprofile12.png",
+      "bytes": 814330,
+      "hash": "4c4aa07243e0a1ad15ef4f98fe553964c23a495aa7028e639f15dfb4cf4e48fd",
+      "priority": 1
+    },
+    {
+      "path": "/avatar/fotoprofile13.png",
+      "bytes": 1449066,
+      "hash": "bf4d677314129b506b5afc1b936104129a6fa51d986e91459ab51b7f3524c9ab",
+      "priority": 1
+    },
+    {
+      "path": "/avatar/fotoprofile14.png",
+      "bytes": 1254835,
+      "hash": "d1ea73ee3fc8f424a6ef61abd1bc4e28fe370983548c4fba6ad885c9c7b21c44",
+      "priority": 1
+    },
+    {
+      "path": "/avatar/fotoprofile15.png",
+      "bytes": 975130,
+      "hash": "a04960bf8c0159a74f685f47b5c45fb71b1ca5afe845c5db413a6179657450e9",
+      "priority": 1
+    },
+    {
+      "path": "/avatar/fotoprofile2.png",
+      "bytes": 2311090,
+      "hash": "4e5d1754aa51fecd7aeae084406cce1f5d15121492e183efb525dc8b593e39f2",
+      "priority": 1
+    },
+    {
+      "path": "/avatar/fotoprofile3.png",
+      "bytes": 2356503,
+      "hash": "6c24f61917daa49358868162edb8f00abb3a22e1987da6c902b277e21e69454b",
+      "priority": 1
+    },
+    {
+      "path": "/avatar/fotoprofile4.png",
+      "bytes": 2706850,
+      "hash": "f02e74fb82785ffd863e0f130821b853fe05e58c5615beba98ad933985c0bc95",
+      "priority": 1
+    },
+    {
+      "path": "/avatar/fotoprofile5.png",
+      "bytes": 2829136,
+      "hash": "c2cb1c9e98ecb5463c8f51ab5a67d00cb3bfe42f435e157126c77928bc1f88d4",
+      "priority": 1
+    },
+    {
+      "path": "/avatar/fotoprofile6.png",
+      "bytes": 1457077,
+      "hash": "ce43806f48a8fb9d3b0c62a03915ac5437091888b22163c1ed0a0dd2b3d3abfd",
+      "priority": 1
+    },
+    {
+      "path": "/avatar/fotoprofile7.png",
+      "bytes": 1341727,
+      "hash": "aabf6ad5642c525f9380d16034127fe66b017a05812be96207dfd4b777124be2",
+      "priority": 1
+    },
+    {
+      "path": "/avatar/fotoprofile8.png",
+      "bytes": 1121409,
+      "hash": "d61c58b1d1a9a17340d7b4eb18db0449583b030247bc460a2b6b7a2f7cd4809d",
+      "priority": 1
+    },
+    {
+      "path": "/avatar/fotoprofile9.png",
+      "bytes": 1405103,
+      "hash": "e078133ee206df70a2aecca821a84d3a1f5f2d708bb00f766f63461151094bb7",
+      "priority": 1
+    },
+    {
+      "path": "/brand/adfsitelogo.png",
+      "bytes": 106912,
+      "hash": "8637dc0f996739fe073e41e876c7953f1d178267657015db0f4726bcbf2a3801",
+      "priority": 1
+    },
+    {
+      "path": "/brand/favicon-new%2010.32.02.png",
+      "bytes": 40289,
+      "hash": "b60c9c4abca18aaa837d2f304d57359efc43f21d106ae4c38f93438e2e35f721",
+      "priority": 1
+    },
+    {
+      "path": "/brand/favicon-new%2010.32.55.png",
+      "bytes": 140078,
+      "hash": "d9af1013993e9ba73baf18e16c84ecd98f0b9a03fd4e2455f5cd8e6f033efd27",
+      "priority": 1
+    },
+    {
+      "path": "/brand/nando-logo-black.png",
+      "bytes": 66439,
+      "hash": "6eb8ceecc5a1a2bb383d9d81e8dc4d17f262911b1fc8f2a5c8cf58ece9e8a0a5",
+      "priority": 1
+    },
+    {
+      "path": "/brand/nando-logo-white.png",
+      "bytes": 16257,
+      "hash": "5305e08e1c04d46825e1370399b077d2558d4896e8403f17e73779961619fbdb",
+      "priority": 1
+    },
+    {
+      "path": "/brand/popup1.png",
+      "bytes": 197350,
+      "hash": "ba3a05b59d8182932086cc03e1821a98b671982b57bba38e6c68b007653e5dcc",
+      "priority": 1
+    },
+    {
+      "path": "/brand/previewtask.png",
+      "bytes": 253762,
+      "hash": "c5a1287ed7adf20729d946009f63c900d308307a3c17217daab6b8d9e45fd014",
+      "priority": 1
+    },
+    {
+      "path": "/brand/previewtask2.png",
+      "bytes": 764987,
+      "hash": "2a21dd9a9d83c206c6c240c29ce9f0f769aa41ddd9484e77c53e443c1aa3e0f4",
+      "priority": 1
+    },
+    {
+      "path": "/brand/previewtask3.png",
+      "bytes": 235758,
+      "hash": "3c1439e1056920893e7b30042b81bac41b0e7e031d575aad19afd76d3da5e8dc",
+      "priority": 1
+    },
+    {
+      "path": "/brand/previewtask5.png",
+      "bytes": 4274156,
+      "hash": "56935642ccf1d1c7f43175237ae6845d27cf126700316dffe4de0d708d73783e",
+      "priority": 1
+    },
+    {
+      "path": "/catalog/index.html",
+      "bytes": 322,
+      "hash": "9ccdfe90074188dbe1bd50fe00b93fcb184a82a209ff788b1cc5868ab151a209",
+      "priority": 0
+    },
+    {
+      "path": "/content-assets/realme-logo-black.png",
+      "bytes": 58943,
+      "hash": "5c6ede4ccb741ea3a239282b907c174d6dab73a0c699888028244813d75250c2",
+      "priority": 1
+    },
+    {
+      "path": "/content-assets/realme-logo-white.png",
+      "bytes": 62058,
+      "hash": "8e3f9d8675ac72c649319a5b8236859568b1b8cd40ea0904a606d2a6f4f43a88",
+      "priority": 1
+    },
+    {
+      "path": "/content-assets/realme-top-gradient.png",
+      "bytes": 102741,
+      "hash": "0be754ba395276fa93c5ac2aff9701f83960f4a0712e46c147d99312a9b87a24",
+      "priority": 1
+    },
+    {
+      "path": "/content-demo/content-ready-01.png",
+      "bytes": 730120,
+      "hash": "6127caa01ea7df4cf7901a90a351ed61bbefcc4733470deb48737f253b520380",
+      "priority": 1
+    },
+    {
+      "path": "/content-demo/content-ready-02.png",
+      "bytes": 4448450,
+      "hash": "31b42425ea8ee883f846e4b343f6c79f3d8df889b2d6e6f5e5dcb126904ba056",
+      "priority": 1
+    },
+    {
+      "path": "/content-demo/content-ready-03.png",
+      "bytes": 2223128,
+      "hash": "63af4bee04d290302fcadde55482b48b281eb0d990d9e25b729368878e64d37c",
+      "priority": 1
+    },
+    {
+      "path": "/content-demo/content-ready-04.png",
+      "bytes": 709027,
+      "hash": "06df28fbb7130f1d76a0ab3e3657c068c534a93faf11c94453d92fac27335bd6",
+      "priority": 1
+    },
+    {
+      "path": "/content-demo/creator-upload-01.png",
+      "bytes": 730120,
+      "hash": "6127caa01ea7df4cf7901a90a351ed61bbefcc4733470deb48737f253b520380",
+      "priority": 1
+    },
+    {
+      "path": "/content-demo/creator-upload-02.png",
+      "bytes": 733794,
+      "hash": "9f08150ebd020d1fa72d49d34a828b484c91f77b54c2c301b43564ad2367e6a1",
+      "priority": 1
+    },
+    {
+      "path": "/content-demo/creator-upload-03.png",
+      "bytes": 709027,
+      "hash": "06df28fbb7130f1d76a0ab3e3657c068c534a93faf11c94453d92fac27335bd6",
+      "priority": 1
+    },
+    {
+      "path": "/content-fonts/Gilroy-ExtraBold.otf",
+      "bytes": 54956,
+      "hash": "78c530ab1837ec31c93f8b0c8060a103dcae39b7f2c15ad44a860e495064d363",
+      "priority": 1
+    },
+    {
+      "path": "/content-fonts/Gilroy-Light.otf",
+      "bytes": 54704,
+      "hash": "de1f8bbfdc696bb3144eff382064122aaadf21924f366d88db1106012efeaee1",
+      "priority": 1
+    },
+    {
+      "path": "/content-marketing/index.html",
+      "bytes": 322,
+      "hash": "9ccdfe90074188dbe1bd50fe00b93fcb184a82a209ff788b1cc5868ab151a209",
+      "priority": 0
+    },
+    {
+      "path": "/dashboard/index.html",
+      "bytes": 322,
+      "hash": "9ccdfe90074188dbe1bd50fe00b93fcb184a82a209ff788b1cc5868ab151a209",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/_expo/static/js/web/entry-49c7277850628b03300ac76f388e41dc.js",
+      "bytes": 1887542,
+      "hash": "953b8e9d4f09fd574d9f6bcbc6eaa9d42d31dc17722e39a8391ab49681a52d39",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/_expo/static/js/web/entry-83b1eae3354f94e99b8f62d119ffa694.js",
+      "bytes": 1898107,
+      "hash": "02292dba6d1100293c9244b217d5a9b8cf9d79ead9392f690b5aa8fb7577ace9",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/_expo/static/js/web/index-494e77bfb9661b4d09b8e698429c26b8.js",
+      "bytes": 131892,
+      "hash": "70e3b2a1e991260ba249b02dd02f731cf0246dcdcd61af93e6a7d87bbc8f0e0d",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/_expo/static/js/web/index-b0dbe31216f7088542be5998f07d7f0e.js",
+      "bytes": 131892,
+      "hash": "5aff89608b1e196d2de5d5675042cb61d06e2ef231f9ad2f9c59839c7f29c597",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/_sitemap.html",
+      "bytes": 47565,
+      "hash": "58f08bb0592342093f3e0475d11f8b6fb53ba79a59f0cdf4b54a26da4020a710",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/%2Bnot-found.html",
+      "bytes": 47565,
+      "hash": "58f08bb0592342093f3e0475d11f8b6fb53ba79a59f0cdf4b54a26da4020a710",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/aktifitas.html",
+      "bytes": 56662,
+      "hash": "5c814deb60408e4efb4a322c731c50db977e4c597ee2df08544a048992ba04d8",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/aktivitas.html",
+      "bytes": 61523,
+      "hash": "4a456a4230e6c2e0cefc10c4ef0ab9f6282d0fe30ecc2c9cb53f426848922f61",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/games/nebeng-dulu.73dcaff844f3f98510529accf47365d8.html",
+      "bytes": 2214202,
+      "hash": "e0b3890d8ae39df9aad4bfc93a8617850254aaecede0c5f101a5f241c79f8fa1",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/chat-alien-selfie.c1f1d1879e51c656b0b38e28d931fb2a.png",
+      "bytes": 699955,
+      "hash": "10fd0e2e60772e010598f19696a6e402de4184d947da9dd1881062b6442d57a1",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/chat-bukti-pengantaran.89e9562f7cfc76c297df957b5fae10e2.png",
+      "bytes": 688470,
+      "hash": "a07f89af436c3061b5b5b1f8cf8bf3d82a18fb4d77efacbf7e2c8e5237d87c32",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/chat-dinosaurus.bdf25fad082a9db3585172eacab26718.png",
+      "bytes": 713766,
+      "hash": "159cf15014ebb77eeb3d457c6fc2dae557605fd5441c0f4a64762a935b052b75",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/chat-hujan-pribadi.ebf4494a878c3349f475225db51e6bbb.png",
+      "bytes": 636636,
+      "hash": "43e2fd836057674c4fb5a52a80d13ab84c2795e446c4d55ddb94a3b2e396bdec",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/chat-kurir-delman.c1b4d4b0d4a640700072e61d1c7f671c.png",
+      "bytes": 766271,
+      "hash": "b99b251fb94471131644882e93887dde1cb6df79b45471a607536340fcc0663e",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/chat-kurir-nyasar.da267cd30b47e7998b0746ba58e3a0a1.png",
+      "bytes": 882243,
+      "hash": "6e45fd3083eb7bffce3aa93e07e1414b1728a7228919cece2bf9ed73940603cc",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/chat-makanan-diambil.46a5fe8f8cff46272b492d76a0aed167.png",
+      "bytes": 798369,
+      "hash": "069cd2fbaf06459ca368b0860e9320958ba96a26b4414f3fbb782df84e8db781",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/chat-mulai-dimasak.78d79a6773e3af74186290e0053ebdf0.png",
+      "bytes": 635226,
+      "hash": "3af28546531388612380c807480e7f92ae64a30889f7a4b39d0526885fd5beb5",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/chat-pesanan-masuk.1bed333e703b62846886e0b70fc1a774.png",
+      "bytes": 701447,
+      "hash": "edef4f4d02190890410833d238391572e73502db81304a569fc2ce5b6f865ada",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/chat-quality-control.d6b14d68974a2419be127484de24939a.png",
+      "bytes": 752223,
+      "hash": "e3b7437795bb0e74ca95d0295d2f9e315382897eec02b1a3e68b0dc89c28e93a",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/chat-restoran-kabur.e6beb15a3bbe86e604526490c3cc6823.png",
+      "bytes": 688465,
+      "hash": "10b3ad0abaf5fb2ef14a4dab6a74bac39d9f549764252363ae791e5f3e83fa9d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/chat-rumah-mantan.6f54ccca5e3ef387ef4368425174f7ba.png",
+      "bytes": 689674,
+      "hash": "334f23743f7e874a56724fb05628e0c2f8e715025199c497c112ac2f322cd350",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/chat-sudah-dekat.2f804171c15fa723c3960632ff7dc6cb.png",
+      "bytes": 730930,
+      "hash": "eaeb7b5daf3c91ff6badf7aab578a4b277db393ed3c4e7c6fb9054d1b94a7216",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/chat-tidak-sampai.c3651a4577f0ddbb03f52d8287f93f58.png",
+      "bytes": 755861,
+      "hash": "f41893185b90515f53368fe2649cd098338c0fede417f42142c9ede343505c3d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/deals/deal-ongkir-muter.e588bee27e4cd1a483708622597bdb8a.png",
+      "bytes": 286577,
+      "hash": "d6fa62942a5d1c0f96ad1de252cc95f45d9827517be85adcb6a2a74e6d437eb8",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/deals/deal-rumah-mantan.067f1129fdfdb4249e43bb0b292407c0.png",
+      "bytes": 276246,
+      "hash": "266a0887951f024d15e4c9bbe8116011dd8c6d6e8ec46dccfb1c9b67edc3ee59",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/deals/deal-tengah-malam.be0542a05aa14acb899882aec0fb5cca.png",
+      "bytes": 251980,
+      "hash": "2d7e529ad8433e9b267716c84f078ec92a11aef038edb791cd0dcb83208264ca",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/donasi-kucing-terima-kasih.c3651a4577f0ddbb03f52d8287f93f58.png",
+      "bytes": 755861,
+      "hash": "f41893185b90515f53368fe2649cd098338c0fede417f42142c9ede343505c3d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food-malam-subuh.f0c3c20988af7368063bf454cd2bbc8e.png",
+      "bytes": 809625,
+      "hash": "b7386a35be7a14f6017b4eb87b9e766f64b306792bb485da058fbf9a665e238a",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/ayam-geprek.8cf13fa69c1c9399155dade0d4e5fe1f.jpg",
+      "bytes": 30774,
+      "hash": "5c632d49d5cf95a34fe839389f14b816a2a0b2f55a01893ba4ccf7ebb41da96a",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/bakso.03610f83a1baa6f172fa2c97f5353cd0.jpg",
+      "bytes": 25016,
+      "hash": "313ee7bfcdec4f3d6139f5d7751f0d20f1467658b63c5c591c99e15b62a2a308",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/bebek.41664594264db8122ecbd150ce04386a.jpg",
+      "bytes": 30198,
+      "hash": "e9958e3698144be0f9e30ddab9be450ab297ac365d9b487502f5d6ad29dc2f27",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/burger.5cdafab094e0e2022141756514cbe256.jpg",
+      "bytes": 30394,
+      "hash": "9c29ac45a312e82f01dd9325a826fb59743d4a54b336ae92a0e0e7cea9750e6f",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/cokelat.f34c660644fd90a764e33cc6bba8931c.jpg",
+      "bytes": 30778,
+      "hash": "b919895e436cd7804f3e35af3d8da0fbf2aebc55a4cdc372c11e5e92e903ec1d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/dimsum.97fb04e33b050e1e3946d978d0eb60bd.jpg",
+      "bytes": 24258,
+      "hash": "461f55933d24d479660656b943234e903bcb11f3e8be43d6658f8cd0765fa318",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/donat.a9391106c4885b9f8eb452c7c922b8a9.jpg",
+      "bytes": 26629,
+      "hash": "e75b032a9755d8a03846eef733e41c3443475e417977a3f864a06400b2cca6a9",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/es-krim.a1bf3d36e0884383c75de1b836df7cf1.jpg",
+      "bytes": 24509,
+      "hash": "a48e48713ca087e9bd01631b25b04e9bc575e22b5b4fb2f2bdf48e80b9810622",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/gado-gado.335211aa2a311ae778bc2161c89d3ebf.jpg",
+      "bytes": 32213,
+      "hash": "adf063875ac6a3aaceaab99f0ba75bab9abc0b6918417219ced8b3cc29adf971",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/gudeg.8af7d3d7f816df7d73bef28950b2606d.jpg",
+      "bytes": 31121,
+      "hash": "a0d8981e4dd193ba1c4c03a8f65c3154677cb8708ba534936c85514e2c89b726",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/iga-bakar.bd1f85519e3b2088c3a1f3ea5cbd5502.jpg",
+      "bytes": 31099,
+      "hash": "d628bd3aae7c61e3fa59e1dd4f9ee0269636f5a40cd5b668e15fc51d64f1d2aa",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/kebab.349de3901723d245e80031beb205ae20.jpg",
+      "bytes": 28017,
+      "hash": "7b3599ef1d5cf6faf138903153e17d6efc3d29b01fe5af87573a4e0464b32449",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/klepon.479b6007987754b56bced946bf4b62c0.jpg",
+      "bytes": 29343,
+      "hash": "cabf21edbefd08223411be3a05c8296a042257a1a261d40ca1b1353fb4f3c9c5",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/kopi-susu.f6ee544616beb7cf0abf427f77b43f11.jpg",
+      "bytes": 18345,
+      "hash": "e903bed1b2da4ee7823ebac749ea43163e4f323a25b55007b3a76f7b446656d2",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/martabak.73be81dcb6d948c74186bcf1ee974f40.jpg",
+      "bytes": 25900,
+      "hash": "12a9055ac2f1a1cf96fb10e1c4a7a2df8dbad1caf9ee95ca7bd23596fd1bc2b7",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/mie-ayam.1f81f65df95bf83a89efa05980719912.jpg",
+      "bytes": 29067,
+      "hash": "dd5ba2ddf288d13ef4a0348183b6d7f17fa1ffca00401bad8801b880d1cfeb54",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/nasi-goreng.58b6031f74fe30cd10200c25833624db.jpg",
+      "bytes": 29472,
+      "hash": "9b7ce8d45e90be3923e382a56e738332c55af53169a3386828aeacc39bec6bb2",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/nasi-uduk.9d27fb28d0213d7537769c978609dd93.jpg",
+      "bytes": 29430,
+      "hash": "d342505180d1ffd2695ac35b6872cafcdb2ad4e734757291a2f4ea48de3f8f12",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/pancake.790e8a659fbba804f107e4251662dca7.jpg",
+      "bytes": 24444,
+      "hash": "18aa83b7214b20611801a5006b660ad4d3e14dfeaf81b45fc4a67d724cc27545",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/pho.1d98654680bf1cd856e347054b9a2600.jpg",
+      "bytes": 29036,
+      "hash": "5bdb7f12041b628fc690e7ff1df9c1f7dd753ac00becf1e54faa0f5f451c43d2",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/pizza.d9fb63304038c754f357a41479de518c.jpg",
+      "bytes": 33422,
+      "hash": "d386299f45da665e96a1966cbf194791c02703813bce4e244cbb1b4ae4ed675c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/ramen.e0439dfede445ce05614a07dd4aa2612.jpg",
+      "bytes": 29747,
+      "hash": "4a49f9c8b2e69b862f44e88fa1014d86a2fa5510d92e387d698fed1454b85d06",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/rendang.5ef21f1a449a2dbd582cd048da775305.jpg",
+      "bytes": 32019,
+      "hash": "f99caafc2ce990cdcbb125dc78f6e69cb945e26f9bb2493a49ddd086b1de8f98",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/salmon.2103f371300d0fd39889cbb21ac1ac8a.jpg",
+      "bytes": 30784,
+      "hash": "d4e5d7e648a660cee3a5fea8738087243623a4928a95961a976b6631b00c56d8",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/sate-maranggi.f8e4a0ab27738b4f8bdc090b0d97a515.jpg",
+      "bytes": 29589,
+      "hash": "ab6b60f9b770f121b3bb3d917825cd3a31bf97fcf93a9d180f8f4d7ab52ce1a5",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/sate.e645054fc00164c3d7bcbc952d18e618.jpg",
+      "bytes": 30994,
+      "hash": "88ae48d918f1c76b95c7bbd1215339dda60c5008b9b313e0af0345352523ff0e",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/seafood.6c00679f72a3b0c67caf0351cb8ed20b.jpg",
+      "bytes": 36880,
+      "hash": "e454146037d5afd630ec29d0956a6a3d995885633173807ec2e286ffe6359339",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/seblak.b5a995ebf3e0dde0ef925944196970a8.jpg",
+      "bytes": 28326,
+      "hash": "5ec8b33251e803ab59345da130fb2cbc2823abc8395be50959ed5ca4b3a44c64",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/steak.3e5b48364d03bfd4d7697d37c331b542.jpg",
+      "bytes": 33556,
+      "hash": "f3e477facd7009cf74a2a2d078b7f8514c8d2bdd07c939842101c318a863a53d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/sushi.42caa0e56556a122c1497bb8ae2f7fc2.jpg",
+      "bytes": 28690,
+      "hash": "4a52b170a6ad6c6664e334017038ebd3e1dd326c383e32d042ad161e15c7cb4c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/tom-yum.fd77f118bae56de6d1ef014148d60615.jpg",
+      "bytes": 29889,
+      "hash": "1a98ce83ec101f0b10d2e1f47747224610271c610f68555585112b1a8f819f93",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/food/tteokbokki.89e664cc00a05e673db48705b9d30fce.jpg",
+      "bytes": 28842,
+      "hash": "717b8904872bb79f9459575f44de21e1a366164af3d2f70f2dfbf5bb449695eb",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/hero-gaknyampe.32c6356df4f59175fbe4d0ce64925633.png",
+      "bytes": 539441,
+      "hash": "282e55ab8718aebb7f7094a75e1523397a55314656a993986b80cb1ea1dc9111",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/isi-saldo-dompet-kucing.5cc5bef7aa3929520f7e1833e122f356.png",
+      "bytes": 769911,
+      "hash": "caffbb4736aa3910380d5113347f641641d675dab6d796e23cb3196f37fd7679",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/isi-saldo-dompet-kucing2.39501b8c28b5064d8140deeb55444fd8.png",
+      "bytes": 741255,
+      "hash": "5825f24f1d8d3cd6706a1acc39837abc6362cee6e2bee6bc04ae297eb1686166",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/isi-saldo-dompet-kucing3.f3377a772843b86027023bf354c79908.png",
+      "bytes": 724619,
+      "hash": "972e079ee0153e4150fb13a6656179a159932c63a7a27b6d6a72a4432150862c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/isi-saldo-dompet-kucing4.f771e13b9cf0020fa108a7995d5c0015.png",
+      "bytes": 742704,
+      "hash": "2c60b1c7733e2e79851cb0bb2de4ab8ff994634f3ba0b98a43adf6c9513df910",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/isi-saldo-dompet-kucing5.63d5832cd93dbc6ac8a3c556e712b1a9.png",
+      "bytes": 755823,
+      "hash": "f935fb04dd23f47c5f7a9cb67afe674de56d6d6946003681cbda64e0cadd6462",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/jelajah-hero.fe7e5c9adec88849e8cc636c68926c36.png",
+      "bytes": 2704620,
+      "hash": "27e89f54897addb3354981c447cc80d68e57a772326f68799da340f91667c4f3",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/logo.cabafa2d15dcd9a7ab9b67204b68dd9c.png",
+      "bytes": 1266612,
+      "hash": "b12ca7443c37431df603e033bca810ae6ef7d27dfa4544b8ea6ad3c4b6cf4460",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/profile/profile-character-01.cdfc1307402d64fc010d556f141ea5ae.png",
+      "bytes": 151143,
+      "hash": "d0e6f65c5b2ea2974fd9d0cd50962a4cda6a0a610b28ab49dc9359674fb69e3b",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/profile/profile-character-02.f0cb3f1dcfeb981c51a089a92cfe6d60.png",
+      "bytes": 210684,
+      "hash": "79c09ff120fc13ee7ae0384345d0256a28158dd955114a7a5b843c8815dea2f1",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/profile/profile-character-03.a821d261ac91f1c9e2a74e8dff8f4fa5.png",
+      "bytes": 207729,
+      "hash": "648cb8e0e4550ff96613c75bf7c7a2a438378c2646074a136aec7f503c71cee8",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/profile/profile-character-04.f93fe7befa297d0266a668fef70fedd7.png",
+      "bytes": 222630,
+      "hash": "6805e6908775fbd21d3ebd1c94ac0158c052ab306748412901ca2c3192b179fe",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/profile/profile-character-05.abb0d990be08c7cd48076542b6414916.png",
+      "bytes": 190268,
+      "hash": "91965b0eccb7f074f2afc07c7ee3ce686883c130e31a07255afc6ec89d7fa600",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/profile/profile-character-06.5c4a26a52df8f33b3ee2515217f6a202.png",
+      "bytes": 233206,
+      "hash": "c958a4d0d2d4cb19e8fffc7b0f5435bda1726c52f1dae0723f135cbe5d9093ef",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/profile/profile-character-07.1412eb3c6dcf619854d52882e9e8f4fd.png",
+      "bytes": 234198,
+      "hash": "22f172467b2faf6076730ba74b9537bbed6f070b63dabb4ad4c77be3bbd5d861",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/profile/profile-character-08.f090e041637075c477b543988309c2eb.png",
+      "bytes": 214426,
+      "hash": "8a1fc5f40f9166ccd8b82f47709ac34eeefdeb63d9c48703f27cfcbb7f82064c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/profile/profile-character-09.cb975bba2216ce10a60e6c0ffe9941a2.png",
+      "bytes": 393493,
+      "hash": "119462bb78eb240a65c869fc067ee599639b3cb5a41953f25c07b17d2a8c7e0f",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/profile/profile-character-10.f0c3c20988af7368063bf454cd2bbc8e.png",
+      "bytes": 809625,
+      "hash": "b7386a35be7a14f6017b4eb87b9e766f64b306792bb485da058fbf9a665e238a",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/profile/rating-meong-bahagia.c3651a4577f0ddbb03f52d8287f93f58.png",
+      "bytes": 755861,
+      "hash": "f41893185b90515f53368fe2649cd098338c0fede417f42142c9ede343505c3d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/profile/rating-meong-sedih.d6b14d68974a2419be127484de24939a.png",
+      "bytes": 763219,
+      "hash": "cc11dc2156a92e2f946eac6c1a18b26c3014b51dfa541b92642afe2670b11586",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/promo-hujan-pribadi.12b21155d1577fc3963b2854889b5b4b.png",
+      "bytes": 1588537,
+      "hash": "cf97de3fd5c8595c188d6a32a363176ff44b8de2d63c1fbfb5e6d74a333f8cd6",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/promo-makanan-gaib.03bb5be2cefbfcc7ba3134e87bee5aca.png",
+      "bytes": 560053,
+      "hash": "30db0b9c745b21f3a1a697597ab213a592ff5fd0fa92aa6126e942fb85acaf93",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/promo-nyasar-dinosaurus.e9977533a3b39b64114b0b0e823dfc38.png",
+      "bytes": 543890,
+      "hash": "822a7e73e8bba1e6ced04fb37506650f46462e4daa93100f3ad59fb4f72b5404",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/promo-quality-control.12cbf8a95a0241bf42523a986ffbfbed.png",
+      "bytes": 542866,
+      "hash": "288ba7613cafe3aaf663ff94e62aecc0044d82deeb917548caa39e1f800f7586",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/promo-restoran-kabur.77b0ef63c41ce9d66e3f1f6173ae0834.png",
+      "bytes": 685450,
+      "hash": "6c79e10dedd3bea372fdd0b137bad031594598db833d98f4151788b95217fbcf",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/promo-restoran-pindah-provinsi.1f22e73955939e985e74be27ac01194f.png",
+      "bytes": 654798,
+      "hash": "c21517450ae736793372f2f701ee84cee0e978ea1503e8c95c5d46f6a94388b7",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/salaharah.eb26c397b46131a0ac69f05df44847f5.png",
+      "bytes": 575615,
+      "hash": "9ebc32d5f89fa8f4adeadcdcd72cbe60a690318bbb901965b87d6874e8373a4f",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/semuaaja-hero.2c38750db461c70252946748fa450045.png",
+      "bytes": 2357415,
+      "hash": "495047a9473784d9e2a92371adba67ee3fcc4c3879e30fd36f5f749ff99aa977",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/services/01-makannanti.cdfc1307402d64fc010d556f141ea5ae.png",
+      "bytes": 151143,
+      "hash": "d0e6f65c5b2ea2974fd9d0cd50962a4cda6a0a610b28ab49dc9359674fb69e3b",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/services/02-nebengdulu.f0cb3f1dcfeb981c51a089a92cfe6d60.png",
+      "bytes": 210684,
+      "hash": "79c09ff120fc13ee7ae0384345d0256a28158dd955114a7a5b843c8815dea2f1",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/services/03-paketnyasar.a821d261ac91f1c9e2a74e8dff8f4fa5.png",
+      "bytes": 207729,
+      "hash": "648cb8e0e4550ff96613c75bf7c7a2a438378c2646074a136aec7f503c71cee8",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/services/04-warunggaib.f93fe7befa297d0266a668fef70fedd7.png",
+      "bytes": 222630,
+      "hash": "6805e6908775fbd21d3ebd1c94ac0158c052ab306748412901ca2c3192b179fe",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/services/05-kopituru.abb0d990be08c7cd48076542b6414916.png",
+      "bytes": 190268,
+      "hash": "91965b0eccb7f074f2afc07c7ee3ce686883c130e31a07255afc6ec89d7fa600",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/services/06-traktir.5c4a26a52df8f33b3ee2515217f6a202.png",
+      "bytes": 233206,
+      "hash": "c958a4d0d2d4cb19e8fffc7b0f5435bda1726c52f1dae0723f135cbe5d9093ef",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/services/07-isi-saldo.1412eb3c6dcf619854d52882e9e8f4fd.png",
+      "bytes": 234198,
+      "hash": "22f172467b2faf6076730ba74b9537bbed6f070b63dabb4ad4c77be3bbd5d861",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/services/08-semuaaja.f090e041637075c477b543988309c2eb.png",
+      "bytes": 214426,
+      "hash": "8a1fc5f40f9166ccd8b82f47709ac34eeefdeb63d9c48703f27cfcbb7f82064c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/assets/assets/images/traktirandigital.e02404c913b92f9ab25a5c89ec0841e9.png",
+      "bytes": 551651,
+      "hash": "9013b3f1b03b347589997089c377378b2e580181afe94402e0bd43a890942239",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/checkout.html",
+      "bytes": 49932,
+      "hash": "04f15dbe0f82e9aa5ab75b8adf2cc7f1bacadecbd8399ff6a4c2c1d77f059001",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/favicon.ico",
+      "bytes": 14510,
+      "hash": "b2e0fd5224c83276c1cae3674e5f79fb8a88150509e12ef8cde4f653b9d547ad",
+      "priority": 1
+    },
+    {
+      "path": "/demos/gaknyampe/game-shell.js",
+      "bytes": 783,
+      "hash": "6b709cd704c95db418c63bf579621e1d94827cc847fe6253c1c699635b5592a1",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/games/blok-nebeng.html",
+      "bytes": 9655930,
+      "hash": "7db79554d35e0e5472255d7f8947cf738807014a4e859dd577d6653985f37f65",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/games/capit-tanding.html",
+      "bytes": 37522640,
+      "hash": "c78f7e2720efdbc63678930d8ec39aadff1c3f542e539801f6d07b7c15b8605e",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/games/nebeng-dulu.html",
+      "bytes": 2214680,
+      "hash": "436f0b52f69ca26b37a83536403df630d667f61f180cf94b8ecf6ff2a1feb167",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/games/oyen-nebeng.html",
+      "bytes": 20319604,
+      "hash": "6ffc5fcf4b8a759e0a0065296d2b8950abf0d42c27c1ec020df9b68a3a7566b0",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/index.html",
+      "bytes": 71256,
+      "hash": "9b95ee0e5a06094ae891127df3ecff55f19b5ca25d2a38c72c4df2721ad90e58",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/isi-saldo.html",
+      "bytes": 63234,
+      "hash": "b31954896c54b0f26300617072fac8c58e1ecaa470390959fbe751eda6543bd0",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/jelajah.html",
+      "bytes": 110694,
+      "hash": "52e30a72addf5a0d3430ff1427dc0475ddba0846529e09163c9bec83d0c9d1f8",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/keranjang.html",
+      "bytes": 50853,
+      "hash": "1e2b71e4ea56e18be5b89fe189349c5dbe76562cafb9b2736a67b6fd9bd4e875",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/makan-nanti.html",
+      "bytes": 120599,
+      "hash": "9ee5d26dfd2c777646d496864525909df1055114a518a9165844fe2e436336d0",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/nebeng-dulu.html",
+      "bytes": 49963,
+      "hash": "cba74cdd7d3a223bf5ae39f5e725c15be4ec1c8cf6d90c16af834687ad58a503",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/notifikasi.html",
+      "bytes": 55510,
+      "hash": "4affa887e872e1d95363dde00c7e09ef00dd6b8cfc16aef5ffe48114933dfbe4",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/portfolio-enhancements.js",
+      "bytes": 8137,
+      "hash": "4ab03c52c90857046dc2d5ece40df90f0ca585a08e4c1759e146f3bfaa0bcbf6",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/profile.html",
+      "bytes": 62313,
+      "hash": "945da16b63e40f268469bdc4e1ac746a2569368979e25563cc785e7ef5249d60",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/restoran/%5Bid%5D.html",
+      "bytes": 49904,
+      "hash": "5179407a4b666cfdf589a156d9a0ac2a84fb37b41f6d55775f1da6e7c7431b8f",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/router-base.js",
+      "bytes": 317,
+      "hash": "5001481885a5367ab69e095f822281088ed30d0fc5100b25cd84c0c304813288",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/scan.html",
+      "bytes": 52263,
+      "hash": "73dc6dc96c070bc632a72103b771132d0c1477652e5500d0c28f98d389a833b8",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/semua-aja.html",
+      "bytes": 60429,
+      "hash": "8e8d0ca0355e0a898f964efb58597814b023554cccdf2b912b6bbf6263e306a2",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/tracking.html",
+      "bytes": 49946,
+      "hash": "94b929a3589e6c95626e1d210a2377abe216efbab0be528a4e6f00305218c289",
+      "priority": 0
+    },
+    {
+      "path": "/demos/gaknyampe/traktir.html",
+      "bytes": 65959,
+      "hash": "24b593fd2c6116bce6ad52f5a46829ac042b0a474810eaf23f56a8a81ccdaf3c",
+      "priority": 0
+    },
+    {
+      "path": "/demos/kreavityworks/01-ui-ux/cover.jpg",
+      "bytes": 233649,
+      "hash": "f9f4c65b670955810b6ec00463f63e697112c08154212330f6eb48941efe3612",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/01-ui-ux/detail-1.jpg",
+      "bytes": 374290,
+      "hash": "cc78583251bce68af2b99dde3100a5d3cdf40b6defe9859e8619635b1eee436c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/01-ui-ux/detail-2.jpg",
+      "bytes": 528981,
+      "hash": "50aac3cc91b1c901a74082ebd4a895ab7ba34de4f3883d7d11c57b8e52e2ce88",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/01-ui-ux/detail-3.jpg",
+      "bytes": 340463,
+      "hash": "62e3af1c749d2f766b25cf9fe53016b4ce9eaf76f9259ba583d1681f20c67f7c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/01-ui-ux/detail-4.png",
+      "bytes": 2023200,
+      "hash": "7faabcc3c4507dad0043dd443c1dc4bce16dacfa9d933c13bea3aff7c398333a",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/02-app-dev/cover.jpg",
+      "bytes": 349954,
+      "hash": "56d56320493459776c3b4088207338094510e3d51fbc14e732f5bce291136e60",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/02-app-dev/detail-1.png",
+      "bytes": 772486,
+      "hash": "dff896a5d9ec8ee554d3a44d9bad0c04e58afbba8423ca3dd691ee136898bbb7",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/02-app-dev/detail-2.jpg",
+      "bytes": 277628,
+      "hash": "f49bf28b0bcf3940a5ff03f66c78c36622ab74500aad3b6efac8e5afb2138549",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/02-app-dev/detail-3.png",
+      "bytes": 2961600,
+      "hash": "189caaaf9708547cf5ff28148ad888040cb2aba0ffaea0b29562905ced4c780a",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/02-app-dev/detail-4.png",
+      "bytes": 554923,
+      "hash": "4b7e705c35120cd5da9c9e34f1c28c1b053b5b88b5beeb895e86c449f4c1d518",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/03-brand-identity/cover.jpg",
+      "bytes": 622683,
+      "hash": "ed92ea7e6a49fab9021b273126ed545d4dfe02ad2aad151fb4649ebab7ad870d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/03-brand-identity/detail-1.png",
+      "bytes": 1338629,
+      "hash": "2757cbe397a7a060158808e70b16468b56e7cbae5a5c08dc97ba9ba75388317c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/03-brand-identity/detail-2.jpg",
+      "bytes": 639466,
+      "hash": "c44dca1c847fa8985315e26da4e8745b427d1406aaac7bc1108c2be149eea428",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/03-brand-identity/detail-3.jpg",
+      "bytes": 418514,
+      "hash": "0129c6cfd8bd73e6cc18bdb4fe16798db7da93f02edf0c3e5d7ccfec0801a94b",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/03-brand-identity/detail-4.jpg",
+      "bytes": 179392,
+      "hash": "b789c8cd37c46c73ca568bb5f1b60ec640ffb4fb57faeeca8b2c02deda39aa90",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/04-motion-graphic/cover.png",
+      "bytes": 2010295,
+      "hash": "15c2681ba1cf21104fed58a18f5829f712c32b3514e7ce74688ab4654cfa1584",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/04-motion-graphic/detail-1.png",
+      "bytes": 2524217,
+      "hash": "9c46be1a1a99ceb0459cfd984fd2ee4919529eced2ccbc967bb2026049de5c69",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/04-motion-graphic/detail-2.png",
+      "bytes": 2388785,
+      "hash": "43b08451b1d4705531ca650b3b8ed3423f895da18115bb3912c5435dc50d55a9",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/04-motion-graphic/detail-3.png",
+      "bytes": 1885756,
+      "hash": "209e715435bb8353c1eb058557b2f0bea657690b41e2829e9f44d233046299fd",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/04-motion-graphic/detail-4.png",
+      "bytes": 1964173,
+      "hash": "7c87b203974c57bc57563211f2c6493c805d268f08a6461820f4251b1ecc7d9c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/05-ai-tools/cover.png",
+      "bytes": 1107429,
+      "hash": "9a220343b4c59a899f2a61561dbcdc67551ec79475452439bf4d425ff3d3f2b7",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/05-ai-tools/detail-1.png",
+      "bytes": 2441718,
+      "hash": "92b85e169608ca23de375d823efb7095822604643f1c7f7424799a936e0a40ad",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/05-ai-tools/detail-2.png",
+      "bytes": 2075874,
+      "hash": "833c7bf6c0c9a915b9a0e17901278263a55646af00e84b088d304bbfc1b998d1",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/05-ai-tools/detail-3.png",
+      "bytes": 2402565,
+      "hash": "e8238242fb4fdc5b9ed86900e2035bc1f90c76fdfbad69154d959984ab29e1fc",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/05-ai-tools/detail-4.png",
+      "bytes": 1887077,
+      "hash": "badd9c420332ee2e609c5ef4296a2acb6fd21bebce49c76bed921c988d36bdfd",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/06-social-media/cover.png",
+      "bytes": 1937771,
+      "hash": "9e337e105f45b9f9f4c5e45b67e94bcc8f81082230351ec98ba9ea6d89bfef39",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/06-social-media/detail-1.png",
+      "bytes": 1666482,
+      "hash": "fa8def09e2676d0ccdc47d7b97a986635fbd4bb8a507c1732af3e13e894223b6",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/06-social-media/detail-2.jpg",
+      "bytes": 218196,
+      "hash": "58e79dbe3341383f3b592e888be7785bdbbf9c073f07969afc52ff5d8dcb32e9",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/06-social-media/detail-3.jpg",
+      "bytes": 443152,
+      "hash": "e81fee1625a15e3b3315726cd7ef649e721f8bd0b2e8b676a26e4cc867efd3ce",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/06-social-media/detail-4.jpg",
+      "bytes": 931287,
+      "hash": "43096667c710343ab1a49cefb8e5dbd1895c0aff5794e51cf6d6c9db32926621",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/07-ecommerce/cover.png",
+      "bytes": 517892,
+      "hash": "7400707e9eb6968b65ccefbf77d48c0622c6005a45a02ba524ee13ea7459bd6f",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/07-ecommerce/detail-1.png",
+      "bytes": 761664,
+      "hash": "09c0ce35eda0f017f3fcf5015a7a9ffb5478bd76f7ffd82e039255e7d9ec9f33",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/07-ecommerce/detail-2.jpg",
+      "bytes": 499984,
+      "hash": "701bd9a2f02ea598b693933ec12b07cfc763a657d4a0705d53190134e3fb9550",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/07-ecommerce/detail-3.png",
+      "bytes": 494467,
+      "hash": "eab5c1292191cdb41745d32358930ad7224d455ab475301e4b4a79bb9d9efa38",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/07-ecommerce/detail-4.jpg",
+      "bytes": 535102,
+      "hash": "3fb1af41073c86c1dd3fcc314977362c02b19006fa1292425d1fbfca88cdd8d7",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/08-banner/cover.png",
+      "bytes": 657646,
+      "hash": "f472fc16eb5952317f746c5b2aabcc65b2196588555e8d3092f63d5ca2187c4a",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/08-banner/detail-1.png",
+      "bytes": 1057661,
+      "hash": "92e2f23cad5ec621e59730e4d5ba3dca57b3f01a7786d0885b74cab149a8cc2a",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/08-banner/detail-2.jpg",
+      "bytes": 240372,
+      "hash": "ead6a0d502004e21cf8d128bddce7bcb14b328304850ac1d986b63cac0300f13",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/08-banner/detail-3.png",
+      "bytes": 561211,
+      "hash": "ab06d01b63523c61d1eed130fa3e6e997af9523ca7efd8bb75574511f1487e70",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/08-banner/detail-4.jpg",
+      "bytes": 325556,
+      "hash": "50417f2a95ac6c09b9a59e22536ee59170f4d0c46cd64bb1966ee75ff2fabe55",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/09-landing-page/cover.png",
+      "bytes": 412877,
+      "hash": "340ac221146dbb5671dda1acef3a9d5517956d84304e3c5a40cbb2efc3b78a85",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/09-landing-page/detail-1.png",
+      "bytes": 3356367,
+      "hash": "997acd7f2ffcd93ad6b1aeb1973d6974b80c3b1b85fad2179d16923dab38f5cc",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/09-landing-page/detail-2.jpg",
+      "bytes": 421242,
+      "hash": "0fe7df08f4880303add7b12c815b51c5e34604b500b58556c461896bb8145204",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/09-landing-page/detail-3.jpg",
+      "bytes": 708152,
+      "hash": "693511c76c075f663fb547de6da4b0bc8773b858ccc5965aaa391821356498ca",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/09-landing-page/detail-4.jpg",
+      "bytes": 330008,
+      "hash": "1b14c40c82b0e80c090c124f679fe61fe873c263077e177e9cac428725e2dfa8",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/10-print/cover.png",
+      "bytes": 1176961,
+      "hash": "1166643e37d27e70eaf29c20788b20fa9e22496ded785c6fc9913f2dcc022963",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/10-print/detail-1.jpg",
+      "bytes": 234020,
+      "hash": "db664bf0acfba7abbb9b722df62bf992720c92c006d187b4257b85083afaa3d8",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/10-print/detail-2.jpg",
+      "bytes": 496054,
+      "hash": "acb48c0db9195747b4a9863c77e49f3f6443fb0951c45e8be754eafb218ddb6e",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/10-print/detail-3.jpg",
+      "bytes": 173896,
+      "hash": "3e9877609cc53912ee0358d92b123e8afe08fff3a46a0273ebf16c4ce78b1d63",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/10-print/detail-4.jpg",
+      "bytes": 253710,
+      "hash": "2af0317ff7210c754b5354dadc9e2e0d9b08cbb689ad9f8213c0c147a9c5a8db",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/404.html",
+      "bytes": 932,
+      "hash": "7b39861af9573e8e2c7b9caf20875457f13ea3461b71a0056028a2024acb85d4",
+      "priority": 0
+    },
+    {
+      "path": "/demos/kreavityworks/assets/index-BzahE2A1.js",
+      "bytes": 866562,
+      "hash": "dfc777697bf02bd648377b856ad59fee83531b3118d8714e3da1d4dd9cca33d1",
+      "priority": 0
+    },
+    {
+      "path": "/demos/kreavityworks/assets/index-CbNeP2-K.css",
+      "bytes": 60125,
+      "hash": "779bc8c33bde8b0f9c0cdb837a4a25b10941322cddb24527868e84c709ab0690",
+      "priority": 0
+    },
+    {
+      "path": "/demos/kreavityworks/assets/index-D5Sh2Mku.css",
+      "bytes": 60641,
+      "hash": "c35c205baf6caf8a5744dc2d6f20c4a82565a28d90dc488ca6711e9d7e5eec5c",
+      "priority": 0
+    },
+    {
+      "path": "/demos/kreavityworks/assets/index-gHd_7__f.js",
+      "bytes": 867162,
+      "hash": "596f0fa5c610ff2f16bc38d745c699baabdd379b7e272071f44685714a687075",
+      "priority": 0
+    },
+    {
+      "path": "/demos/kreavityworks/brand/favicon.png",
+      "bytes": 97852,
+      "hash": "11a8407e24f3fad8fe24ed3d9761c2eaf85992190011ee09491c8858692ba122",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/brand/logo.png",
+      "bytes": 4837,
+      "hash": "addd30f96a8111f275f89ea06b21057124c73be6aec06222efd8b86ac789d80c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/brand/og-thumbnail.png",
+      "bytes": 124468,
+      "hash": "a79656c449f2a9da188ce450594ae48c731787c540bae2342a54ddefc7b6bdd1",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/brand/signature.png",
+      "bytes": 126483,
+      "hash": "1e8fdcf37b9eda9f05f7eed79f047e7a53c251581ad1baa01f1a00ffb243c1e9",
+      "priority": 1
+    },
+    {
+      "path": "/demos/kreavityworks/googlee403290d1db632d6.html",
+      "bytes": 53,
+      "hash": "d7d4f8b7f7006964f7156f991731a4a043f08fb3e097c12fb0e3b41ebbdc6397",
+      "priority": 0
+    },
+    {
+      "path": "/demos/kreavityworks/index.html",
+      "bytes": 1685,
+      "hash": "5487774f240c99ad43ef9bac354fdc31148c31eb13683d73281329dd41e3941e",
+      "priority": 0
+    },
+    {
+      "path": "/demos/kreavityworks/kreavity-polish.js",
+      "bytes": 1921,
+      "hash": "65d371f9a288e84bc62874f35ab3885f6dfd3cf248c1f181528d9bc7c126e47d",
+      "priority": 0
+    },
+    {
+      "path": "/demos/kreavityworks/vite.svg",
+      "bytes": 1497,
+      "hash": "4a748afd443918bb16591c834c401dae33e87861ab5dbad0811c3a3b4a9214fb",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/404.html",
+      "bytes": 4913,
+      "hash": "cd5092b7af009511bc1da1ef76b56f20b67f6846431e596bbcdb4eca60d8665b",
+      "priority": 0
+    },
+    {
+      "path": "/demos/property/admin/dashboard/index.html",
+      "bytes": 3447,
+      "hash": "51280b8824904965513d2043f94f2e0183da9a8fcfe636e8f14e0426773a74d4",
+      "priority": 0
+    },
+    {
+      "path": "/demos/property/admin/index.html",
+      "bytes": 3447,
+      "hash": "51280b8824904965513d2043f94f2e0183da9a8fcfe636e8f14e0426773a74d4",
+      "priority": 0
+    },
+    {
+      "path": "/demos/property/assets/brand/2%20Old/poster.png",
+      "bytes": 683933,
+      "hash": "4fef213388c294ce111c4b5007204573e3e96666c583f51c7aee4f0982dc5f39",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/2%20Old/poster%202.png",
+      "bytes": 684037,
+      "hash": "124b89a66b9c3aae771bc0759336e20daacdd554a3708ee35d449f9c46150917",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/2%20Old/poster3.png",
+      "bytes": 670227,
+      "hash": "63d397a31c215ed0f8a01e3bb8b18f7d73cd68b8e0446179f656a4e003cfef04",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/2%20Old/promoposter1x1.png",
+      "bytes": 631676,
+      "hash": "dddfd34dab2a6e61b68f171c205e2f15c6737156179d4f5327c2249c79034a9f",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/2%20Old/promopostera4.png",
+      "bytes": 678297,
+      "hash": "c6c3e2b007bef4bc3d62e96d48f02f78be8d2595f48d39329e34e48b97164cee",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Compressed/denah.png",
+      "bytes": 538135,
+      "hash": "2e2522dce00beb9b8136f734b92251a6eb2727399a16348dca2426ec3a84b6a2",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Compressed/denah2.png",
+      "bytes": 372084,
+      "hash": "d6bbc802a83fb121ce3d596882cbbb297fcdf1cf3ac7f3b55f38fd3f1b7378b6",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Compressed/favicon-rumahsubsidi.png",
+      "bytes": 186464,
+      "hash": "9cc4116eae48a196cfded9f5645c08546971021950a8cf2ef99edae5587500b8",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Compressed/gambar%201.png",
+      "bytes": 1051103,
+      "hash": "36f241459174193485671c79c0afd56ee4a3209cb9a588a78cd55d436a32149a",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Compressed/gambar%202.png",
+      "bytes": 1006773,
+      "hash": "02f8616d8b673856251dda2bc75fe96c6ee764c22110151ac4a3fab774c4cd0a",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Compressed/gambar%203.png",
+      "bytes": 858099,
+      "hash": "2bad8c9d5c07cbb02ee5357416add2f81c978f89793e2139840ca3afc65bfa24",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Compressed/harga.png",
+      "bytes": 230055,
+      "hash": "70b297d2fe6e75f60bf75e2f0c8003cb6f84f8dbcc7e3eab49b7d661f5c2d5be",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Compressed/logo.png",
+      "bytes": 560732,
+      "hash": "cf3ead9c6c51a4f75ca3dfb5fee7e883703323ec4a496fc9bb9f9b13a5fdb650",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Compressed/logo2.png",
+      "bytes": 107892,
+      "hash": "504162267679b63b224bd1e44d8c574c7b9ff6ede475a6eb2d35fdb09b3fc28d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Compressed/logo3.png",
+      "bytes": 195344,
+      "hash": "6d697aaaaf453a92bc90b696435edfe7cf3ea39938f777b1dcf2ffad30f9a1cf",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Compressed/poster.png",
+      "bytes": 513918,
+      "hash": "ca5f5d1c30ef275cd3dd56a1bb8cbf30dcc7362923eda4372f5968996b04d5fa",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Compressed/poster%202.png",
+      "bytes": 671891,
+      "hash": "24859ebd686cf590d2666c248777c344bb494409abb055c337c8c1daac30badd",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Compressed/promoposter1x1.png",
+      "bytes": 454153,
+      "hash": "e8d0e8be2fcff1608566d045f5be5d900cf6c24d6086561c3229b29dd3cd14e9",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Compressed/promopostera4.png",
+      "bytes": 668154,
+      "hash": "b613e34e9cc5a21d0d4f0c3151f7327ef5815357889b2e6acc1216d949abb483",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Compressed/whatsapp-preview1x1.png",
+      "bytes": 499810,
+      "hash": "fee535049212196299ee5a4a9d06123a7aa66828183ac03119b55ad91fb4037f",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Compressed/whatsapp-previewa4.png",
+      "bytes": 651826,
+      "hash": "63218cac60d87a4c9412cc23a4df987e0f5395178ebbaea115c15b6bfd0568e0",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/denah.png",
+      "bytes": 220452,
+      "hash": "e5bafbfdc5a8b21c5809992421d0a8b8949398a8c6dbd13622b100a93fae343e",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/denah2.png",
+      "bytes": 146497,
+      "hash": "32536dca9b679e0dc914bf7119b117e86a7a451f66ef6ec863b61c8628847048",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/favicon-rumahsubsidi.png",
+      "bytes": 140404,
+      "hash": "dadc027eaeb8a8e05b96dcc38c561d22d0d8dfa8171506c69fb4e9df5dd4df71",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/gambar%201.png",
+      "bytes": 209874,
+      "hash": "322c228ab9063875f04f4bd7aa65b697ee550f9f9c602b3309e603e7ab339e5d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/gambar%202.png",
+      "bytes": 214648,
+      "hash": "b7d7cd1b7198fe03e49725b4c4b7b5c882c024699eef1c429185249d41f5cf12",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/gambar%203.png",
+      "bytes": 130694,
+      "hash": "d5bf8cf08d27166e6fdb51d2a3b0ba9f96417687c744da03fad6a290a3eba507",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/harga.png",
+      "bytes": 78725,
+      "hash": "017b21c64a0521f8a0fb92577cea3b17811168a3c204bbe0a6d726253da471ba",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/IMG%20Baru/0bf4493c-dc74-4756-b5d8-1515e6a7ca91.png",
+      "bytes": 670227,
+      "hash": "63d397a31c215ed0f8a01e3bb8b18f7d73cd68b8e0446179f656a4e003cfef04",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/IMG%20Baru/29e1c923-8d3a-46be-bfa6-7233ad7c9f2a.png",
+      "bytes": 702130,
+      "hash": "208f4ceacd25aecbb38474e8a94a1b758ef605ee523c074b582f525cb35ecd1b",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/IMG%20Baru/4d219646-eac0-4ca4-b369-194a2dd22444.png",
+      "bytes": 684037,
+      "hash": "124b89a66b9c3aae771bc0759336e20daacdd554a3708ee35d449f9c46150917",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/IMG%20Baru/5be81d6a-b8bc-4684-8443-355177aded4f.png",
+      "bytes": 678297,
+      "hash": "c6c3e2b007bef4bc3d62e96d48f02f78be8d2595f48d39329e34e48b97164cee",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/IMG%20Baru/c8b4b49d-03dd-4956-9cd7-d17694473a98.png",
+      "bytes": 607494,
+      "hash": "25aeb031cccccbb3ac1b927c5158e8616c64467c12a25e14efd39325f2e7d67b",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/IMG%20Baru/ChatGPT%20Image%20Jul%204%2C%202026%2C%2005_18_37%20PM.png",
+      "bytes": 631676,
+      "hash": "dddfd34dab2a6e61b68f171c205e2f15c6737156179d4f5327c2249c79034a9f",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/IMG%20Baru/d5537da4-394f-4b98-8a66-72b23e1f124b.png",
+      "bytes": 731590,
+      "hash": "5b95409a7ccaad09220dfcc8092cd24383dd990ad5d68c8b903e38774a559bc8",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/IMG%20Baru/poster.png",
+      "bytes": 683933,
+      "hash": "4fef213388c294ce111c4b5007204573e3e96666c583f51c7aee4f0982dc5f39",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/logo.png",
+      "bytes": 83838,
+      "hash": "40ae8084d486f8b16f9d8ffa25575c39a6bf84459968d21e9950de852e5ecd10",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/logo2.png",
+      "bytes": 82578,
+      "hash": "27de0803888856ea942914bd36077397da5ac7f618357d551f1cde15a707e614",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/logo3.png",
+      "bytes": 83838,
+      "hash": "40ae8084d486f8b16f9d8ffa25575c39a6bf84459968d21e9950de852e5ecd10",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/logoform.png",
+      "bytes": 111626,
+      "hash": "a00e183a9dc4cc1d21c66be3e8ed946d8f8978b1be06d54519e20bee11803356",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/logowhatapps.png",
+      "bytes": 62578,
+      "hash": "d1063a0e755b1adb8e9a1a1975d3d94c8f4f1c093759388156a0167c5be6d6dd",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/denah.png",
+      "bytes": 261721,
+      "hash": "b9f83b0df53f468b31b1b3f83fb4cf4a90dba0ec46a0f54d6f2519c1cee41d8a",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/denah2.png",
+      "bytes": 175301,
+      "hash": "60b7deaa5fbfe5b31c3c6c0dfbac35755d443e5b37de75fbc93068b2fb96a582",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/favicon-rumahsubsidi.png",
+      "bytes": 174208,
+      "hash": "1e3b8b3294fd3c03facc09f571125b7fca9ddc56444dcac98365475688b14990",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/gambar%201.png",
+      "bytes": 242588,
+      "hash": "a2623d3346d3373c5fbfbe65b60ad0ab27b57d8d9bb090f4bc0e23261ffd4bc3",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/gambar%202.png",
+      "bytes": 244520,
+      "hash": "ec6f41f55dd4ba8750ec6dd6e535e7abfe8ba0e899e919c15b37c787ffaafd9f",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/gambar%203.png",
+      "bytes": 146520,
+      "hash": "c4a944e84e80586b358055eeea3f978e287a442bdceaa9b5f29edef8070d1d16",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/harga.png",
+      "bytes": 122629,
+      "hash": "0487db9947b3171bef94adf47c1298cf29b9c2a6fcae4f1b2b90570c2462a87a",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/logo.png",
+      "bytes": 103068,
+      "hash": "1d35565e266e801874965a22ce081b3f31ab8883366906d412361d82d27e130c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/logo2.png",
+      "bytes": 98092,
+      "hash": "046a4833b707b0971f2c58498cf73a48d8cf5a656332bfac7340a56ff7d03079",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/logo3.png",
+      "bytes": 103068,
+      "hash": "1d35565e266e801874965a22ce081b3f31ab8883366906d412361d82d27e130c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/logowhatapps.png",
+      "bytes": 267226,
+      "hash": "9a99162d92a1f9fffb72bad2878f895bf2aea5e0148a79bf1c73a69d85c915f2",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/poster.png",
+      "bytes": 538445,
+      "hash": "493bc5a3298101fa68273b8f1c89d1467ff43584d9f46b863320b50e6d1b8a85",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/poster%202.png",
+      "bytes": 670289,
+      "hash": "732bcfcd90799107b7a5f5616720ed5c87c7fe0e71c7826f1584d316557601f0",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/promoposter1x1.png",
+      "bytes": 422278,
+      "hash": "6e59273771f40cd83978063c0247103d82b341a55aca19ca832855eab99dea41",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/promopostera4.png",
+      "bytes": 667423,
+      "hash": "fd2938ae1af16b9527e46fa4c66d883f01cea02dc0c9ff9530bef2e89a1dacf4",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/whatsapp-preview1x1.png",
+      "bytes": 444305,
+      "hash": "9ac20e3018fb3ee56bda9395d7de41d010ec9534240ab359bee0cb68d2aa0601",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/OLD%20FILE/whatsapp-previewa4.png",
+      "bytes": 579441,
+      "hash": "45a29bed1b79a75feeb57ef7ce702f8d3f1f4af965c7d49a06fd2ca7636957fc",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/poster.png",
+      "bytes": 632645,
+      "hash": "3fae35885189a9061c17f9de201d11f5be2bbcfc63fcaaa61a4011d139e194fb",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/poster%202.png",
+      "bytes": 599006,
+      "hash": "1bd18a85136b4efe1c02c82ed9119110b085ddb02e0926d905df2cd2481ed95e",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/Poster%203.png",
+      "bytes": 586063,
+      "hash": "59ac56f6ceaab99fde840a77ce66598410b2bdf02fd0296743fb6f5edcb9a040",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/promoposter1x1.png",
+      "bytes": 826123,
+      "hash": "d917d03c1645c612ed0e7d869c4c7a2403693b3705f16c675d2f96e82327ff46",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/promoposter1x1%20backup.png",
+      "bytes": 543138,
+      "hash": "daac869c959e68515c3335cd98ae4ff7631c31a712e631276737f14de0063e7d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/promopostera4.png",
+      "bytes": 582821,
+      "hash": "0ad113f381545c7a1c3df2742da1038b426ce871adb92ec3acd06b5b50152028",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/whatsapp-preview1x1.png",
+      "bytes": 586063,
+      "hash": "59ac56f6ceaab99fde840a77ce66598410b2bdf02fd0296743fb6f5edcb9a040",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/brand/whatsapp-previewa4.png",
+      "bytes": 599006,
+      "hash": "1bd18a85136b4efe1c02c82ed9119110b085ddb02e0926d905df2cd2481ed95e",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/ChatGPT%20Image%20Jul%2011%2C%202026%2C%2010_18_06%20AM.png",
+      "bytes": 748046,
+      "hash": "051eeeff59a0b08d1769cd770ab2ac1e9557cabfbdf27e93d9ba3a30c030e03e",
+      "priority": 1
+    },
+    {
+      "path": "/demos/property/assets/html2canvas.esm-QH1iLAAe.js",
+      "bytes": 202379,
+      "hash": "061c08e50c0dc57b8d5e6531f0b8237a52a68b233260d49ab2f2c2906ad112c4",
+      "priority": 0
+    },
+    {
+      "path": "/demos/property/assets/index-BQBMxnkb.css",
+      "bytes": 47349,
+      "hash": "4a728d22021b8874df5f9ebe6978dcd8b52bfb7ba8d84e323fcd9731bdffe8e7",
+      "priority": 0
+    },
+    {
+      "path": "/demos/property/assets/index-GDpIjEri.js",
+      "bytes": 1462372,
+      "hash": "e2cd1e5e6cc01c8936b6fd8eec257d6e5d6e26a251c40546588dabc35a1163a0",
+      "priority": 0
+    },
+    {
+      "path": "/demos/property/assets/index.es-BIUUfcBD.js",
+      "bytes": 159598,
+      "hash": "e4a0c98dcb0d0bd76f2ae15c1c87d5750f4da7dc4afb589bc0f644af7754ffe9",
+      "priority": 0
+    },
+    {
+      "path": "/demos/property/assets/purify.es-Csrj9YNg.js",
+      "bytes": 28139,
+      "hash": "c738df0811efaeb9919557980f3e1660aacd8bbdd480f548b5aeebf1a481eb45",
+      "priority": 0
+    },
+    {
+      "path": "/demos/property/dashboard/index.html",
+      "bytes": 3442,
+      "hash": "42e583cc019fccc678f0d415fabf59a9a4d1571fe4a33e46468080a299858820",
+      "priority": 0
+    },
+    {
+      "path": "/demos/property/index.html",
+      "bytes": 3553,
+      "hash": "80be5982bb42f6a6ed0bfa2846b89d893d07e1b4822204f24a41ddd776bae2de",
+      "priority": 0
+    },
+    {
+      "path": "/demos/property/property-polish.css",
+      "bytes": 9848,
+      "hash": "e75329621fab7191ddbee1f0d98c732bbc1b120e17043d76e01c0669bec8032b",
+      "priority": 0
+    },
+    {
+      "path": "/demos/property/property-polish.js",
+      "bytes": 10464,
+      "hash": "4e0ed6ad97d9bfd48823dc9ce5dd3af7ca412941ca65ff935216423b9edabcea",
+      "priority": 0
+    },
+    {
+      "path": "/demos/property/vite.svg",
+      "bytes": 1497,
+      "hash": "4a748afd443918bb16591c834c401dae33e87861ab5dbad0811c3a3b4a9214fb",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/assets/html2canvas.esm-BTH0Ap93.js",
+      "bytes": 200047,
+      "hash": "801f0fe6f8ed506c939b18c89869bf60ae205ec6ffffafaf6558c7805851b99a",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/assets/index-C8au3Joz.js",
+      "bytes": 15003,
+      "hash": "65be64f6af04705623d862db711a07508746d60171e895243f7260db15c97508",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/assets/index-DFj5Caok.js",
+      "bytes": 1213316,
+      "hash": "2286315edf3f794cd99e1496f3d25ecd328c99b556dfb92437836a04e5dee9e1",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/assets/index-DGEyNMyt.css",
+      "bytes": 236732,
+      "hash": "f241f4ee7edd570d64e3379e57bb584ef425d30693891fd92a10564a0fdb072a",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/assets/index.es-3-1SgPQO.js",
+      "bytes": 157135,
+      "hash": "781eb80eb0230b8e99d8be9686eabc337de2060bc4a38f463d19e00a0d328043",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/assets/jspdf.es.min-WD7esTWy.js",
+      "bytes": 386651,
+      "hash": "145bec5953e3a468bafddf79e5262bf6a0e8f1589b963513a2a03d6827cc75c8",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/assets/jsQR-DQFaoYzg.js",
+      "bytes": 130030,
+      "hash": "b69c85894c6f6e43783ace09c1506192e55725725101b9b48cbf3817b328fe9a",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/assets/purify.es-Dlc2MFTI.js",
+      "bytes": 29081,
+      "hash": "a0449b7c99627f7aca5bd36741d48d6f3e31efeab1cce6753fe56ee7ccbf4d53",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/assets/vision_bundle-DBtvWB-X.js",
+      "bytes": 133073,
+      "hash": "f82197562348dcedf37e12d09701276b904bd402f37919b4772c70bb4f1b5d0b",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/avatar/fotoprofile1.png",
+      "bytes": 2311405,
+      "hash": "0f2cb6b0dc0850d838d5c2fdcfc9f5484b24321765d43c4fc358a5300a2e5dbd",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/avatar/fotoprofile10.png",
+      "bytes": 911698,
+      "hash": "46f711bd0e877526c0d363823039b2b42f3430748596127e11633b8c84566f52",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/avatar/fotoprofile11.png",
+      "bytes": 955496,
+      "hash": "e95a805c63bc8c7e2c3c21180d14a6bebc4418a05934af1799e4e94307529d14",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/avatar/fotoprofile12.png",
+      "bytes": 814330,
+      "hash": "4c4aa07243e0a1ad15ef4f98fe553964c23a495aa7028e639f15dfb4cf4e48fd",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/avatar/fotoprofile13.png",
+      "bytes": 1449066,
+      "hash": "bf4d677314129b506b5afc1b936104129a6fa51d986e91459ab51b7f3524c9ab",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/avatar/fotoprofile14.png",
+      "bytes": 1254835,
+      "hash": "d1ea73ee3fc8f424a6ef61abd1bc4e28fe370983548c4fba6ad885c9c7b21c44",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/avatar/fotoprofile15.png",
+      "bytes": 975130,
+      "hash": "a04960bf8c0159a74f685f47b5c45fb71b1ca5afe845c5db413a6179657450e9",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/avatar/fotoprofile2.png",
+      "bytes": 2311090,
+      "hash": "4e5d1754aa51fecd7aeae084406cce1f5d15121492e183efb525dc8b593e39f2",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/avatar/fotoprofile3.png",
+      "bytes": 2356503,
+      "hash": "6c24f61917daa49358868162edb8f00abb3a22e1987da6c902b277e21e69454b",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/avatar/fotoprofile4.png",
+      "bytes": 2706850,
+      "hash": "f02e74fb82785ffd863e0f130821b853fe05e58c5615beba98ad933985c0bc95",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/avatar/fotoprofile5.png",
+      "bytes": 2829136,
+      "hash": "c2cb1c9e98ecb5463c8f51ab5a67d00cb3bfe42f435e157126c77928bc1f88d4",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/avatar/fotoprofile6.png",
+      "bytes": 1457077,
+      "hash": "ce43806f48a8fb9d3b0c62a03915ac5437091888b22163c1ed0a0dd2b3d3abfd",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/avatar/fotoprofile7.png",
+      "bytes": 1341727,
+      "hash": "aabf6ad5642c525f9380d16034127fe66b017a05812be96207dfd4b777124be2",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/avatar/fotoprofile8.png",
+      "bytes": 1121409,
+      "hash": "d61c58b1d1a9a17340d7b4eb18db0449583b030247bc460a2b6b7a2f7cd4809d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/avatar/fotoprofile9.png",
+      "bytes": 1405103,
+      "hash": "e078133ee206df70a2aecca821a84d3a1f5f2d708bb00f766f63461151094bb7",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/brand/adfsitelogo.png",
+      "bytes": 106912,
+      "hash": "8637dc0f996739fe073e41e876c7953f1d178267657015db0f4726bcbf2a3801",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/brand/favicon-new%2010.32.02.png",
+      "bytes": 40289,
+      "hash": "b60c9c4abca18aaa837d2f304d57359efc43f21d106ae4c38f93438e2e35f721",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/brand/favicon-new%2010.32.55.png",
+      "bytes": 140078,
+      "hash": "d9af1013993e9ba73baf18e16c84ecd98f0b9a03fd4e2455f5cd8e6f033efd27",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/brand/popup1.png",
+      "bytes": 197350,
+      "hash": "ba3a05b59d8182932086cc03e1821a98b671982b57bba38e6c68b007653e5dcc",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/brand/previewtask.png",
+      "bytes": 253762,
+      "hash": "c5a1287ed7adf20729d946009f63c900d308307a3c17217daab6b8d9e45fd014",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/brand/previewtask2.png",
+      "bytes": 764987,
+      "hash": "2a21dd9a9d83c206c6c240c29ce9f0f769aa41ddd9484e77c53e443c1aa3e0f4",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/brand/previewtask3.png",
+      "bytes": 235758,
+      "hash": "3c1439e1056920893e7b30042b81bac41b0e7e031d575aad19afd76d3da5e8dc",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/brand/previewtask5.png",
+      "bytes": 4274156,
+      "hash": "56935642ccf1d1c7f43175237ae6845d27cf126700316dffe4de0d708d73783e",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/brand/system-adf-logo.png",
+      "bytes": 42649,
+      "hash": "51d602e5043fd6cdff4f34ad20ba35800505483da2f5e0014a61bdff4f9afd49",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/akaso-360-cream.png",
+      "bytes": 64877,
+      "hash": "0e3a74928f74d607a8b36424f82b1d398c2ba3740ca7633c8dbe058d7646420a",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/akaso-360-green.png",
+      "bytes": 65036,
+      "hash": "d7c712ddeab1d47b04975a54dfdaad999e1b609d9b4d80bc2b23233f06e1e71e",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/akaso-brave-4-cream.png",
+      "bytes": 83603,
+      "hash": "09f90eb5c7e958b4835b8837431b84f4825fc623dd0066093230a0e4bd6de508",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/akaso-brave-4-green.png",
+      "bytes": 83264,
+      "hash": "3518348b51ef923fe72092e09125447bc70ab95193977a6ec8cf6b1a2820d82d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/akaso-brave-7-cream.png",
+      "bytes": 81636,
+      "hash": "83e0a70f94bdc96ab53970f8fa720ff2ada80dfc6f883379625d8e91e1a2fc0a",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/akaso-brave-7-green.png",
+      "bytes": 81479,
+      "hash": "1506dbfe7e7631cf6a7f39cd634443f083c4e3dbb55cf50d882bed9f9b941487",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/akaso-brave-7le-cream.png",
+      "bytes": 76576,
+      "hash": "77d1f1f60931bf8e295f96297404085872717082ef0cd4923749110bcad745f9",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/akaso-brave-7le-green.png",
+      "bytes": 76220,
+      "hash": "e664550cc78e43dd9a28a60e3ff636a35ea43507742da2c5114af65f1920cdcc",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/akaso-brave-8-cream.png",
+      "bytes": 99252,
+      "hash": "fa34a1463d1d559ec11bb2f0a651cfbb1ecc60429aa4becd79e5197ec9a4a92c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/akaso-brave-8-green.png",
+      "bytes": 98946,
+      "hash": "e01a40631417c96d344825e3eba6d9bf80a30ea78208c5ae072e96c1e71b3ba3",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/akaso-logo-black.png",
+      "bytes": 34401,
+      "hash": "09d1b83efead5f07c4b2a592877b35da4b2c22324397d4070302e3c70068843e",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/akaso-logo-green.png",
+      "bytes": 9014,
+      "hash": "c40d55cb12c5ab33d16ecd3df742aaf717cbd45f2ce3a1300b43be38eecd7494",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/akaso-logo-white.png",
+      "bytes": 8962,
+      "hash": "b1f6e886bb086c6ea5eb70d4f6a4a77da6496e6e6b519cba1909374b3c0c8a8d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/akaso-v50x-cream.png",
+      "bytes": 154730,
+      "hash": "f81d1560755612d451caa4da1003aebf0d268843de50fdf0850a66c606bedd45",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/akaso-v50x-green.png",
+      "bytes": 153985,
+      "hash": "144d0a500e909f52d01e375c6d9aff0f0fe6969d306e63fea110eeb1eb7fa259",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/Template%20AKASO%20360%20Green.png",
+      "bytes": 71677,
+      "hash": "015bdf5330176332c5762b43b703d921afe2bd7babcb843f5c7025e10f506440",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/Template%20AKASO%20Brave%204%20Green.png",
+      "bytes": 83147,
+      "hash": "e56629161a755b420548e4b5d4899f8813f2f4d6075af369267d1f3b0095d7a2",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/Template%20AKASO%20Brave%207%20Green.png",
+      "bytes": 82947,
+      "hash": "ec32508339d35e1506ffed9aa93ea79116f073dc0e5e2a152abf293129b2beb2",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/Template%20AKASO%20Brave%207LE%20Green.png",
+      "bytes": 81225,
+      "hash": "2a2897fa597bb75e36cf8bee4f2b37aa48941982fdd94727f202d0884619a114",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/Template%20AKASO%20Brave%208%20Green.png",
+      "bytes": 107649,
+      "hash": "ab46ca361bc3913bbbb7f43f8b1d7248cce8810bb0e8f18201f69c08f327eaad",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/akaso/Template%20AKASO%20V50X%20Green.png",
+      "bytes": 153266,
+      "hash": "ddd0c57637c3eb41c2fb16a4af41cee5101a3467d6b1864e134b70c0096e0e88",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/realme-logo-black.png",
+      "bytes": 58943,
+      "hash": "5c6ede4ccb741ea3a239282b907c174d6dab73a0c699888028244813d75250c2",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/realme-logo-white.png",
+      "bytes": 62058,
+      "hash": "8e3f9d8675ac72c649319a5b8236859568b1b8cd40ea0904a606d2a6f4f43a88",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-assets/realme-top-gradient.png",
+      "bytes": 102741,
+      "hash": "0be754ba395276fa93c5ac2aff9701f83960f4a0712e46c147d99312a9b87a24",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-demo/akaso-layout-preview.png",
+      "bytes": 733794,
+      "hash": "9f08150ebd020d1fa72d49d34a828b484c91f77b54c2c301b43564ad2367e6a1",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-demo/creator-upload-01.png",
+      "bytes": 730120,
+      "hash": "6127caa01ea7df4cf7901a90a351ed61bbefcc4733470deb48737f253b520380",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-demo/creator-upload-02.png",
+      "bytes": 733794,
+      "hash": "9f08150ebd020d1fa72d49d34a828b484c91f77b54c2c301b43564ad2367e6a1",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-demo/creator-upload-03.png",
+      "bytes": 709027,
+      "hash": "06df28fbb7130f1d76a0ab3e3657c068c534a93faf11c94453d92fac27335bd6",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-demo/realme-cutout-expert-reference.png",
+      "bytes": 192718,
+      "hash": "51d5115cba745c948536dcc512b81bb49ac132415f0ba14fc8ee5cb3e37d7fb6",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-demo/realme-cutout-pop-reference.png",
+      "bytes": 113188,
+      "hash": "d844a0197d586097ec0af02376c33235f49376cc16c0a334d717c22372796287",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-fonts/anton/Anton-Regular.ttf",
+      "bytes": 170812,
+      "hash": "a4ba3a92350ebb031da0cb47630ac49eb265082ca1bc0450442f4a83ab947cab",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-fonts/Gabarito-Bold.ttf",
+      "bytes": 102288,
+      "hash": "6485617c19ca4f43139dd8c3b01b0cf75a1299e0858b69f998f73a36512fd365",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-fonts/Gabarito-Regular.ttf",
+      "bytes": 102060,
+      "hash": "442fe72685bd3f68243eea21168f52fff3f61738955d898d43f724b4df2570a3",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-fonts/gabarito/Gabarito-VariableFont_wght.ttf",
+      "bytes": 158884,
+      "hash": "1195665410acab3e49e3b16d563d2385fd67d66c5b9260713b02c69c09821895",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-fonts/gabarito/static/Gabarito-Black.ttf",
+      "bytes": 102016,
+      "hash": "d786b889be7eb7a294658ea13691e3045c1873a70616e524fee18d598e568cb7",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-fonts/gabarito/static/Gabarito-Bold.ttf",
+      "bytes": 102288,
+      "hash": "6485617c19ca4f43139dd8c3b01b0cf75a1299e0858b69f998f73a36512fd365",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-fonts/gabarito/static/Gabarito-ExtraBold.ttf",
+      "bytes": 102372,
+      "hash": "d1c137910b26cb37fc1e5fa7eb43927a8f83767346550a15b718719f84af2a49",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-fonts/gabarito/static/Gabarito-Medium.ttf",
+      "bytes": 102404,
+      "hash": "12ab90b04015972aecd340aeb19bedb5b72efc3ab7bbf2484d5e6c0ed449a03d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-fonts/gabarito/static/Gabarito-Regular.ttf",
+      "bytes": 102060,
+      "hash": "442fe72685bd3f68243eea21168f52fff3f61738955d898d43f724b4df2570a3",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-fonts/gabarito/static/Gabarito-SemiBold.ttf",
+      "bytes": 102392,
+      "hash": "f788d9be68d18dd50715210b4746a9d33b87e9c4740ed123d9ecca94d0023606",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-fonts/Gilroy-ExtraBold.otf",
+      "bytes": 54956,
+      "hash": "78c530ab1837ec31c93f8b0c8060a103dcae39b7f2c15ad44a860e495064d363",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-fonts/Gilroy-Light.otf",
+      "bytes": 54704,
+      "hash": "de1f8bbfdc696bb3144eff382064122aaadf21924f366d88db1106012efeaee1",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-previews/creator-pop.png",
+      "bytes": 164012,
+      "hash": "4806aa3bed12c21c989ea6ebba3f7866ae561b955eff16d212137fc03f76df4f",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/content-previews/expert-stack.png",
+      "bytes": 156471,
+      "hash": "34ffeb877dd2262c85de013495d9f3e5872b39ef30ffd0b803c02590b5da13cf",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/index.html",
+      "bytes": 1790,
+      "hash": "b32688d4c5172f0cfa48e730db94e615303113d0b85469b06e5a96704d5451cd",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/mediapipe/wasm/vision_wasm_internal.js",
+      "bytes": 203819,
+      "hash": "33a4125f825b343d2d9773951a73692f40bee368c9b591af8ff652fd501af90b",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/mediapipe/wasm/vision_wasm_internal.wasm",
+      "bytes": 9514390,
+      "hash": "c88cf472dd5cab0a3954b071e5f442102ded3701dcccc987a7a02ee8f54aae85",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/mediapipe/wasm/vision_wasm_nosimd_internal.js",
+      "bytes": 203672,
+      "hash": "4e8d07dcf8cbb55b343cd76b7fc30d4303220f049d5529d6412f6f93296726a8",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/mediapipe/wasm/vision_wasm_nosimd_internal.wasm",
+      "bytes": 9379090,
+      "hash": "f840f69d7229f89dedaed39c7ac7a52f0964a7cec02d6cb1ac9eff891db86dc2",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/ocr/core/tesseract-core-lstm.wasm",
+      "bytes": 2871085,
+      "hash": "220e2e87551edccb85519796a170469f8ab2a8055216789e3b8b1ada18b7bc2b",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/ocr/core/tesseract-core-lstm.wasm.js",
+      "bytes": 3954181,
+      "hash": "775a35df6f2ae100e02609443e6bd5cafcd07983dd6175454ca4a432a7730687",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/ocr/core/tesseract-core-simd-lstm.wasm",
+      "bytes": 2871377,
+      "hash": "187d76742dfc0d8929f0b49a619f145bb6370730776c7bd0d3e20c6b2098808d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/ocr/core/tesseract-core-simd-lstm.wasm.js",
+      "bytes": 3954569,
+      "hash": "9d7c43fb206dc9f48475228b46bf35f888fa9e6259da2e67d5a75c77049f2dc7",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/ocr/core/tesseract-core-simd.wasm",
+      "bytes": 3469078,
+      "hash": "ca11ee92a02023e4f5083eefd0966fb83b297416da54e997b9f6ce445f719c9b",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/ocr/core/tesseract-core-simd.wasm.js",
+      "bytes": 4751193,
+      "hash": "3b0678c47a8dea6abb931b214171c08b742a5b9a9fcbbb1a028a08d5de6e9d4c",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/ocr/core/tesseract-core.wasm",
+      "bytes": 3468788,
+      "hash": "740f7e466a2f026e1f1e54a2e0d9957e386d8166110d1290224abd3d08986106",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/ocr/core/tesseract-core.wasm.js",
+      "bytes": 4750805,
+      "hash": "e66872f6a76f5ad414d73d21512245df0de3060ad4871a97c47efceaab27b955",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/ocr/licenses/eng-package.json",
+      "bytes": 530,
+      "hash": "b603509212196b5d09e10519bf252c1e344b79704d065e0d62886846f8554c80",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/ocr/worker.min.js",
+      "bytes": 111162,
+      "hash": "38645599043239c0eb6db08a6504a92dcdc292200535f3e9339cd77c4443b842",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/office-inventory/products/baterai-aa.png",
+      "bytes": 161975,
+      "hash": "0d8e16754fd8fcecf980fda4a63a273e73399bdffc2c0af68c0523d6868eaeb0",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/office-inventory/products/baterai-aaa.png",
+      "bytes": 41350,
+      "hash": "6e312419155fd539c13103b3d5fce02f8c7edd7be29127085ce036a9384a4cd6",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/office-inventory/products/isi-cutter.png",
+      "bytes": 40784,
+      "hash": "9b9f56958d1f31a64841931fc4962f180df8c3a98ff15defe6a30c0835bd7694",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/office-inventory/products/lakban-bening.png",
+      "bytes": 100485,
+      "hash": "4e048a1d0520037eedd332d643987db25191387bb390f3b53caeb70dca4ab6d0",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/office-inventory/products/lakban-coklat.png",
+      "bytes": 33617,
+      "hash": "01a8b82a80ee6f06ee7acd45c2b827735907d1651cac95699d95f91c1037c17c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/office-inventory/products/lem-joyko.png",
+      "bytes": 80326,
+      "hash": "ae6a3f8b462750b1fa4c59b9aec6858a7d13d438cb52737eb35e5a3b6858949b",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/office-inventory/products/pen-black.png",
+      "bytes": 56027,
+      "hash": "ec215342c23a152180024e7cba71161eb1959c12949d70101267f79e3486d2c8",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/office-inventory/products/pen-merah.png",
+      "bytes": 76726,
+      "hash": "79f26bc2f88ec64acde61284d3d8f6158b15fe276c0c9c053981576ed825ac4c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/office-inventory/products/spidol-biru.png",
+      "bytes": 39206,
+      "hash": "b9abc8f4f6cf8cd9eafc494b09ff2ae7a41b5ba5a43993f222713b0a92f71b2f",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/office-inventory/products/spidol-hitam.png",
+      "bytes": 96198,
+      "hash": "6c47b2f72de51ee8d8e4f4448b59c88fd04772c14417327ec837a828682c2d80",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/office-inventory/products/spidol-merah.png",
+      "bytes": 33138,
+      "hash": "ed2e6b0d4ac0579aa55297a66788f36e481ca501c019bdb75b639a64d72a250e",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/office-inventory/products/tisu-kering.png",
+      "bytes": 116138,
+      "hash": "1e6fca320193747ed77632742fe49535efe48ba819689b1c0b467a2ffb161e37",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/portfolio-preview-bridge.js",
+      "bytes": 785,
+      "hash": "37eff5621c090135679be7f1dea97f2f6b6ac4959da27ac4b5287d7a8c3b5b32",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/vite.svg",
+      "bytes": 1497,
+      "hash": "4a748afd443918bb16591c834c401dae33e87861ab5dbad0811c3a3b4a9214fb",
+      "priority": 1
+    },
+    {
+      "path": "/favicon.svg",
+      "bytes": 712,
+      "hash": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7",
+      "priority": 1
+    },
+    {
+      "path": "/file.svg",
+      "bytes": 391,
+      "hash": "2b67812c325c199a02536cdbeea0c593a72f707d323b72ee3e08dbab06753bd4",
+      "priority": 1
+    },
+    {
+      "path": "/fonts/nm-hero-inter-v29.woff2",
+      "bytes": 48256,
+      "hash": "3100e775e8616cd2611beecfa23a4263d7037586789b43f035236a2e6fbd4c62",
+      "priority": 0
+    },
+    {
+      "path": "/frontpage/index.html",
+      "bytes": 322,
+      "hash": "9ccdfe90074188dbe1bd50fe00b93fcb184a82a209ff788b1cc5868ab151a209",
+      "priority": 0
+    },
+    {
+      "path": "/game-engine.html",
+      "bytes": 106394,
+      "hash": "eda12b94b0835a02afd875f16f022105826e6d216de9c73f822767db681b0a15",
+      "priority": 0
+    },
+    {
+      "path": "/globe.svg",
+      "bytes": 1035,
+      "hash": "b614b9bf183925957661ac851498fe1d8029fd43a62fbfed86f9e2624a57e7cf",
+      "priority": 1
+    },
+    {
+      "path": "/intelligence-os/404.html",
+      "bytes": 583,
+      "hash": "6a8e0adf36e92c74a7c186da30e05e36ed7a1ede5ea44689277ffecbdf34cc49",
+      "priority": 0
+    },
+    {
+      "path": "/intelligence-os/assets/brand/logo-clean.png",
+      "bytes": 10634,
+      "hash": "3a67d54283ca62d1f312671bbd2cdaf0cc43f78a05c16e585b8c3156e082fc17",
+      "priority": 1
+    },
+    {
+      "path": "/intelligence-os/assets/brand/logo-white.png",
+      "bytes": 10453,
+      "hash": "e84c3e1aca88b445ec6ba2d25a1fd0dd3ab90742c107efa5f5594bb645c67675",
+      "priority": 1
+    },
+    {
+      "path": "/intelligence-os/assets/brand/logo.png",
+      "bytes": 12793,
+      "hash": "2c5faa72a902d4e6ce6aa4501200ee1842b73568e27a86f3629269fad16cba60",
+      "priority": 1
+    },
+    {
+      "path": "/intelligence-os/assets/index-DitMyQWy.css",
+      "bytes": 181536,
+      "hash": "132c8fa1968215ac75299ef69c98bf737edd63bec010f19f8fe5dfb6bb10edf9",
+      "priority": 0
+    },
+    {
+      "path": "/intelligence-os/assets/index-DSmYMY97.js",
+      "bytes": 534252,
+      "hash": "6623d69abc1edf798eabc9f9f686e6a5024e54f2721dc96acb9f064134dfa4f2",
+      "priority": 0
+    },
+    {
+      "path": "/intelligence-os/assets/maps/demo-map.png",
+      "bytes": 613458,
+      "hash": "43f3657d37c2d77590287a5a6d0245aa552cf9155b9054887eba7de763d518e2",
+      "priority": 1
+    },
+    {
+      "path": "/intelligence-os/assets/profile/avatar.png",
+      "bytes": 79272,
+      "hash": "a9c8c4b073f1347012e0e6c212669ce1c5e22e6b61559018a1a3faf3d0084ed4",
+      "priority": 1
+    },
+    {
+      "path": "/intelligence-os/assets/profile/avatar2.png",
+      "bytes": 175609,
+      "hash": "8fd022991c2622b72f01985643b432e480018a96ec93adac4dca4db117ae6069",
+      "priority": 1
+    },
+    {
+      "path": "/intelligence-os/assets/profile/avatar3.png",
+      "bytes": 96913,
+      "hash": "68aaf25e58af5c256a9678d2f5f662c3fb9e3eb31deb833ed4a470bfe9bd4170",
+      "priority": 1
+    },
+    {
+      "path": "/intelligence-os/index.html",
+      "bytes": 632,
+      "hash": "14489fa96210f9f18ad9d2ec83412b9efae35f971260ab402d241dd39654c465",
+      "priority": 0
+    },
+    {
+      "path": "/KhabilaKitchen/404.html",
+      "bytes": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "priority": 0
+    },
+    {
+      "path": "/KhabilaKitchen/assets/index-D305d1Q9.css",
+      "bytes": 44555,
+      "hash": "2c79e6afac4e3c68fe5d6748a837e74c23595a2893b10dcc4ad10b48d1761ec7",
+      "priority": 0
+    },
+    {
+      "path": "/KhabilaKitchen/assets/index-j-FuDTqW.js",
+      "bytes": 352687,
+      "hash": "4cd7d89f070b1721e41af274ac1bbccc3b4c2ca169d281b1cf9d93167d9eda74",
+      "priority": 0
+    },
+    {
+      "path": "/KhabilaKitchen/brand/favicon-khabila.png",
+      "bytes": 72641,
+      "hash": "75d4b8d9ef747ab5aa8627aff3fbcdffcd8fa03f1b29b55a993d602f140aec70",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/brand/logo-bulet.png",
+      "bytes": 236820,
+      "hash": "e8c193809f9ce545dff0a44d47afaac45832762dd873b2253b6144897ed74982",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/brand/logo.png",
+      "bytes": 47749,
+      "hash": "7accd7f52de6d06d498cf6305f5741f37a92a0b694221f6077c6c33bee0d5af5",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/index.html",
+      "bytes": 594,
+      "hash": "fb5a0bb7b3958d71ea4214f7b05cec06415ae8831a2430e0c987775d32815407",
+      "priority": 0
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/bihun-curry-goreng.png",
+      "bytes": 353058,
+      "hash": "e2313ab5f69edd93fcdf660505c316cdbdc3e649f1a7a856868e1ae6a5f846bb",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/bihun-goreng-rempah.png",
+      "bytes": 1178981,
+      "hash": "8641232be22f1bdcd2898f719c5c6d85c4f78e0278d6393b5cfbf105ae4f6580",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/bihun-goreng-telur.png",
+      "bytes": 1161571,
+      "hash": "3e06055f4df9cb95bb6104e78ab9604feafb504f87d51d961485d66aebd63767",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/burger-daging.png",
+      "bytes": 6102333,
+      "hash": "032c2f7d467356908cbf1c8df6f9613fc916b89c15957f821622db030031dd37",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/burger-sosis.png",
+      "bytes": 333367,
+      "hash": "c038fe7f849ceab10ded02ea88e84e38a8efc6058ed425be5c3cf67e7ed3b05e",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/cover.png",
+      "bytes": 1901176,
+      "hash": "761e3aeae28e66651a23ada3e770ba2b9a065c7c9323109231ee5de197f9d2e3",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/es-kopi-tubruk.png",
+      "bytes": 272066,
+      "hash": "a1ec239fa2460526661ad3e29a702cb615ceee9314e6cc8677969b7de6538307",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/es-teh.png",
+      "bytes": 286517,
+      "hash": "3d154a84dc2aebef7545ec7cd6be8b700947ac27a591d55edb5a8ee9bc137cc5",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/kebab-ayam.png",
+      "bytes": 358173,
+      "hash": "082a2ec2fb48380d768cab299eaf0aa1606820e52f72173450a368507cc95804",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/kebab-daging-jumbo.png",
+      "bytes": 920030,
+      "hash": "17844d9c6576d746e1812c4ac1282efd59ac56d50cfa94004efa783bf2bebde3",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/kebab-daging.png",
+      "bytes": 5977326,
+      "hash": "44df636c1ffade1ec2114287a5be88b23b93c2a26228a145fa4337d2dff74768",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/kebab-wagyu.png",
+      "bytes": 6570666,
+      "hash": "159bfb4e41d1e8e563f1d9a9923d5b771042fa32f06f15082f99e94ccbdd979b",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/kopi-hangat.png",
+      "bytes": 227981,
+      "hash": "66c5e27db6c1d2e500d77647bed33a9764646e4b641bba838b4f5f59e83abaa1",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/kwetiau-curry.png",
+      "bytes": 361175,
+      "hash": "f2d761d32bda3261de7fd25e661653e06d283ba9c485c8b542dd99155d73fe77",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/kwetiau-goreng-rempah.png",
+      "bytes": 459049,
+      "hash": "ddc1eb926b6d030f69bed216cdedc3471907327077df02c987ea1ea64174a531",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/kwetiau-goreng-telur.png",
+      "bytes": 396957,
+      "hash": "093865603161a1b301ecc19b2e399a973a8a25dce557a519aaf67d3b38967fcc",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/mie-goreng-cabai-hijau.png",
+      "bytes": 388655,
+      "hash": "ec9b0a52378a9cc5bbe4a907012628d77be5fc95f60e8656eaed18cb22bc1256",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/mie-goreng-curry.png",
+      "bytes": 393439,
+      "hash": "58d77c7d9859282a75703af1e2a0d14ab85f353b307b7542b75666175a5d14f0",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/mie-goreng-rempah.png",
+      "bytes": 372297,
+      "hash": "705b7d1763455377f44c98cdb98480fb77ac593187b350a24a462dcb122f8d20",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/mie-goreng-telur.png",
+      "bytes": 364500,
+      "hash": "65d20f43b86130003560a31cdaaa8f95f5ba3cb2faef46164a401a9b40681355",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/mie-kuah-telur.png",
+      "bytes": 357898,
+      "hash": "40fb0af27ded5704397ba53e3770b0de0db097f5a960cc96755de1b7657231bc",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/nasi-goreng-cabai-hijau.png",
+      "bytes": 429565,
+      "hash": "6ddc6453c51ca98bce93017f8a03efe46b141cfda8da8e9bdcb8b0478dfd4293",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/nasi-goreng-curry.png",
+      "bytes": 425877,
+      "hash": "088e8294860493fee0271cfbee2831ce2fc866e4c9e6d7e618fb18ee4a6d128e",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/nasi-goreng-rempah.png",
+      "bytes": 363987,
+      "hash": "b942c20e9841f6c10fdd4e8d0df4f3ed23d1a38cf121752a8cfd25c08a731a16",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/nasi-goreng-telur.png",
+      "bytes": 411471,
+      "hash": "7421acbad662f00df77a0be26c0d05467dfa9b2be66eb7f75298b2d9ff118bca",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/pizza-ayam.png",
+      "bytes": 448244,
+      "hash": "7f0cd192b2c909d807bdb2aaa0a01e5df69485edf7f15544d7f1fb8893087fe9",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/pizza-meat-lover.png",
+      "bytes": 1537238,
+      "hash": "04d9701e1090968ba042278053f78670f0b6111c44a4564c089fe365ad003814",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/pizza-mix.png",
+      "bytes": 459403,
+      "hash": "c03305b768d740af7f813ace46b6ec01dd435916ecbeb668fabb94202858abff",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/pizza-mozzarella.png",
+      "bytes": 478988,
+      "hash": "a2d0d6d1520c03bef63905be821a8813d03385d2f8df0e3cd324727ec2f22696",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/pizza-pepperoni.png",
+      "bytes": 401960,
+      "hash": "e8e197041721ab6616fad85a2ecd1077127dd6e820870132e45615dd375e6dd5",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/pizza-wagyu-mozza.png",
+      "bytes": 481795,
+      "hash": "d214858d9edce7518d70b2b1713548e0247e4c8ad91262eefbef94cb2cac1048",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/teh-anget.png",
+      "bytes": 256848,
+      "hash": "a1080b440b9daf2f06ace7b6b58053b639b3cc967442212bc07f543116eae674",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/menu-img/topping-wagyu.png",
+      "bytes": 288554,
+      "hash": "55a6284299d7f7f06e9ca7107b59c7c56cc033a485375067128e4e9c318e3480",
+      "priority": 1
+    },
+    {
+      "path": "/KhabilaKitchen/vite.svg",
+      "bytes": 1497,
+      "hash": "4a748afd443918bb16591c834c401dae33e87861ab5dbad0811c3a3b4a9214fb",
+      "priority": 1
+    },
+    {
+      "path": "/office-inventory/index.html",
+      "bytes": 322,
+      "hash": "9ccdfe90074188dbe1bd50fe00b93fcb184a82a209ff788b1cc5868ab151a209",
+      "priority": 0
+    },
+    {
+      "path": "/p4series/index.html",
+      "bytes": 322,
+      "hash": "9ccdfe90074188dbe1bd50fe00b93fcb184a82a209ff788b1cc5868ab151a209",
+      "priority": 0
+    },
+    {
+      "path": "/popup/index.html",
+      "bytes": 322,
+      "hash": "9ccdfe90074188dbe1bd50fe00b93fcb184a82a209ff788b1cc5868ab151a209",
+      "priority": 0
+    },
+    {
+      "path": "/Por-Prov/404.html",
+      "bytes": 0,
+      "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "priority": 0
+    },
+    {
+      "path": "/Por-Prov/assets/balikpapan.png",
+      "bytes": 77307,
+      "hash": "d0be78f98341b72a7e0528536cdeae6fe5c3a8f55832759b78de6d291c861262",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/bankkota.png",
+      "bytes": 282911,
+      "hash": "a0da65e4ac65f4380447a5a1cc46893b4e45aa9913b66668f62b32a43e668d3a",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/berau.png",
+      "bytes": 71343,
+      "hash": "86bba249069de3cc179cd685571d511c0692bf23953ac0af1dbaa64d0509183a",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/bjb.png",
+      "bytes": 253913,
+      "hash": "ef4b2399dbb3a28c9b86d248eae498d3effa5e30a0abeaca811958878fd54bd3",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/bontang.png",
+      "bytes": 81645,
+      "hash": "c6b35552c55c850ba31cf72e9f8e7acf7d827e2db69b164918d6ca1361729cd0",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/botanisquare.png",
+      "bytes": 520073,
+      "hash": "8dfe417a1ceb1fcd9cb10ee9cc9d31deb68b3cceb678272e66068673023deeb3",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/botanisquare2.png",
+      "bytes": 873724,
+      "hash": "11575f18473d7ad9dc1fe6c2919be617ce2df5c2fd0b7427122bb49d4a79eb49",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/day1-highlight.png",
+      "bytes": 1537130,
+      "hash": "70d036f6a9b80d3a9fc612a29e4b44fb5bd91f61eedd9ab39ca975ce5be0949b",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/day2-highlight.png",
+      "bytes": 1857582,
+      "hash": "aeca0b2474432d13372e401e49995833270bc27b9fa0dfa4bd6dbb1a1e830c8d",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/gorpajajaran.png",
+      "bytes": 800038,
+      "hash": "319cdca9080e205e3c21d859da8fa3b034da5af2e84c5eddd384656e40718696",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/hero-desktop.png",
+      "bytes": 2280392,
+      "hash": "c98f372af6d6e2ab5270303f025de6d1f91344ab15184cbc2ea768db5ade4277",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/hero-mobile.png",
+      "bytes": 3772371,
+      "hash": "53464ccace09b63ebd23455319b65afc29e3bd81760f536ef7ca61cabe2941c0",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/index-DAq60Ajk.js",
+      "bytes": 235496,
+      "hash": "8ac5976103ee64b4e4408a44844213a82af7ff483b6ce89b918d83c90ac3d217",
+      "priority": 0
+    },
+    {
+      "path": "/Por-Prov/assets/index-DBKsTVjq.css",
+      "bytes": 51108,
+      "hash": "68d6d20ee6ae36a362f0e111a37564b01cbd23fdb83be457c844c3016641bbc3",
+      "priority": 0
+    },
+    {
+      "path": "/Por-Prov/assets/kopiluwak.png",
+      "bytes": 285871,
+      "hash": "fdb3dc4822e9906bd446a7a9a5cfe3e1caaa16f269fc9bc09175b71215f8b97b",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/kutaibarat.png",
+      "bytes": 83083,
+      "hash": "836eca31135594acfa201675cfdd1cdf596a35a863fa752c6c00ae1c6ed4c8cd",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/kutaikartanegara.png",
+      "bytes": 78390,
+      "hash": "b3a12ffb56cb4608c293fa9b3c08ee32f83eddfd660be9da7541a070198d6c32",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/kutaitimur.png",
+      "bytes": 78938,
+      "hash": "84aab53cd761c05eaa6e7c674ac443fdad7785a623bd17a46d7a8641b90218bd",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/leminerale.png",
+      "bytes": 220740,
+      "hash": "67c75538271de856f5c1125c5f0c2b69d2c5d163f509a341a0fd878e4bbf3785",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/logoporprov.png",
+      "bytes": 280952,
+      "hash": "89cfb490464547b697ba8c38a9c26353529ab06de920bac5bd66fd6701977e15",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/mahakamulu.png",
+      "bytes": 63202,
+      "hash": "2bdbc59198307851a398b88b1ff2dc21f02b3f2c843880b07190e8023daad636",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/mayora.png",
+      "bytes": 156265,
+      "hash": "b03e8467940109a4febb0e5a165e4c31f6dd89b9e3f7da61fe07aa5adf32e235",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/milakencana.png",
+      "bytes": 1084226,
+      "hash": "cac2de795501b5c27263f8213e6d7b7c1f31cb80e8654291ae4240bdde7fc9ba",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/paser.png",
+      "bytes": 79314,
+      "hash": "ce3174c06f4f14dc49b5210a60f29503b5c5d52b9e9938cb9d0b870add8f529d",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/pdam.png",
+      "bytes": 372897,
+      "hash": "66712be7bca6df87ef152de90cc23d555e08fbe3b8c19d1532b7a38cdab06c5d",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/penajampaserutara.png",
+      "bytes": 81921,
+      "hash": "5f8716c8111150e03ab044eff6036ff3042ed678d79d0d4d93c173543739e224",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/porprov-2026-hero.jpeg",
+      "bytes": 350651,
+      "hash": "df7cbb17278efc574fdf98bf57a3e59359bdf048ea7d0b7f148c8486042d4eea",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/samarinda.png",
+      "bytes": 77912,
+      "hash": "165568966aa312f5862230d666a76ca92691d1557e48a6118dd24188a3675e67",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/stadionpakansari.png",
+      "bytes": 311716,
+      "hash": "d4f65bfd1ac9fbfbe860550e3182d5775f17bf0050370c07e5d2fb53c0d9a877",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/tourist-1.png",
+      "bytes": 830769,
+      "hash": "e12647c8897c615765762c8644a7da0c77dbb32f9fdeca8e9f72ac23020e2724",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/tourist-2.png",
+      "bytes": 945293,
+      "hash": "33312fff7320170d1080e9739a885fec7896ec7458e3090995c6c8b9304f7473",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/tourist-3.png",
+      "bytes": 811589,
+      "hash": "00a101c9ebeb090670803ed2d5edfb10464582e1cc5a482eea2e856ddc58d6fe",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/assets/tourist-4.png",
+      "bytes": 633858,
+      "hash": "76f841de2f212fb096ed1ee96396c60ff5a6e3c94478bd73aa50a3d3d62841dc",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/brand/favicon-porprov2022.png",
+      "bytes": 37696,
+      "hash": "1eac3a9a6d8c968ba08ecf09710f1416a735c11b975c067d27d2d005f41dc3d2",
+      "priority": 1
+    },
+    {
+      "path": "/Por-Prov/index.html",
+      "bytes": 612,
+      "hash": "5dfbc4afe6e04d933f114ebbd6690f61151afaeb15f3c571fc85172ec77ee2eb",
+      "priority": 0
+    },
+    {
+      "path": "/Por-Prov/porprov-2026.js",
+      "bytes": 1101,
+      "hash": "757ee061fb370ed17e17073b7aedd076f542a9f6dc6ef2d8f2c2a72496274ade",
+      "priority": 0
+    },
+    {
+      "path": "/Por-Prov/vite.svg",
+      "bytes": 1497,
+      "hash": "4a748afd443918bb16591c834c401dae33e87861ab5dbad0811c3a3b4a9214fb",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/desktop/cover-adf.png",
+      "bytes": 3046687,
+      "hash": "16fc89639cdf977db5fe0698ff16985bb796f25f55958f474be08dfc4966367f",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/desktop/cover-gaknyampe.png",
+      "bytes": 3527530,
+      "hash": "6e6750624facd47d0e36e56301e19ef9578bbe8a9a79e35abbf79898c005d386",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/desktop/cover-intos.png",
+      "bytes": 613458,
+      "hash": "43f3657d37c2d77590287a5a6d0245aa552cf9155b9054887eba7de763d518e2",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/desktop/cover-khabila-kitchen.png",
+      "bytes": 1901176,
+      "hash": "761e3aeae28e66651a23ada3e770ba2b9a065c7c9323109231ee5de197f9d2e3",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/desktop/cover-kreavityworks.png",
+      "bytes": 1051407,
+      "hash": "74cd334fce298775a4cc33424a50454753a6d21c6d53e2927387e6875251081e",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/desktop/cover-neon-chaos.png",
+      "bytes": 2789745,
+      "hash": "bf20c1f37ae9e30d65acc1216556f584afc8fd474eeaa56af101774d73c9e657",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/desktop/cover-porprov.png",
+      "bytes": 2280392,
+      "hash": "c98f372af6d6e2ab5270303f025de6d1f91344ab15184cbc2ea768db5ade4277",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/desktop/cover-rumah-subsidi.png",
+      "bytes": 3667835,
+      "hash": "f865f4ed0bae1db81169696a3259ebaee089ab11b893144c335d91afdfcba2da",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/desktop/cover-selected-websites.png",
+      "bytes": 1901176,
+      "hash": "761e3aeae28e66651a23ada3e770ba2b9a065c7c9323109231ee5de197f9d2e3",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/desktop/cover-zeemy.png",
+      "bytes": 5191679,
+      "hash": "dce08f533bc62543c6b1310868cee247a95beba702275b90901469bcfe6d0c91",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/mobile/cover-adf.png",
+      "bytes": 656545,
+      "hash": "d0870e5971f0c029c605666b89c14925569fc768a87535f4f6b3d2966593a6c5",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/mobile/cover-gaknyampe.png",
+      "bytes": 1484921,
+      "hash": "75f4717ab7b1f00b6d9d989ab4f07a9317e353a98d80d40a1c2a78ef09e3585d",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/mobile/cover-intos.png",
+      "bytes": 1482541,
+      "hash": "3abbf7a36d680766d2d6320727e62e593ddc29ea25a29dd820be2830c87a777f",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/mobile/cover-khabila-kitchen.png",
+      "bytes": 1823835,
+      "hash": "74d756c5277c33b1d9e8d32d4b7100276fdaab7436052b13bcd24582e8f7513b",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/mobile/cover-kreavityworks.png",
+      "bytes": 402839,
+      "hash": "de094ae65508185b0e8df420c3379b50aa9dee80a417f7b2e9bbcf0585d1da45",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/mobile/cover-neon-chaos.png",
+      "bytes": 1403936,
+      "hash": "2204aaada38252564485f35b9fe752204dfbca81a95f34df0eb88d8354a90b1b",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/mobile/cover-porprov.png",
+      "bytes": 3772371,
+      "hash": "53464ccace09b63ebd23455319b65afc29e3bd81760f536ef7ca61cabe2941c0",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/mobile/cover-rumah-subsidi.png",
+      "bytes": 804550,
+      "hash": "b271d35fbcd268a15b7b90d7d95144c98bd91328f59c345a2c65675530a9dc96",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/mobile/cover-selected-websites.png",
+      "bytes": 1823835,
+      "hash": "74d756c5277c33b1d9e8d32d4b7100276fdaab7436052b13bcd24582e8f7513b",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/mobile/cover-zeemy.png",
+      "bytes": 913040,
+      "hash": "13ff709727272cdd3871b94043ad3116555ba8af61af25802a21082b7cbbe5bb",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-demo-safety.js",
+      "bytes": 5946,
+      "hash": "04f29794109ca5c223b80dc693258acfd6bd0cf8b693cb90b15c933b062a44c4",
+      "priority": 0
+    },
+    {
+      "path": "/portfolio-v2/adf-logo.png",
+      "bytes": 106912,
+      "hash": "8637dc0f996739fe073e41e876c7953f1d178267657015db0f4726bcbf2a3801",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/covers/gaknyampe.png",
+      "bytes": 539441,
+      "hash": "282e55ab8718aebb7f7094a75e1523397a55314656a993986b80cb1ea1dc9111",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/covers/intos.png",
+      "bytes": 613458,
+      "hash": "43f3657d37c2d77590287a5a6d0245aa552cf9155b9054887eba7de763d518e2",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/covers/kreavityworks.jpg",
+      "bytes": 233649,
+      "hash": "f9f4c65b670955810b6ec00463f63e697112c08154212330f6eb48941efe3612",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/covers/neon-chaos.png",
+      "bytes": 2789745,
+      "hash": "bf20c1f37ae9e30d65acc1216556f584afc8fd474eeaa56af101774d73c9e657",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/covers/property-sales.png",
+      "bytes": 826123,
+      "hash": "d917d03c1645c612ed0e7d869c4c7a2403693b3705f16c675d2f96e82327ff46",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/covers/zeemy.png",
+      "bytes": 417571,
+      "hash": "9ee4a7549e5e0d88a57235306fd5726df4e70d00aec9fbb051ed38b9ebfa72b1",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/gaknyampe-hero.png",
+      "bytes": 539441,
+      "hash": "282e55ab8718aebb7f7094a75e1523397a55314656a993986b80cb1ea1dc9111",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/gaknyampe-icon.png",
+      "bytes": 1437630,
+      "hash": "721c10aac7ab09b66b829a7030d35ef915dbcc99654248a02c37535c8411a46d",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/hero-layers/background-v33.webp",
+      "bytes": 52036,
+      "hash": "7ac264a73c0bbe9a38275c17876f304d2414d49393830230e37f9193fa20ca1a",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/hero-layers/background.png",
+      "bytes": 991166,
+      "hash": "9a344e7b14bd48105363225509fd6ed2afd8d271a7e2a2d19ce88c499aeba6e4",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/hero-layers/nando.png",
+      "bytes": 318516,
+      "hash": "ac366a2cd1dbf274d17a1c8a7d4c06ecf99d57816334af2e2b39d685163f51c0",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/hero-nando-warm-paper.png",
+      "bytes": 2628865,
+      "hash": "1cc1ec07015a996e5fbb1d80362953363dac8004309d5dd20c65e2c8dcbbb01e",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/intos-logo.png",
+      "bytes": 12793,
+      "hash": "2c5faa72a902d4e6ce6aa4501200ee1842b73568e27a86f3629269fad16cba60",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/intos-map.png",
+      "bytes": 613458,
+      "hash": "43f3657d37c2d77590287a5a6d0245aa552cf9155b9054887eba7de763d518e2",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/kreavityworks-cover.jpg",
+      "bytes": 233649,
+      "hash": "f9f4c65b670955810b6ec00463f63e697112c08154212330f6eb48941efe3612",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/kreavityworks-logo.png",
+      "bytes": 4837,
+      "hash": "addd30f96a8111f275f89ea06b21057124c73be6aec06222efd8b86ac789d80c",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/property-logo.png",
+      "bytes": 83838,
+      "hash": "40ae8084d486f8b16f9d8ffa25575c39a6bf84459968d21e9950de852e5ecd10",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/property-poster.png",
+      "bytes": 826123,
+      "hash": "d917d03c1645c612ed0e7d869c4c7a2403693b3705f16c675d2f96e82327ff46",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/zeemy-logo.png",
+      "bytes": 1238293,
+      "hash": "10a68a01cc7cb23db0f00334d58c55e2194299dc18783e6f64376e7e58081b0d",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-v2/zeemy-sprite.png",
+      "bytes": 751917,
+      "hash": "485ba3c88ccc9318de1a0cfae48c5f109f280b4e1906c62646fd488f7a9b078f",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio/brand-identity.png",
+      "bytes": 910496,
+      "hash": "5d0e0510b9fe501bb56aca2b58aacdb71425f2cfe3dca4f59ca892c18c2c3a79",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio/campaign-design.png",
+      "bytes": 191578,
+      "hash": "7d0f512389d6e9dba8c90429a181d519843d3e5e1e00a25054b344a05c4a241d",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio/landing-page.png",
+      "bytes": 190508,
+      "hash": "2c1f91c6be10bef7d23afd7dd6611fe78ccb46cd9ada45b369a84ee105b9fc1c",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio/mark.png",
+      "bytes": 153041,
+      "hash": "30f7a2c10949e9b05e1a381c54515d6d24a48c9068224a63e0bd16c516a0305b",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio/ui-ux.png",
+      "bytes": 365827,
+      "hash": "29c6acff7dfffd81c4ac5fb9e137973f151cf2938a5dcc29c8a31c1f58e1c76a",
+      "priority": 1
+    },
+    {
+      "path": "/preview-picker-covers/01-rumah-subsidi.jpg",
+      "bytes": 262035,
+      "hash": "f504b5c630ab5c2ff02c8b95238ad9bd8a91b72e07408b1b5f831b084ebf65fd",
+      "priority": 1
+    },
+    {
+      "path": "/preview-picker-covers/02-intos.jpg",
+      "bytes": 230886,
+      "hash": "6d9e2926368867a9181f7c1d4dc2f9d90669689cd5f44d38a29dd4f5597805d1",
+      "priority": 1
+    },
+    {
+      "path": "/preview-picker-covers/03-zeemy.jpg",
+      "bytes": 112032,
+      "hash": "7ab52426ba48dda08b89b4c6854e0768cb32a110db75cd395d7529ba0eceb6da",
+      "priority": 1
+    },
+    {
+      "path": "/preview-picker-covers/04-kreavityworks.jpg",
+      "bytes": 106262,
+      "hash": "856f899a555cf31e221ccc4e1fa174e87dc6647a36f0a488d8e8975491563310",
+      "priority": 1
+    },
+    {
+      "path": "/preview-picker-covers/05-khabila-kitchen.jpg",
+      "bytes": 252551,
+      "hash": "3ce36135a36ba1c8be50fcfd1d4d48b2c0702472806565fedceae50b56caaaf6",
+      "priority": 1
+    },
+    {
+      "path": "/preview-picker-covers/06-porprov.jpg",
+      "bytes": 215002,
+      "hash": "332e93f7ccb4b636f185ab971631970b0982bb5a5a58d1031d150d914d5b49fe",
+      "priority": 1
+    },
+    {
+      "path": "/preview-picker-covers/07-gaknyampe.jpg",
+      "bytes": 182497,
+      "hash": "6d2a8cf7fe45aa5dab25fce544922df33b72b2ffea5b9ba9c17b4b9c8c4ac1c2",
+      "priority": 1
+    },
+    {
+      "path": "/preview-picker-covers/08-3d-game.jpg",
+      "bytes": 199794,
+      "hash": "18c087f6df2307865b0c193525cfcb15232a514ba5f546f2db77be9535f1f3b7",
+      "priority": 1
+    },
+    {
+      "path": "/reports-lab/index.html",
+      "bytes": 322,
+      "hash": "9ccdfe90074188dbe1bd50fe00b93fcb184a82a209ff788b1cc5868ab151a209",
+      "priority": 0
+    },
+    {
+      "path": "/requestpage/index.html",
+      "bytes": 322,
+      "hash": "9ccdfe90074188dbe1bd50fe00b93fcb184a82a209ff788b1cc5868ab151a209",
+      "priority": 0
+    },
+    {
+      "path": "/site-assets/hero-lamp-table-off-v22.png",
+      "bytes": 506331,
+      "hash": "534fedb9a001182c78727a3c8708968ec21ce7c5f4a157008612ffea85f9d4f9",
+      "priority": 1
+    },
+    {
+      "path": "/site-assets/hero-lamp-table-off-v22.webp",
+      "bytes": 57824,
+      "hash": "a4f280ec01b67b6724e70ab5846e3c33974246ad630baee82edf5f771f4ab23a",
+      "priority": 1
+    },
+    {
+      "path": "/site-assets/hero-lamp-table-on-v22.png",
+      "bytes": 412692,
+      "hash": "924b5f935357bd1e774eaee897a14de40e47691e97901f17ff606bfcc4d6eddb",
+      "priority": 1
+    },
+    {
+      "path": "/site-assets/hero-lamp-table-on-v22.webp",
+      "bytes": 59296,
+      "hash": "2383fd0bd88eccd18f9af0e8bf33c3dfaab4e50f22fb53db84a86150cadc9c3f",
+      "priority": 1
+    },
+    {
+      "path": "/site-assets/hero-portrait-dark-v22.png",
+      "bytes": 1478561,
+      "hash": "7dba6e7f4f36d8009c475389c7e15a62a77d4f6a740a4f6296b46d12c71e8fd5",
+      "priority": 1
+    },
+    {
+      "path": "/site-assets/hero-portrait-dark-v22.webp",
+      "bytes": 145616,
+      "hash": "fa0051261503ec6e096cb8be90c73fea00500f992a85c3aae896962e2bc9cc25",
+      "priority": 1
+    },
+    {
+      "path": "/site-assets/hero-portrait-lit-v22.png",
+      "bytes": 1435853,
+      "hash": "e3b8aaa62afeb7417b02e5c32c520e5e263c09add3007409d15804a9ab442bca",
+      "priority": 1
+    },
+    {
+      "path": "/site-assets/hero-portrait-lit-v22.webp",
+      "bytes": 129012,
+      "hash": "e9e41e3fb441be698524bebcb97b58990a23a2fca5e04932990eba60bf58d5cd",
+      "priority": 1
+    },
+    {
+      "path": "/site-assets/hero-portrait-normal-v22.png",
+      "bytes": 1807059,
+      "hash": "c45ccc5ed47a6f7c0680ad1a5a4bfc4eba82583643591b072df0c639b528e78c",
+      "priority": 1
+    },
+    {
+      "path": "/site-assets/hero-portrait-normal-v22.webp",
+      "bytes": 258100,
+      "hash": "0caebc6fc2485ab9d2e8f2cf6d98519cf4029111790a27cba953e28920a0448e",
+      "priority": 1
+    },
+    {
+      "path": "/site-assets/home-portrait-desktop.png",
+      "bytes": 318516,
+      "hash": "ac366a2cd1dbf274d17a1c8a7d4c06ecf99d57816334af2e2b39d685163f51c0",
+      "priority": 1
+    },
+    {
+      "path": "/site-assets/home-portrait-mobile.png",
+      "bytes": 318516,
+      "hash": "ac366a2cd1dbf274d17a1c8a7d4c06ecf99d57816334af2e2b39d685163f51c0",
+      "priority": 1
+    },
+    {
+      "path": "/systemadf.html",
+      "bytes": 322,
+      "hash": "9ccdfe90074188dbe1bd50fe00b93fcb184a82a209ff788b1cc5868ab151a209",
+      "priority": 0
+    },
+    {
+      "path": "/ui-icons/back.svg",
+      "bytes": 638,
+      "hash": "989eaa987a8c96a0bcd4265839274e97f27e8761cc1ae9d2e41df37ea5840118",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/battery-full.svg",
+      "bytes": 364,
+      "hash": "f3328026d98a66bdf2c71134f29dee6e956af9cb5218dce131672202b39fe910",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/close.svg",
+      "bytes": 767,
+      "hash": "75668d97d7466b1fafea21767c5de1ba31efd48fb319f43a6e16ddbf455d6465",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/desktop.svg",
+      "bytes": 311,
+      "hash": "2a8c04a7534cc7203934b186fb957f45d4f47031cd1db817e9887dfb10762939",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/external-link.svg",
+      "bytes": 284,
+      "hash": "9dc30361a3c58216f02ffa3e20523651a36e34e0619d80eb785005e5bb8af8fb",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/fit.svg",
+      "bytes": 2115,
+      "hash": "a19e89856b88e88c3f3cf2e36e458347db506337cb0426d1c5289a0b0af887db",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/forward.svg",
+      "bytes": 638,
+      "hash": "d868d51ab13b03a9ef999b6355e5472f082c697c02ba12bb18e2db7562ed8b79",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/fullscreen.svg",
+      "bytes": 897,
+      "hash": "4c62bf4bea9990e5c67fca9513e619576d23e2aa6addf9e5d31c330a5195c103",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/github.svg",
+      "bytes": 708,
+      "hash": "419c5de58f4bfeb06ed2e15e475965bd39cfb040d1c8627eed00bcba5f59ae96",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/home.svg",
+      "bytes": 917,
+      "hash": "b9a5a079881df23cab91c5a8d7f954e9211f192fa5cac8ec1bf7e4999d1e53b2",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/info-mobile-dark.svg",
+      "bytes": 401,
+      "hash": "e53933a4c1deb3269a5d23c5de3d1e389c9a8c4d810d56cc6a00a95469b3e2cf",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/info-mobile-gray.svg",
+      "bytes": 401,
+      "hash": "2eeddec9da100852ea75932af817650dc843205e7d204308f63e7784685ba14d",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/linkedin.svg",
+      "bytes": 666,
+      "hash": "ddcbb2735eea12f090ea0ee371d1b9a3462531dc11efd0e944adc2d38c71e2df",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/mail.svg",
+      "bytes": 1017,
+      "hash": "ab7cf83bb94363fb6a0afb5b1a92e784d21fdbd2777c84cb6925504be99f2c4a",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/new-tab.svg",
+      "bytes": 585,
+      "hash": "85fc8c41e54d700c15ea5a54eadf31fa83813eacf6da02dac3455bd54703fd4f",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/phone.svg",
+      "bytes": 330,
+      "hash": "6b94f81c9744000fa13946583bb0c31aa8fc0525ab04651cbce8e039a7951e0b",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/preview-list.svg",
+      "bytes": 712,
+      "hash": "61871c325a48a9af429a6ae7cbf9a07e533ac3ff9a8d9343440c32131a02e166",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/reception-4.svg",
+      "bytes": 468,
+      "hash": "0feb7636e555de9bd3b0dfd95ecf59b32e0bee3bc656e4f72a895363997c8445",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/refresh.svg",
+      "bytes": 1118,
+      "hash": "43281dccb17fe4ef2d2fd459de33debf0fbd9294dac9275c0f047c9fe7d9ae5c",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/rotate.svg",
+      "bytes": 941,
+      "hash": "0c82366627317b8144f341b8cabbb052fb545237a7a0ea0fb31aba6a9709ceb0",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/sidebar.svg",
+      "bytes": 610,
+      "hash": "92bf2dbe5b3fcb05ba3c6c8f2d4aa60270a89391226c7b8a645411535cd7df68",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/tips.svg",
+      "bytes": 962,
+      "hash": "55e8c95e849bd124fac17ab859892a8f7ed5e09c2956408cb503acdb91e8f480",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/wifi.svg",
+      "bytes": 912,
+      "hash": "4bb063e786cf79ce7f386e3c12622c8935de9fd63ddabea2227265a1366f2925",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/zoom-in-clean.svg",
+      "bytes": 289,
+      "hash": "bd04bea6fa97b7460f38d833202ed4fd058b084cb127bdd0fe1742224d176bff",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/zoom-in.svg",
+      "bytes": 531,
+      "hash": "08bc5e3a9b3e03f6a2885a5e371f3c91549d0fa1884495bf3b439da160320e55",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/zoom-out-clean.svg",
+      "bytes": 277,
+      "hash": "e99cefebbac3fb9ebe0af9cb69b5925d37a818b7854d0f8cacf51af1f3e03b4f",
+      "priority": 1
+    },
+    {
+      "path": "/ui-icons/zoom-out.svg",
+      "bytes": 484,
+      "hash": "bfeacc48b97f7c5dd4ed284d3d9b07c118643c56f03f23859a99147c09d522f4",
+      "priority": 1
+    },
+    {
+      "path": "/window.svg",
+      "bytes": 385,
+      "hash": "644768c4aaeb4767bce293344eeb0c125fb804a94d801440424072202d85e3a1",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/_next/static/B0y5-1x0DLDG9BG2MDpTg/_buildManifest.js",
+      "bytes": 219,
+      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/B0y5-1x0DLDG9BG2MDpTg/_clientMiddlewareManifest.js",
+      "bytes": 96,
+      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/B0y5-1x0DLDG9BG2MDpTg/_ssgManifest.js",
+      "bytes": 80,
+      "hash": "678f6ce2cb80b1fe72fc67e7412be6e2ab6ada083111b64f7c40d35e3cba5e00",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/chunks/0.iik6mmic6ft.css",
+      "bytes": 78524,
+      "hash": "9aaab206ba2fa132f54c9b797e020ade9baca67da4ed99c343b03bcc43658073",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/chunks/0~yh~wa4rfdcs.js",
+      "bytes": 17494,
+      "hash": "73f75640ec6932effc4107bda16f8e712dcd26af0ab4cf06ed721c0daf207de7",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/chunks/0267ln9ixd8x1.js",
+      "bytes": 57895,
+      "hash": "20a3727b796f35313fe24d0c0962390ac1c558d64c69caabe70f3ea1a6b8a4ad",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/chunks/03~yq9q893hmn.js",
+      "bytes": 112594,
+      "hash": "0973c1d64c88adc8e3c950410cb58b288f72118d5965b78049438deb8f2f9683",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/chunks/0g~ucc9wb1foi.js",
+      "bytes": 346101,
+      "hash": "fb3b6870753333102b0bbb56a828656f4b6f5ef4cd0b5d4977cf8a9175751803",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/chunks/0mts0tt8jcc23.js",
+      "bytes": 227532,
+      "hash": "9bf156fc0d2d0edc5e3922ee39a04306f85ee2a08cc9e9850dcb03f5cd322758",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/chunks/0xqb75dj5~ss7.js",
+      "bytes": 200544,
+      "hash": "c7a1ff7f791f745246eec078270b8c9c928626ccac182bef2091c41dba445208",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/chunks/turbopack-12lrau-8k623u.js",
+      "bytes": 10553,
+      "hash": "4ace879b09164bceb82b18e8096c31ff0226b0fe8cdad07e426ee3165ea68643",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/media/07454f8ad8aaac57-s.p.0tqkxa-w3pk~c.woff2",
+      "bytes": 39152,
+      "hash": "20fc9b6fc618e7c3c68d3ac750a2a5dfbceb8521675458d2cea580b5693e4798",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/media/224e262ef877bfa4-s.0mo8vqgr8yagc.woff2",
+      "bytes": 28908,
+      "hash": "2d06f2c340ecb52c55153ec56093dc70b167699d7206246570f8ad4800190825",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/media/7f11d98043fdedc9-s.0r4w1y.tjq0ay.woff2",
+      "bytes": 20780,
+      "hash": "b63651df977d08650ff2e598a3979a490f114b59353605e091dd3fdb530f530e",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/media/b6e5b626dbef0d0e-s.p.0y3no1o1g3jm2.woff2",
+      "bytes": 37580,
+      "hash": "175fca6a26f31d5cb47ba4dbd85931f44690f9b473b6ae0f45a190e26bb4c718",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/media/d67ecfb0eebac4c2-s.0_r~eu64iltpj.woff2",
+      "bytes": 2348,
+      "hash": "2e132f8981326e7b2ed96b36f3c9445b25662864a5fe93cc6351a98a6c2b51e7",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/media/d8cb5ab3660140cd-s.0ri_id_kcagyz.woff2",
+      "bytes": 35464,
+      "hash": "511ce967375fd2d924483d798f1086a533259fc675181f62944ec1176fe8786d",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/media/e6d00ff86ef9e699-s.0lcb62h0-.jh3.woff2",
+      "bytes": 13040,
+      "hash": "d107f72673f443b440185eea74262d7aecbe8fb70150e397334e2ab202c5d301",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/media/ede477cce778a6d8-s.0a1pl6pdakimd.woff2",
+      "bytes": 26988,
+      "hash": "619bfff47cd08c39083c9d3fefe2421c795c5a3d0ea6855dea608c926212aefb",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/_next/static/media/favicon.0k-n3ja3_tflp.ico",
+      "bytes": 32038,
+      "hash": "cb2aef1cc865661c4cf13eabc44dc95d32ef9cf862958f47155fb7f1bddab3fe",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/_not-found/index.html",
+      "bytes": 10720,
+      "hash": "07a36c3b9a612d28dc4886a44476f8783bb120f4da21721987d5d11ed7691292",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/404.html",
+      "bytes": 10720,
+      "hash": "07a36c3b9a612d28dc4886a44476f8783bb120f4da21721987d5d11ed7691292",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/404/index.html",
+      "bytes": 10720,
+      "hash": "07a36c3b9a612d28dc4886a44476f8783bb120f4da21721987d5d11ed7691292",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/brand/admin-zeemy-1.png",
+      "bytes": 72160,
+      "hash": "3a76f0f75590a73528988ca88ccddd4331d5cfd197c669f7a03026f4b545049c",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/brand/admin-zeemy-2.png",
+      "bytes": 144189,
+      "hash": "562f494c1e70912ebc36a3d2f2a128b97613f7894c941c5aa5d3bb61f36612cb",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/brand/admin-zeemy-3.png",
+      "bytes": 283904,
+      "hash": "91d0fd93b4bc50dd2105ad8ff2890f454eaa5d4ff6d9e11d44b82a0e76e97f36",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/brand/jastip-di-zeem-logo-hd.png",
+      "bytes": 1238293,
+      "hash": "10a68a01cc7cb23db0f00334d58c55e2194299dc18783e6f64376e7e58081b0d",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/brand/jastip-di-zeem-logo-transparent.png",
+      "bytes": 543017,
+      "hash": "7d0e4dcee6e6df08a9bb57db386ebdd4964fe5c990d753805bfb5f87d952a5fe",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/brand/jastip-pixel-icons-sprite.png",
+      "bytes": 751917,
+      "hash": "485ba3c88ccc9318de1a0cfae48c5f109f280b4e1906c62646fd488f7a9b078f",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/brand/mika-profile.png",
+      "bytes": 290797,
+      "hash": "c0c92579f216a7bbb65a0a37ddce542db590e919750b3f57f002dfc9ee3906eb",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/brand/zeemy-apple-icon-v3.png",
+      "bytes": 27178,
+      "hash": "fff97cc0476a79723699cddf1ed3ad1fd7d57fd0590e236215dbdfcf91d44e50",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/brand/zeemy-tab-icon-v3.png",
+      "bytes": 164161,
+      "hash": "78d1486643bcc589099507a97647a32adfbdc7c87bddb7957b40149bf326e7d7",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/favicon.ico",
+      "bytes": 32038,
+      "hash": "cb2aef1cc865661c4cf13eabc44dc95d32ef9cf862958f47155fb7f1bddab3fe",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/favicon.svg",
+      "bytes": 712,
+      "hash": "e6d2e59b7b5bbb0342e0fb496dfc262decbfe4426bbb7b047aec8d467d1dc6f7",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/file.svg",
+      "bytes": 392,
+      "hash": "1e0ae4d1a1ddfa36752988647b731e4abf150c414d069ec83c96fb0aaeff0307",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/globe.svg",
+      "bytes": 1036,
+      "hash": "d051a8c47936990a9085693d307bb7cea1bc1b6d7ed956bcbaacf674f4ec96b9",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/index.html",
+      "bytes": 9412,
+      "hash": "e2a81a690bfe7c99357cf7a358bee7cefb82388ab6fe69de6e1e0b09f2f6f877",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/products/berry-bear.svg",
+      "bytes": 1032,
+      "hash": "5cb915f26a48d094a4332028974dae188fe7d6e45c1066252065d25713097780",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/products/hello-kitty.png",
+      "bytes": 772361,
+      "hash": "f5290ab76dae1977d1a345410d884c3cfc85a7e425f1805b36b51d9716b8bdce",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/products/neck-pillow.png",
+      "bytes": 782716,
+      "hash": "3b92295bcf5b2b30948d53bdb6256c194801c7586a799e9861f3e7773b5aa99f",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/products/penguin.png",
+      "bytes": 1207976,
+      "hash": "884e6950a2d847c46237b0a457a05f095ed6d4c7b07e32cc940af579d623c283",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/products/pig-plush.png",
+      "bytes": 668848,
+      "hash": "232368bb4a71c2271c3acddb272e06051b79830d87b77dd8f969170105d6e38c",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/products/ribbon-pouch.svg",
+      "bytes": 742,
+      "hash": "e686371bfaa861545845a0eeabc6830aeff4fb440dda74111cf801603464b55d",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/products/sakura-mirror.svg",
+      "bytes": 960,
+      "hash": "bfeaacfa593723aff40d661c6828bb7a2f8361b326bb5c03d777948fd3b12ea4",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/products/sakura-tumbler.svg",
+      "bytes": 1062,
+      "hash": "7f33c42f59a371c58b6624c2e927635368e725d3c39b96cf61832051c1f4801a",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/products/sleep-mask.png",
+      "bytes": 856978,
+      "hash": "ff5b1ef13bda4cb303537b42ef278beb71745559f645cb20c30773968e92c894",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/products/strawberry-charm.svg",
+      "bytes": 922,
+      "hash": "a705c470ee2200b7c4c1d42253059fb66a69ef2283574464573a3246a9f76278",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/products/sweet-tote.svg",
+      "bytes": 827,
+      "hash": "0b79432adb722ce67ffae793e89d300458c00e36a2845929a6db97a732d638cc",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/products/watermelon.png",
+      "bytes": 201239,
+      "hash": "cedd9a8677919d869e8bd95cb140e576dde9ae35533baeb717d1aa3fd0a39560",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/window.svg",
+      "bytes": 386,
+      "hash": "decf1cf7bb22b5c99c4857cfcd5718ce5465c4454166317589c83fc73df74b66",
+      "priority": 1
+    },
+    {
+      "path": "/ZeeMy/zeemy-polish.css",
+      "bytes": 2500,
+      "hash": "c8e54a98dde3f791f348f326d86a11bcfe661e4ada7b638239d9c9b986f6e4a3",
+      "priority": 0
+    },
+    {
+      "path": "/ZeeMy/zeemy-polish.js",
+      "bytes": 4349,
+      "hash": "5f4c269479e0d4919e2b8e9aa6a2b0bf9fa55e2af4af69f90fdcb424e205039a",
+      "priority": 0
+    }
+  ],
+  "limitBytes": 268435456
+}

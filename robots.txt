@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+Disallow: /demos/
+Disallow: /ZeeMy/
+Disallow: /KhabilaKitchen/
+Disallow: /Por-Prov/
+Disallow: /intelligence-os/
+Disallow: /game-engine.html
+
+Host: https://nandomaul.com
+Sitemap: https://nandomaul.com/sitemap.xml

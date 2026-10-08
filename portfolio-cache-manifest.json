@@ -1,6 +1,12 @@
 {
-  "version": "46a737fad6a51a73",
+  "version": "deff8f4404d54338",
   "assets": [
+    {
+      "path": "/_next/static/chunks/058zmwx6ociok.js",
+      "bytes": 127194,
+      "hash": "f33a9703433c7078566089bea9816f09bc562e3547a18679fa86baeca100fe8a",
+      "priority": 0
+    },
     {
       "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
       "bytes": 112594,
@@ -23,12 +29,6 @@
       "path": "/_next/static/chunks/1gwud4t10r9jf.css",
       "bytes": 284246,
       "hash": "648a7ca00dbc292c598db4482ad090b5d40024cdef3144828d4dffe3275daf31",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/chunks/1vsdhxn4ytqv8.js",
-      "bytes": 126953,
-      "hash": "4758c2ad78013caffeb1aed802215000dbb984b6bf77a5ebb2c3b8cb0d2e6420",
       "priority": 0
     },
     {
@@ -122,19 +122,19 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/oBTMmlFA4bricVZdsx-BT/_buildManifest.js",
+      "path": "/_next/static/Vzy4oHK12jeozsr9zvMYu/_buildManifest.js",
       "bytes": 219,
       "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
       "priority": 0
     },
     {
-      "path": "/_next/static/oBTMmlFA4bricVZdsx-BT/_clientMiddlewareManifest.js",
+      "path": "/_next/static/Vzy4oHK12jeozsr9zvMYu/_clientMiddlewareManifest.js",
       "bytes": 96,
       "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
       "priority": 0
     },
     {
-      "path": "/_next/static/oBTMmlFA4bricVZdsx-BT/_ssgManifest.js",
+      "path": "/_next/static/Vzy4oHK12jeozsr9zvMYu/_ssgManifest.js",
       "bytes": 107,
       "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0

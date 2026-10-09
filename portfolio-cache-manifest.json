@@ -1,6 +1,24 @@
 {
-  "version": "d050aafb5d50e03e",
+  "version": "f902a26fdf7cc435",
   "assets": [
+    {
+      "path": "/_next/static/ayBxekvgO5xiX7MsCJhMk/_buildManifest.js",
+      "bytes": 219,
+      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/ayBxekvgO5xiX7MsCJhMk/_clientMiddlewareManifest.js",
+      "bytes": 96,
+      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/ayBxekvgO5xiX7MsCJhMk/_ssgManifest.js",
+      "bytes": 107,
+      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
+      "priority": 0
+    },
     {
       "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
       "bytes": 112594,
@@ -26,15 +44,15 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/chunks/24etsiitiqh56.js",
-      "bytes": 128840,
-      "hash": "9207dcf2997083b45f4730da773e74101d533a667160e7c78e333491b1168ee5",
-      "priority": 0
-    },
-    {
       "path": "/_next/static/chunks/2vlgjjnsppgna.js",
       "bytes": 181923,
       "hash": "ce47fb918b440fc409e311e09f1bbd48479977775caefe6bbf3ba6565ca1e826",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/32vx4-rzltoec.js",
+      "bytes": 129087,
+      "hash": "2aebe1d422542b292e37523f1985fd90578ef746712e828fa58406180b6efce8",
       "priority": 0
     },
     {
@@ -119,24 +137,6 @@
       "path": "/_next/static/media/fef07dbb0973bf53-s.3p2_lha1f2xer.woff2",
       "bytes": 7252,
       "hash": "b7a545bbb08256bd809f11cfe66d88da3e22d169ea4407737b1ef0ec1ed3d791",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/sATu-gvOFDOlnYFx4Xe3G/_buildManifest.js",
-      "bytes": 219,
-      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/sATu-gvOFDOlnYFx4Xe3G/_clientMiddlewareManifest.js",
-      "bytes": 96,
-      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/sATu-gvOFDOlnYFx4Xe3G/_ssgManifest.js",
-      "bytes": 107,
-      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
     },
     {
@@ -2048,9 +2048,51 @@
       "priority": 1
     },
     {
+      "path": "/demos/systemadf/app-icons/apple-touch-icon.png",
+      "bytes": 1442,
+      "hash": "5fd5af29f5926b3d10445699540dca584a3d1e1e73a5744c26fb97491271bbed",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/app-icons/icon-192.png",
+      "bytes": 1438,
+      "hash": "40d87430bcd7176ccf9eec8e547f34825542587e19e8caf1c3cf02d5d2e66f35",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/app-icons/icon-512.png",
+      "bytes": 6070,
+      "hash": "fcacc8a0e0ee858fefc549b3d0792bb9aa2ae6b987c6a8288a57ee13974248d7",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/app-releases.json",
+      "bytes": 944,
+      "hash": "e8728b9afa497154d2dc50684a76157ff96b64c13c6ed83c95333d76c33a0a33",
+      "priority": 0
+    },
+    {
       "path": "/demos/systemadf/assets/html2canvas.esm-BTH0Ap93.js",
       "bytes": 200047,
       "hash": "801f0fe6f8ed506c939b18c89869bf60ae205ec6ffffafaf6558c7805851b99a",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/assets/index-afEfURot.js",
+      "bytes": 1332,
+      "hash": "aee5b05e4e951dfe86a2d96a2d9de89ac8d01ba5e9a6d521f2d5fddebcbda7e2",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/assets/index-BOY8wbU8.js",
+      "bytes": 344,
+      "hash": "72fc4ccb3642e70f7c2abfbf6447a6cfe06bdfa53e4d62f12a146edb72402aac",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/assets/index-BVjrhdYi.js",
+      "bytes": 338,
+      "hash": "ba7b16e65ef62248149705cb91d6d899d3253d1e89bfc349a5175b340563d43c",
       "priority": 0
     },
     {
@@ -2060,33 +2102,45 @@
       "priority": 0
     },
     {
-      "path": "/demos/systemadf/assets/index-DFj5Caok.js",
-      "bytes": 1213316,
-      "hash": "2286315edf3f794cd99e1496f3d25ecd328c99b556dfb92437836a04e5dee9e1",
+      "path": "/demos/systemadf/assets/index-CiiJMVqv.css",
+      "bytes": 274863,
+      "hash": "87bf4c8d092397b2f6f0628b4216758257b43cd9943efd87cf2d99ed10b65a03",
       "priority": 0
     },
     {
-      "path": "/demos/systemadf/assets/index-DGEyNMyt.css",
-      "bytes": 236732,
-      "hash": "f241f4ee7edd570d64e3379e57bb584ef425d30693891fd92a10564a0fdb072a",
+      "path": "/demos/systemadf/assets/index-CTKa-ey-.js",
+      "bytes": 1449670,
+      "hash": "53942ecb2183bd0a55c85b26479c58c476f05ef1adb379ad068f025d5648cf6c",
       "priority": 0
     },
     {
-      "path": "/demos/systemadf/assets/index.es-3-1SgPQO.js",
+      "path": "/demos/systemadf/assets/index-DWQbJBDv.js",
+      "bytes": 332,
+      "hash": "21ae406cf8f14c9ca167556d4eb307560703cd43c621d9d627bcac9c289a740d",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/assets/index.es-DZ80xepl.js",
       "bytes": 157135,
-      "hash": "781eb80eb0230b8e99d8be9686eabc337de2060bc4a38f463d19e00a0d328043",
+      "hash": "4f44845044c193b4857ee35121a7e65730472f8f38943dc2fabdaf5d1df60ac0",
       "priority": 0
     },
     {
-      "path": "/demos/systemadf/assets/jspdf.es.min-WD7esTWy.js",
+      "path": "/demos/systemadf/assets/jspdf.es.min-DYk4y32Z.js",
       "bytes": 386651,
-      "hash": "145bec5953e3a468bafddf79e5262bf6a0e8f1589b963513a2a03d6827cc75c8",
+      "hash": "bc1e47e58a89ff011ac8b67f605fef447376f225f27594206180b9660cf27ecb",
       "priority": 0
     },
     {
-      "path": "/demos/systemadf/assets/jsQR-DQFaoYzg.js",
+      "path": "/demos/systemadf/assets/jsQR-6y8J2glz.js",
       "bytes": 130030,
-      "hash": "b69c85894c6f6e43783ace09c1506192e55725725101b9b48cbf3817b328fe9a",
+      "hash": "69cad4d06aa5a71cea182aae9b9acba153c18df78075615aff9c8ea13b4107bf",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/assets/notificationRuntime-DLzKWQOb.js",
+      "bytes": 1369,
+      "hash": "7fafd2848515fa8f523abf611980c0fc09a87e4d17b376405dced9b2ecc9a870",
       "priority": 0
     },
     {
@@ -2102,6 +2156,30 @@
       "priority": 0
     },
     {
+      "path": "/demos/systemadf/assets/web-CvbwjPRX.js",
+      "bytes": 8742,
+      "hash": "64f9dfb2b0f8a4d8af5b4a16f93d131ecf3f22af72c8c33eaeff51502a5283ab",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/assets/web-dEuqSI_E.js",
+      "bytes": 842,
+      "hash": "0cb613594e7f8606c6750e691408005d497e6b049f51ff68135c04673ad18c4d",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/assets/web-Duoqj-hP.js",
+      "bytes": 379,
+      "hash": "f913090f85c16a6bb2b5288087b4356e3b372dfc79389c361f5fd0aad5f69662",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/assets/web-YnEi2rA8.js",
+      "bytes": 377,
+      "hash": "1e7e289bffa3db5c340710e6873585c007e96bb377c528e379fa4ca03568b8ca",
+      "priority": 0
+    },
+    {
       "path": "/demos/systemadf/avatar/fotoprofile1.png",
       "bytes": 2311405,
       "hash": "0f2cb6b0dc0850d838d5c2fdcfc9f5484b24321765d43c4fc358a5300a2e5dbd",
@@ -2109,20 +2187,20 @@
     },
     {
       "path": "/demos/systemadf/avatar/fotoprofile10.png",
-      "bytes": 911698,
-      "hash": "46f711bd0e877526c0d363823039b2b42f3430748596127e11633b8c84566f52",
+      "bytes": 955861,
+      "hash": "c0551445928f62d8e9d514347bc8470b7019120324ee0027beb659db2436b9c6",
       "priority": 1
     },
     {
       "path": "/demos/systemadf/avatar/fotoprofile11.png",
-      "bytes": 955496,
-      "hash": "e95a805c63bc8c7e2c3c21180d14a6bebc4418a05934af1799e4e94307529d14",
+      "bytes": 1000034,
+      "hash": "e711d3a682cbd2d2e99847bb5789c4d36087493c79b147fa03547e1146791f68",
       "priority": 1
     },
     {
       "path": "/demos/systemadf/avatar/fotoprofile12.png",
-      "bytes": 814330,
-      "hash": "4c4aa07243e0a1ad15ef4f98fe553964c23a495aa7028e639f15dfb4cf4e48fd",
+      "bytes": 860128,
+      "hash": "4491622e305199e102b7579cdd13d0922831bb93ec5748afb748222a1658f8fb",
       "priority": 1
     },
     {
@@ -2139,8 +2217,8 @@
     },
     {
       "path": "/demos/systemadf/avatar/fotoprofile15.png",
-      "bytes": 975130,
-      "hash": "a04960bf8c0159a74f685f47b5c45fb71b1ca5afe845c5db413a6179657450e9",
+      "bytes": 1018970,
+      "hash": "fb10a0942d98418d8f57ce83a1060dc1f5e0216de29a62374511231091f48f09",
       "priority": 1
     },
     {
@@ -2217,20 +2295,20 @@
     },
     {
       "path": "/demos/systemadf/brand/previewtask.png",
-      "bytes": 253762,
-      "hash": "c5a1287ed7adf20729d946009f63c900d308307a3c17217daab6b8d9e45fd014",
+      "bytes": 897679,
+      "hash": "45b3da2a61032c6f7a2019b0bf0c183b258089f8b159e8d1dd07825460702182",
       "priority": 1
     },
     {
       "path": "/demos/systemadf/brand/previewtask2.png",
-      "bytes": 764987,
-      "hash": "2a21dd9a9d83c206c6c240c29ce9f0f769aa41ddd9484e77c53e443c1aa3e0f4",
+      "bytes": 1391143,
+      "hash": "4509549dafa77fc07872168bfd97feb28cd98e4ddb1f015bc7b3b2ba8d4585c3",
       "priority": 1
     },
     {
       "path": "/demos/systemadf/brand/previewtask3.png",
-      "bytes": 235758,
-      "hash": "3c1439e1056920893e7b30042b81bac41b0e7e031d575aad19afd76d3da5e8dc",
+      "bytes": 650304,
+      "hash": "da2885190994edf4caa6268a5ee86e53b667fba20fed9ccdda6bf06e0be3a185",
       "priority": 1
     },
     {
@@ -2511,8 +2589,8 @@
     },
     {
       "path": "/demos/systemadf/index.html",
-      "bytes": 1790,
-      "hash": "b32688d4c5172f0cfa48e730db94e615303113d0b85469b06e5a96704d5451cd",
+      "bytes": 2220,
+      "hash": "a70926a030a3dd369995f23eb34b68077fce3a8b600e34ea38fd502ffb5bd035",
       "priority": 0
     },
     {
@@ -2675,6 +2753,12 @@
       "path": "/demos/systemadf/portfolio-preview-bridge.js",
       "bytes": 785,
       "hash": "37eff5621c090135679be7f1dea97f2f6b6ac4959da27ac4b5287d7a8c3b5b32",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/portfolio-version.json",
+      "bytes": 77,
+      "hash": "2dda94e6edda7b4e03c0aa05b126bf24981a835cab72e97e6b74528b4754146e",
       "priority": 0
     },
     {

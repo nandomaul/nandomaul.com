@@ -1,24 +1,6 @@
 {
-  "version": "1172d2b6525cf1b6",
+  "version": "e76ceaf7954f8f4d",
   "assets": [
-    {
-      "path": "/_next/static/2_9ISRoCqc4_VsDbLLE17/_buildManifest.js",
-      "bytes": 219,
-      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/2_9ISRoCqc4_VsDbLLE17/_clientMiddlewareManifest.js",
-      "bytes": 96,
-      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/2_9ISRoCqc4_VsDbLLE17/_ssgManifest.js",
-      "bytes": 107,
-      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
-      "priority": 0
-    },
     {
       "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
       "bytes": 112594,
@@ -44,9 +26,9 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/chunks/2_n66er5obq73.js",
-      "bytes": 128849,
-      "hash": "4c450d675c639d4487fb281b1c6c8032bd641988c3cca95908d0286b3f57d891",
+      "path": "/_next/static/chunks/24etsiitiqh56.js",
+      "bytes": 128840,
+      "hash": "9207dcf2997083b45f4730da773e74101d533a667160e7c78e333491b1168ee5",
       "priority": 0
     },
     {
@@ -137,6 +119,24 @@
       "path": "/_next/static/media/fef07dbb0973bf53-s.3p2_lha1f2xer.woff2",
       "bytes": 7252,
       "hash": "b7a545bbb08256bd809f11cfe66d88da3e22d169ea4407737b1ef0ec1ed3d791",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/sj0010Ikf6scgr1sJoBhQ/_buildManifest.js",
+      "bytes": 219,
+      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/sj0010Ikf6scgr1sJoBhQ/_clientMiddlewareManifest.js",
+      "bytes": 96,
+      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/sj0010Ikf6scgr1sJoBhQ/_ssgManifest.js",
+      "bytes": 107,
+      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
     },
     {

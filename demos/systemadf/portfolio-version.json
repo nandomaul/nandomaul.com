@@ -1,5 +1,7 @@
 {
-  "revision": 40,
+  "revision": 42,
   "appVersion": "2.17.21",
-  "data": "local-demo-only"
+  "data": "local-demo-only",
+  "demoDataRevision": 42,
+  "description": "Three-day request pages, supplied native covers, complete month, unique avatars and 84 inventory items."
 }

@@ -1,5 +1,5 @@
 {
-  "version": "d21b34ca516ac2a8",
+  "version": "0816f450028294b5",
   "assets": [
     {
       "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
@@ -20,21 +20,9 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/chunks/1gwud4t10r9jf.css",
-      "bytes": 284246,
-      "hash": "648a7ca00dbc292c598db4482ad090b5d40024cdef3144828d4dffe3275daf31",
-      "priority": 0
-    },
-    {
       "path": "/_next/static/chunks/2vlgjjnsppgna.js",
       "bytes": 181923,
       "hash": "ce47fb918b440fc409e311e09f1bbd48479977775caefe6bbf3ba6565ca1e826",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/chunks/32vx4-rzltoec.js",
-      "bytes": 129087,
-      "hash": "2aebe1d422542b292e37523f1985fd90578ef746712e828fa58406180b6efce8",
       "priority": 0
     },
     {
@@ -47,6 +35,18 @@
       "path": "/_next/static/chunks/3dmm3v_fq28gc.js",
       "bytes": 229820,
       "hash": "12c72318dee8d15a8fc5ea65c908da89cbbbfdc3ec455040db8b2fd3d2e7e0f8",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/3tygapu1h-g--.js",
+      "bytes": 129118,
+      "hash": "f4592db3d563de4eb40ce0145d8532058c16451ba9ceb0f8dd510ae62be89826",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/40f92syq7buuy.css",
+      "bytes": 286119,
+      "hash": "e4be7fc9291dee80f7fa86c1e3e2728a4b36a992ed6785bb3081f6f426f9caee",
       "priority": 0
     },
     {
@@ -122,19 +122,19 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/rDMaR08OAJGTMm5WzyznN/_buildManifest.js",
+      "path": "/_next/static/vdMpQGV4g2_pkUmlryw4N/_buildManifest.js",
       "bytes": 219,
       "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
       "priority": 0
     },
     {
-      "path": "/_next/static/rDMaR08OAJGTMm5WzyznN/_clientMiddlewareManifest.js",
+      "path": "/_next/static/vdMpQGV4g2_pkUmlryw4N/_clientMiddlewareManifest.js",
       "bytes": 96,
       "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
       "priority": 0
     },
     {
-      "path": "/_next/static/rDMaR08OAJGTMm5WzyznN/_ssgManifest.js",
+      "path": "/_next/static/vdMpQGV4g2_pkUmlryw4N/_ssgManifest.js",
       "bytes": 107,
       "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0

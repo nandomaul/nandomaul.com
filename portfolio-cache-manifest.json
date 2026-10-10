@@ -1,5 +1,5 @@
 {
-  "version": "fb35da62b52c30d0",
+  "version": "d21b34ca516ac2a8",
   "assets": [
     {
       "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
@@ -122,19 +122,19 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/UAsshJ7VkUuMlIgZ1v_2a/_buildManifest.js",
+      "path": "/_next/static/rDMaR08OAJGTMm5WzyznN/_buildManifest.js",
       "bytes": 219,
       "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
       "priority": 0
     },
     {
-      "path": "/_next/static/UAsshJ7VkUuMlIgZ1v_2a/_clientMiddlewareManifest.js",
+      "path": "/_next/static/rDMaR08OAJGTMm5WzyznN/_clientMiddlewareManifest.js",
       "bytes": 96,
       "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
       "priority": 0
     },
     {
-      "path": "/_next/static/UAsshJ7VkUuMlIgZ1v_2a/_ssgManifest.js",
+      "path": "/_next/static/rDMaR08OAJGTMm5WzyznN/_ssgManifest.js",
       "bytes": 107,
       "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
@@ -2066,6 +2066,12 @@
       "priority": 0
     },
     {
+      "path": "/demos/systemadf/adf-demo-data-v43.js",
+      "bytes": 107192,
+      "hash": "da539cca37c8cb172410b29959e937f2da20b42db64447a1cb68eb01f49005ec",
+      "priority": 0
+    },
+    {
       "path": "/demos/systemadf/app-icons/apple-touch-icon.png",
       "bytes": 1442,
       "hash": "5fd5af29f5926b3d10445699540dca584a3d1e1e73a5744c26fb97491271bbed",
@@ -2750,9 +2756,297 @@
       "priority": 1
     },
     {
+      "path": "/demos/systemadf/demo-v43/catalog-covers/7-7-urgent-upload.png",
+      "bytes": 1049,
+      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/catalog-covers/828-realme-festival.png",
+      "bytes": 1049,
+      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/catalog-covers/akaso.png",
+      "bytes": 1049,
+      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/catalog-covers/august-asset-official-store.png",
+      "bytes": 1049,
+      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/catalog-covers/july-assets.png",
+      "bytes": 1049,
+      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/catalog-covers/october-assets.png",
+      "bytes": 1049,
+      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/catalog-covers/official-partner.png",
+      "bytes": 1049,
+      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/catalog-covers/p4-series.png",
+      "bytes": 1049,
+      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/catalog-covers/realme-16-pro-5g-harry-potter-edition.png",
+      "bytes": 1049,
+      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/catalog-covers/september-official-store.png",
+      "bytes": 1049,
+      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/cover-files.json",
+      "bytes": 850,
+      "hash": "4b1ff8a2322ca470e742413da247712191da1940c1cc9e158530f5f9822658b3",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/data.json",
+      "bytes": 101694,
+      "hash": "7f9099b1cd229e52b679350d120c120913ab0e1fa675628899bfa90f984691fc",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/alat-paper-clipper-office-0.jpg",
+      "bytes": 18832,
+      "hash": "e20d12df9c9c161c057533fc421625d5fbc538a8b49a85e62b60487fb1c21991",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/amplop-besar-office-i.jpg",
+      "bytes": 25387,
+      "hash": "d144a30bd3d2d5aec8202aef0da959ca3d83cc1d7dcc8f4eae10a83c5834f00d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/amplop-kecil-office-0.jpg",
+      "bytes": 25387,
+      "hash": "d144a30bd3d2d5aec8202aef0da959ca3d83cc1d7dcc8f4eae10a83c5834f00d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/baterai-aaa-office-0.jpg",
+      "bytes": 41248,
+      "hash": "22fd8b17ea3025bbea82f0e4f0a3d92f156c89d3d684249863c6b6d3730b2934",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/binder-box-file-office-0.jpg",
+      "bytes": 18199,
+      "hash": "ef284ac4c38260d52d9265ff3273b514b33338792ed1d795363576be8cbd983a",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/binder-clip-105-box-office-0.jpg",
+      "bytes": 14059,
+      "hash": "3392e3d286ae033b6062b2bfdf3a86b09cf2f7148918b4c887fa6c9d608d1ee6",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/binder-clip-111-box-office-0.jpg",
+      "bytes": 14059,
+      "hash": "3392e3d286ae033b6062b2bfdf3a86b09cf2f7148918b4c887fa6c9d608d1ee6",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/binder-clip-200-box-office-0.jpg",
+      "bytes": 14059,
+      "hash": "3392e3d286ae033b6062b2bfdf3a86b09cf2f7148918b4c887fa6c9d608d1ee6",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/binder-clip-260-box-office-0.jpg",
+      "bytes": 14059,
+      "hash": "3392e3d286ae033b6062b2bfdf3a86b09cf2f7148918b4c887fa6c9d608d1ee6",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/binder-clip-300-office-0.jpg",
+      "bytes": 14059,
+      "hash": "3392e3d286ae033b6062b2bfdf3a86b09cf2f7148918b4c887fa6c9d608d1ee6",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/clear-holder-40-office-0.jpg",
+      "bytes": 5482,
+      "hash": "163972fe41ea28c78b2d74a64ba7461899b815276b1c21732c66d5cee341e269",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/clear-sleeves-f4-office-0.jpg",
+      "bytes": 19497,
+      "hash": "c26ba399823f848a8b4f5f923817852a0956498672d968912eafa7e0e360d75c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/cutter-besar-office-0.jpg",
+      "bytes": 26605,
+      "hash": "14c69633f0b246a59d0ab36d6c8421c98aaa8ee0b4debed6de376a0636e71ba0",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/cutter-kecil-office-i.jpg",
+      "bytes": 12964,
+      "hash": "15e2b9faf744f6916c1821e3a896b2aaeb03439d5c1a0f0cf74e65b47c99131d",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/gunting-office-0.jpg",
+      "bytes": 16248,
+      "hash": "6a688b382f2eb6a0d23870fdae70a95d0e1607e54366b49bb1085a5456b989be",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/highlighter-office-0.jpg",
+      "bytes": 13206,
+      "hash": "0b16a458bbc86be2e8a02797a1a3d75bf36b0b4a7fc745232d38922978f88ecf",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/isi-cutter-office-0.jpg",
+      "bytes": 33783,
+      "hash": "82e0d71a8a20f0ded5008ffb4a84325304c6f192176ba7bcc995533ce2e1d6c4",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/isi-staples-office-0.jpg",
+      "bytes": 30938,
+      "hash": "668713b6218469127444037f1d2a83c8e7f9efaa7367359e8a62b1ed7621981b",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/kertas-a4-rim-office-0.jpg",
+      "bytes": 31487,
+      "hash": "30d68915be62c42fea03e8bece731162573a0841baf3e101405addbda9374a64",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/map-clear-sleeves-a4-office-0.jpg",
+      "bytes": 19497,
+      "hash": "c26ba399823f848a8b4f5f923817852a0956498672d968912eafa7e0e360d75c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/map-coklat-a4-office-0.jpg",
+      "bytes": 25279,
+      "hash": "5087171593d1167156c572efd8430aa5de81a94bf236c062e269eb1427395c4c",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/mechanical-pencil-office-0.jpg",
+      "bytes": 19305,
+      "hash": "29b9e47531bac99acd71ba5e1f35f0d167ce1fae40bac1d100aee2bb28a77872",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/notebook-besar-office-0.jpg",
+      "bytes": 23427,
+      "hash": "c8965ecea2c968aa220fd8901f9e829ec787f1a8d9230b22be9459ea68dddc55",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/notebook-kecil-office-0.jpg",
+      "bytes": 23436,
+      "hash": "7a5a598568eee8b373ce67edf12b987b8cc31fc493c0f9a166b439521b637aee",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/pencil-kayu-office-0.jpg",
+      "bytes": 6117,
+      "hash": "81d9690b414241b29698eb9b3a8114e1dbae7c263a8fe996e6c2afdc6b3edfbe",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/pencil-refill-office-0.jpg",
+      "bytes": 27170,
+      "hash": "e5179f0fcd22b185b52a603e67c4b4add3f5b121da3f0588121dc7cc8a7aea57",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/sign-here-sticker-office-i.jpg",
+      "bytes": 27618,
+      "hash": "b34123fe4a1cbb8e0736ef4cbdc3403be28d21177b80c9da731b4c48370acb90",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/spidol-biru-office-0.jpg",
+      "bytes": 11208,
+      "hash": "bc5087798c155c832b5c79b2a85e57da5bcbf84891d57338db30c244c3ec23dd",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/spidol-merah-office-0.jpg",
+      "bytes": 9815,
+      "hash": "7144b3a9fcc2b78df954aba8e2e88cfdb51ca5b4dc840282fc32d29f505c168b",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/stapler-office-0.jpg",
+      "bytes": 23834,
+      "hash": "55700aebc5f31f07c15c0d6b338492c95bc068eb7d44409e7bbb74dabe445ebb",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/staples-remover-office-i.jpg",
+      "bytes": 16381,
+      "hash": "114d9ace9ee0c51c556ceb4b897bfaa340bbfaa89cd62ee38078bb66e7db3303",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/stationary-holder-office-0.jpg",
+      "bytes": 15710,
+      "hash": "ef7bdef722d82ffcd6493da854a3767680242d562771af323043cc3699821584",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/sticky-notes-office-0.jpg",
+      "bytes": 24481,
+      "hash": "c15e96a5612e53f9417a9434ebcda69d02802b05b6d7960b702d74c895ecda46",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/tape-cutter-office-i.jpg",
+      "bytes": 14698,
+      "hash": "7affafad6db80502aa197bd2e90ab91c1ab8103afa23725a33f06782212b2b54",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/tissue-basah-office-0.jpg",
+      "bytes": 41706,
+      "hash": "9ae74528aa18d8e8c14f382a2f782f93c911255a60545e966b5abc4998c821aa",
+      "priority": 1
+    },
+    {
+      "path": "/demos/systemadf/demo-v43/inventory/trigonal-clip-office-0.jpg",
+      "bytes": 40670,
+      "hash": "75b8c5921d1b5a9868533b41056e839d91ed1d2a335e687ba0ef9e9500bc8d0d",
+      "priority": 1
+    },
+    {
       "path": "/demos/systemadf/index.html",
-      "bytes": 2340,
-      "hash": "6d315b1c4bf6bcbb62ce4fbf4f7a5bc1c9c60a459b19b03f654e154f27d18cb7",
+      "bytes": 2402,
+      "hash": "52bacc694e7fbfc559e2a839688e242983ec69a691dc397fffbb687957b588f6",
       "priority": 0
     },
     {

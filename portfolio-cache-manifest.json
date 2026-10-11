@@ -1,20 +1,20 @@
 {
-  "version": "cb75e4ca6453110f",
+  "version": "54b58cae48a8c99c",
   "assets": [
     {
-      "path": "/_next/static/-o7q2lutur4pYQnX7XIQK/_buildManifest.js",
+      "path": "/_next/static/_cNRfmZHCC2a4kt7my18i/_buildManifest.js",
       "bytes": 219,
       "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
       "priority": 0
     },
     {
-      "path": "/_next/static/-o7q2lutur4pYQnX7XIQK/_clientMiddlewareManifest.js",
+      "path": "/_next/static/_cNRfmZHCC2a4kt7my18i/_clientMiddlewareManifest.js",
       "bytes": 96,
       "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
       "priority": 0
     },
     {
-      "path": "/_next/static/-o7q2lutur4pYQnX7XIQK/_ssgManifest.js",
+      "path": "/_next/static/_cNRfmZHCC2a4kt7my18i/_ssgManifest.js",
       "bytes": 107,
       "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
@@ -32,21 +32,21 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/chunks/0pspzzyef8iql.css",
-      "bytes": 294562,
-      "hash": "f624a192788c081a30a5f2519a6736dcba750e97c0f0fbc3364a963221c7c661",
-      "priority": 0
-    },
-    {
       "path": "/_next/static/chunks/0umf92h1sb77c.js",
       "bytes": 13822,
       "hash": "c410d0f2543e080768fc14f73b2bd1fdf103e26956e9730390b5e41c4fb5ff8b",
       "priority": 0
     },
     {
-      "path": "/_next/static/chunks/2cc3b5jjow4a1.js",
-      "bytes": 141387,
-      "hash": "a03df699548ba16df82ebe57c5498432934260cf14bee984df2b528ea5eac09e",
+      "path": "/_next/static/chunks/26-pkl61u8pfv.js",
+      "bytes": 152399,
+      "hash": "e601e81f89d0f0d3995387ca783e764f56f1e270e8ee636213e677145ae238f7",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/2jsd6p2_ipbdt.css",
+      "bytes": 313169,
+      "hash": "5a440699e91103ae7533e45e3b0dc70a345dbf7f1a72f2127c1b22c385baf288",
       "priority": 0
     },
     {

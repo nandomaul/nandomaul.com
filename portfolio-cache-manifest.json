@@ -1,5 +1,5 @@
 {
-  "version": "7a080ee3c06efcaf",
+  "version": "636fc4162791c02b",
   "assets": [
     {
       "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
@@ -53,24 +53,6 @@
       "path": "/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
       "bytes": 10030,
       "hash": "8bbb58cbfd4633c1d828c6bc37bc32abc768a149c01b1dfc4f5131fd81274551",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/h1_M6yNoOaiso-Q-uRLj0/_buildManifest.js",
-      "bytes": 219,
-      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/h1_M6yNoOaiso-Q-uRLj0/_clientMiddlewareManifest.js",
-      "bytes": 96,
-      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/h1_M6yNoOaiso-Q-uRLj0/_ssgManifest.js",
-      "bytes": 107,
-      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
     },
     {
@@ -137,6 +119,24 @@
       "path": "/_next/static/media/fef07dbb0973bf53-s.3p2_lha1f2xer.woff2",
       "bytes": 7252,
       "hash": "b7a545bbb08256bd809f11cfe66d88da3e22d169ea4407737b1ef0ec1ed3d791",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/Qygk6Byj2PpxCBN_FAa9L/_buildManifest.js",
+      "bytes": 219,
+      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/Qygk6Byj2PpxCBN_FAa9L/_clientMiddlewareManifest.js",
+      "bytes": 96,
+      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/Qygk6Byj2PpxCBN_FAa9L/_ssgManifest.js",
+      "bytes": 107,
+      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
     },
     {
@@ -3825,8 +3825,8 @@
     },
     {
       "path": "/portfolio-covers/desktop/cover-adf.png",
-      "bytes": 1936264,
-      "hash": "426a025696f94eb056c434974d1fc561ccecc64268f4fe29318784364f3231cf",
+      "bytes": 1842100,
+      "hash": "9754a8f76821d1d58eb49923800ae13fbdb162abf0d1959c468186498f627956",
       "priority": 1
     },
     {
@@ -3867,8 +3867,8 @@
     },
     {
       "path": "/portfolio-covers/desktop/cover-rumah-subsidi.png",
-      "bytes": 1786850,
-      "hash": "9d6c8eb1fc79b3e8c11ed13dc2b98123492b7ca4d08b191651e000a9d3a3db61",
+      "bytes": 1777817,
+      "hash": "c05395247ea59cb7fc603d465811ed111620906b4b8b0c1851c2e94622b4bcc8",
       "priority": 1
     },
     {
@@ -3885,8 +3885,8 @@
     },
     {
       "path": "/portfolio-covers/mobile/cover-adf.png",
-      "bytes": 2353294,
-      "hash": "3240b0db5ba547d07120ef18810464a72947829ac3fbc9f07b96a62159586df1",
+      "bytes": 1842100,
+      "hash": "9754a8f76821d1d58eb49923800ae13fbdb162abf0d1959c468186498f627956",
       "priority": 1
     },
     {
@@ -3927,8 +3927,8 @@
     },
     {
       "path": "/portfolio-covers/mobile/cover-rumah-subsidi.png",
-      "bytes": 1786850,
-      "hash": "9d6c8eb1fc79b3e8c11ed13dc2b98123492b7ca4d08b191651e000a9d3a3db61",
+      "bytes": 1678463,
+      "hash": "f8d0f1adb7d34948b2c11b39b18e3c28e7a50c06852ffd617e59a8ee6bfc607e",
       "priority": 1
     },
     {

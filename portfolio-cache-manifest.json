@@ -1,5 +1,5 @@
 {
-  "version": "3983e023b2a2f786",
+  "version": "7a080ee3c06efcaf",
   "assets": [
     {
       "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
@@ -26,9 +26,9 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/chunks/26-pkl61u8pfv.js",
-      "bytes": 152399,
-      "hash": "e601e81f89d0f0d3995387ca783e764f56f1e270e8ee636213e677145ae238f7",
+      "path": "/_next/static/chunks/2sq4uaye5gqpt.js",
+      "bytes": 152796,
+      "hash": "9b8d71b84f9688917a237f2ee056c4f80c52a5932a225ba26bd991358716e6d8",
       "priority": 0
     },
     {
@@ -56,19 +56,19 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/EUnBLI1mGRB_IGhXS_2jp/_buildManifest.js",
+      "path": "/_next/static/h1_M6yNoOaiso-Q-uRLj0/_buildManifest.js",
       "bytes": 219,
       "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
       "priority": 0
     },
     {
-      "path": "/_next/static/EUnBLI1mGRB_IGhXS_2jp/_clientMiddlewareManifest.js",
+      "path": "/_next/static/h1_M6yNoOaiso-Q-uRLj0/_clientMiddlewareManifest.js",
       "bytes": 96,
       "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
       "priority": 0
     },
     {
-      "path": "/_next/static/EUnBLI1mGRB_IGhXS_2jp/_ssgManifest.js",
+      "path": "/_next/static/h1_M6yNoOaiso-Q-uRLj0/_ssgManifest.js",
       "bytes": 107,
       "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
@@ -3831,8 +3831,8 @@
     },
     {
       "path": "/portfolio-covers/desktop/cover-gaknyampe.png",
-      "bytes": 3527530,
-      "hash": "6e6750624facd47d0e36e56301e19ef9578bbe8a9a79e35abbf79898c005d386",
+      "bytes": 3850643,
+      "hash": "95e988131d150769b69b96958b428448b4f7795ab7a2045c0425f6d3cffc455a",
       "priority": 1
     },
     {
@@ -3855,8 +3855,8 @@
     },
     {
       "path": "/portfolio-covers/desktop/cover-neon-chaos.png",
-      "bytes": 2789745,
-      "hash": "bf20c1f37ae9e30d65acc1216556f584afc8fd474eeaa56af101774d73c9e657",
+      "bytes": 2456519,
+      "hash": "06a964700371c097dbdd37ac8dd6c8dcd51bed76abb6b3c6d3deec4c4f5303cd",
       "priority": 1
     },
     {
@@ -3891,8 +3891,8 @@
     },
     {
       "path": "/portfolio-covers/mobile/cover-gaknyampe.png",
-      "bytes": 1484921,
-      "hash": "75f4717ab7b1f00b6d9d989ab4f07a9317e353a98d80d40a1c2a78ef09e3585d",
+      "bytes": 3850643,
+      "hash": "95e988131d150769b69b96958b428448b4f7795ab7a2045c0425f6d3cffc455a",
       "priority": 1
     },
     {
@@ -3915,8 +3915,8 @@
     },
     {
       "path": "/portfolio-covers/mobile/cover-neon-chaos.png",
-      "bytes": 1403936,
-      "hash": "2204aaada38252564485f35b9fe752204dfbca81a95f34df0eb88d8354a90b1b",
+      "bytes": 2456519,
+      "hash": "06a964700371c097dbdd37ac8dd6c8dcd51bed76abb6b3c6d3deec4c4f5303cd",
       "priority": 1
     },
     {

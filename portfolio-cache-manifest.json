@@ -1,5 +1,5 @@
 {
-  "version": "3a4fad6ca1d6e796",
+  "version": "2b7f1cb167d14f28",
   "assets": [
     {
       "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
@@ -122,19 +122,19 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/OVegqvYzKtN9mqDZY147M/_buildManifest.js",
+      "path": "/_next/static/YwegGPWQ3iFS9QJ4FuDw9/_buildManifest.js",
       "bytes": 219,
       "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
       "priority": 0
     },
     {
-      "path": "/_next/static/OVegqvYzKtN9mqDZY147M/_clientMiddlewareManifest.js",
+      "path": "/_next/static/YwegGPWQ3iFS9QJ4FuDw9/_clientMiddlewareManifest.js",
       "bytes": 96,
       "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
       "priority": 0
     },
     {
-      "path": "/_next/static/OVegqvYzKtN9mqDZY147M/_ssgManifest.js",
+      "path": "/_next/static/YwegGPWQ3iFS9QJ4FuDw9/_ssgManifest.js",
       "bytes": 107,
       "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
@@ -3825,8 +3825,8 @@
     },
     {
       "path": "/portfolio-covers/desktop/cover-adf.png",
-      "bytes": 2472903,
-      "hash": "0a63156f2d41cd4519d5cd960971ad16f91a5374b91738ac59108bc016d1d288",
+      "bytes": 1936264,
+      "hash": "426a025696f94eb056c434974d1fc561ccecc64268f4fe29318784364f3231cf",
       "priority": 1
     },
     {
@@ -3879,14 +3879,14 @@
     },
     {
       "path": "/portfolio-covers/desktop/cover-zeemy.png",
-      "bytes": 5191679,
-      "hash": "dce08f533bc62543c6b1310868cee247a95beba702275b90901469bcfe6d0c91",
+      "bytes": 1469639,
+      "hash": "d79054a58198807cc94126856ceb471751a8f7704e616054d7f341041f186b1d",
       "priority": 1
     },
     {
       "path": "/portfolio-covers/mobile/cover-adf.png",
-      "bytes": 3038427,
-      "hash": "ded3366cb6193d17b12d1398b33dac29baf5333674aed69e57d8e060565d57b4",
+      "bytes": 2353294,
+      "hash": "3240b0db5ba547d07120ef18810464a72947829ac3fbc9f07b96a62159586df1",
       "priority": 1
     },
     {
@@ -3939,8 +3939,8 @@
     },
     {
       "path": "/portfolio-covers/mobile/cover-zeemy.png",
-      "bytes": 913040,
-      "hash": "13ff709727272cdd3871b94043ad3116555ba8af61af25802a21082b7cbbe5bb",
+      "bytes": 1833404,
+      "hash": "bf76209a4183149a1630c181054aa7a2b88c7dbf32fab89ec9c57c0e3afdca12",
       "priority": 1
     },
     {

@@ -1,5 +1,5 @@
 {
-  "version": "2b7f1cb167d14f28",
+  "version": "3983e023b2a2f786",
   "assets": [
     {
       "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
@@ -20,15 +20,15 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/chunks/26-pkl61u8pfv.js",
-      "bytes": 152399,
-      "hash": "e601e81f89d0f0d3995387ca783e764f56f1e270e8ee636213e677145ae238f7",
+      "path": "/_next/static/chunks/1oivfqds6u2d2.css",
+      "bytes": 315102,
+      "hash": "f0861d3d788ad914f31010a6ee7d2fa7ae0e4e60bea076868798eca538e769ff",
       "priority": 0
     },
     {
-      "path": "/_next/static/chunks/2jsd6p2_ipbdt.css",
-      "bytes": 313169,
-      "hash": "5a440699e91103ae7533e45e3b0dc70a345dbf7f1a72f2127c1b22c385baf288",
+      "path": "/_next/static/chunks/26-pkl61u8pfv.js",
+      "bytes": 152399,
+      "hash": "e601e81f89d0f0d3995387ca783e764f56f1e270e8ee636213e677145ae238f7",
       "priority": 0
     },
     {
@@ -53,6 +53,24 @@
       "path": "/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
       "bytes": 10030,
       "hash": "8bbb58cbfd4633c1d828c6bc37bc32abc768a149c01b1dfc4f5131fd81274551",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/EUnBLI1mGRB_IGhXS_2jp/_buildManifest.js",
+      "bytes": 219,
+      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/EUnBLI1mGRB_IGhXS_2jp/_clientMiddlewareManifest.js",
+      "bytes": 96,
+      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/EUnBLI1mGRB_IGhXS_2jp/_ssgManifest.js",
+      "bytes": 107,
+      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
     },
     {
@@ -119,24 +137,6 @@
       "path": "/_next/static/media/fef07dbb0973bf53-s.3p2_lha1f2xer.woff2",
       "bytes": 7252,
       "hash": "b7a545bbb08256bd809f11cfe66d88da3e22d169ea4407737b1ef0ec1ed3d791",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/YwegGPWQ3iFS9QJ4FuDw9/_buildManifest.js",
-      "bytes": 219,
-      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/YwegGPWQ3iFS9QJ4FuDw9/_clientMiddlewareManifest.js",
-      "bytes": 96,
-      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/YwegGPWQ3iFS9QJ4FuDw9/_ssgManifest.js",
-      "bytes": 107,
-      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
     },
     {
@@ -3837,20 +3837,20 @@
     },
     {
       "path": "/portfolio-covers/desktop/cover-intos.png",
-      "bytes": 613458,
-      "hash": "43f3657d37c2d77590287a5a6d0245aa552cf9155b9054887eba7de763d518e2",
+      "bytes": 1953559,
+      "hash": "111f582c9c720d02e7b1509938073fe3690bfea27647b3e1bc42979cf1db0281",
       "priority": 1
     },
     {
       "path": "/portfolio-covers/desktop/cover-khabila-kitchen.png",
-      "bytes": 1901176,
-      "hash": "761e3aeae28e66651a23ada3e770ba2b9a065c7c9323109231ee5de197f9d2e3",
+      "bytes": 2755135,
+      "hash": "93f29a95ce6fa5f6187b6f1701e4d32d4f8202bbf146e1306a1c3eb9c4746bf7",
       "priority": 1
     },
     {
       "path": "/portfolio-covers/desktop/cover-kreavityworks.png",
-      "bytes": 1051407,
-      "hash": "74cd334fce298775a4cc33424a50454753a6d21c6d53e2927387e6875251081e",
+      "bytes": 2640827,
+      "hash": "192c4dbf767aff76dd46c7c4470c8d752b901fb441f4cc5483c60b639c3a6fdb",
       "priority": 1
     },
     {
@@ -3867,20 +3867,20 @@
     },
     {
       "path": "/portfolio-covers/desktop/cover-rumah-subsidi.png",
-      "bytes": 3667835,
-      "hash": "f865f4ed0bae1db81169696a3259ebaee089ab11b893144c335d91afdfcba2da",
+      "bytes": 1786850,
+      "hash": "9d6c8eb1fc79b3e8c11ed13dc2b98123492b7ca4d08b191651e000a9d3a3db61",
       "priority": 1
     },
     {
       "path": "/portfolio-covers/desktop/cover-selected-websites.png",
-      "bytes": 1901176,
-      "hash": "761e3aeae28e66651a23ada3e770ba2b9a065c7c9323109231ee5de197f9d2e3",
+      "bytes": 2726981,
+      "hash": "ea93ba99dcfbf3d8e2e8e7ab4de80a5113b67ddf562e4c5154c6a295bcfe81e7",
       "priority": 1
     },
     {
       "path": "/portfolio-covers/desktop/cover-zeemy.png",
-      "bytes": 1469639,
-      "hash": "d79054a58198807cc94126856ceb471751a8f7704e616054d7f341041f186b1d",
+      "bytes": 1038395,
+      "hash": "99220f08d2bb3b352032892d0d1c5be3a08e02b55fec0bd87f91c0e46490a2ac",
       "priority": 1
     },
     {
@@ -3897,20 +3897,20 @@
     },
     {
       "path": "/portfolio-covers/mobile/cover-intos.png",
-      "bytes": 1482541,
-      "hash": "3abbf7a36d680766d2d6320727e62e593ddc29ea25a29dd820be2830c87a777f",
+      "bytes": 1953559,
+      "hash": "111f582c9c720d02e7b1509938073fe3690bfea27647b3e1bc42979cf1db0281",
       "priority": 1
     },
     {
       "path": "/portfolio-covers/mobile/cover-khabila-kitchen.png",
-      "bytes": 1823835,
-      "hash": "74d756c5277c33b1d9e8d32d4b7100276fdaab7436052b13bcd24582e8f7513b",
+      "bytes": 2755135,
+      "hash": "93f29a95ce6fa5f6187b6f1701e4d32d4f8202bbf146e1306a1c3eb9c4746bf7",
       "priority": 1
     },
     {
       "path": "/portfolio-covers/mobile/cover-kreavityworks.png",
-      "bytes": 402839,
-      "hash": "de094ae65508185b0e8df420c3379b50aa9dee80a417f7b2e9bbcf0585d1da45",
+      "bytes": 2640827,
+      "hash": "192c4dbf767aff76dd46c7c4470c8d752b901fb441f4cc5483c60b639c3a6fdb",
       "priority": 1
     },
     {
@@ -3927,20 +3927,20 @@
     },
     {
       "path": "/portfolio-covers/mobile/cover-rumah-subsidi.png",
-      "bytes": 804550,
-      "hash": "b271d35fbcd268a15b7b90d7d95144c98bd91328f59c345a2c65675530a9dc96",
+      "bytes": 1786850,
+      "hash": "9d6c8eb1fc79b3e8c11ed13dc2b98123492b7ca4d08b191651e000a9d3a3db61",
       "priority": 1
     },
     {
       "path": "/portfolio-covers/mobile/cover-selected-websites.png",
-      "bytes": 1823835,
-      "hash": "74d756c5277c33b1d9e8d32d4b7100276fdaab7436052b13bcd24582e8f7513b",
+      "bytes": 2726981,
+      "hash": "ea93ba99dcfbf3d8e2e8e7ab4de80a5113b67ddf562e4c5154c6a295bcfe81e7",
       "priority": 1
     },
     {
       "path": "/portfolio-covers/mobile/cover-zeemy.png",
-      "bytes": 1833404,
-      "hash": "bf76209a4183149a1630c181054aa7a2b88c7dbf32fab89ec9c57c0e3afdca12",
+      "bytes": 1038395,
+      "hash": "99220f08d2bb3b352032892d0d1c5be3a08e02b55fec0bd87f91c0e46490a2ac",
       "priority": 1
     },
     {

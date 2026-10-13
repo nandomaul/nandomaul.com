@@ -14,16 +14,21 @@ async function manifest() {
         if (!item || typeof item.path !== 'string' || !item.path.startsWith('/') || item.path.startsWith('//') || /[?#\\]/.test(item.path) || item.path.includes('/..') || !Number.isFinite(item.bytes) || item.bytes < 0) continue;
         entries.set(item.path, item);
       }
+      const imageAliasesV72 = new Map();
+      for (const [source,target] of Object.entries(data.imageAliases || {})) {
+        if (typeof source === 'string' && source.startsWith('/') && !/[?#\\]/.test(source) && typeof target === 'string' && entries.has(target)) imageAliasesV72.set(source,target);
+      }
       const name = PREFIX + data.version, existing = await caches.open(name);
       const keys = await existing.keys();
       cacheBytes = keys.reduce((total,key) => total+(entries.get(new URL(key.url).pathname)?.bytes??0),0);
-      return {name,version:data.version,entries};
+      return {name,version:data.version,entries,imageAliasesV72};
     }).catch(error => {manifestPromise=null;throw error;});
   return manifestPromise;
 }
-function assetFor(url,data) {
+function assetFor(url,data,isImageV72=false) {
   if (url.origin!==self.location.origin || !/^https?:$/.test(url.protocol))return null;
-  return data.entries.get(url.pathname)??(url.pathname.endsWith('/')?data.entries.get(url.pathname+'index.html'):null);
+  const imagePathV72 = isImageV72 ? data.imageAliasesV72.get(url.pathname) ?? url.pathname : url.pathname;
+  return data.entries.get(imagePathV72)??(url.pathname.endsWith('/')?data.entries.get(url.pathname+'index.html'):null);
 }
 function validResponse(response) {
   return response.ok && response.status===200 && response.type!=='opaque' && !/private|no-store/i.test(response.headers.get('cache-control')||'');
@@ -52,7 +57,7 @@ self.addEventListener('fetch',event=>{
   event.respondWith((async()=>{
     let data;
     try{data=await manifest();}catch{return fetch(request);}
-    const entry=assetFor(url,data);
+    const entry=assetFor(url,data,request.destination==='image');
     if(!entry){
       // Previously deployed hashed bundles can still serve an already-open tab.
       if(url.pathname.startsWith('/_next/static/')&&/\.(js|css|woff2?)$/.test(url.pathname)){
@@ -68,7 +73,8 @@ self.addEventListener('fetch',event=>{
     if(cached&&!['reload','no-store'].includes(request.cache))return cached;
     foreground++;foregroundAt=Date.now();
     try {
-      const response=await fetch(request,{cache:'reload'});
+      const imageRequestV72 = request.destination==='image' && entry.path!==url.pathname ? new Request(key,request) : request;
+      const response=await fetch(imageRequestV72,{cache:'reload'});
       if(request.cache!=='no-store'){
         if(cached&&validResponse(response)){await cache.delete(key);cacheBytes-=entry.bytes;}
         await save(cache,entry,response);
@@ -117,3 +123,6 @@ self.addEventListener('message',event=>{
   if(!job)job=warm(event.data.urls.filter(value=>typeof value==='string').slice(0,30)).catch(()=>report({done:true,unavailable:true})).finally(()=>{job=null;});
   event.waitUntil(job);
 });
+
+/* IMAGE DELIVERY V72 */
+const IMAGE_DELIVERY_VERSION_V72 = "8980308d24aedeeb";

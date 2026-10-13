@@ -1,5 +1,5 @@
 {
-  "version": "d6dddd5445cd08ca",
+  "version": "68d1db7922a39c6d",
   "assets": [
     {
       "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
@@ -56,19 +56,19 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/EPWiE9noSTOmUbSIu08_2/_buildManifest.js",
+      "path": "/_next/static/fX2j5PqSwmow5UZyty80e/_buildManifest.js",
       "bytes": 219,
       "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
       "priority": 0
     },
     {
-      "path": "/_next/static/EPWiE9noSTOmUbSIu08_2/_clientMiddlewareManifest.js",
+      "path": "/_next/static/fX2j5PqSwmow5UZyty80e/_clientMiddlewareManifest.js",
       "bytes": 96,
       "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
       "priority": 0
     },
     {
-      "path": "/_next/static/EPWiE9noSTOmUbSIu08_2/_ssgManifest.js",
+      "path": "/_next/static/fX2j5PqSwmow5UZyty80e/_ssgManifest.js",
       "bytes": 107,
       "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0

@@ -1,6 +1,30 @@
 {
-  "version": "2ef0d162627507e7",
+  "version": "9fe7e78e6a945263",
   "assets": [
+    {
+      "path": "/_next/static/1nJWhHPe8geo2phX1VhsX/_buildManifest.js",
+      "bytes": 219,
+      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/1nJWhHPe8geo2phX1VhsX/_clientMiddlewareManifest.js",
+      "bytes": 96,
+      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/1nJWhHPe8geo2phX1VhsX/_ssgManifest.js",
+      "bytes": 107,
+      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/026to8h9h5y4c.js",
+      "bytes": 219447,
+      "hash": "0e391afed1b195ab987c06940db49723cbeb7b8723acd076f89552f793293e82",
+      "priority": 0
+    },
     {
       "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
       "bytes": 112594,
@@ -23,12 +47,6 @@
       "path": "/_next/static/chunks/24no07mvkxkzr.css",
       "bytes": 321469,
       "hash": "40eff5cec96b3ac324844b96fb140c89227e3408bf917631beb7a2f1925c5a1f",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/chunks/2v3cvn7w54xqj.js",
-      "bytes": 220745,
-      "hash": "0f18b7586b2ac45117ad345b7fe516e8e0e35401a5ca19e13b42f7cef96febfd",
       "priority": 0
     },
     {
@@ -119,24 +137,6 @@
       "path": "/_next/static/media/fef07dbb0973bf53-s.3p2_lha1f2xer.woff2",
       "bytes": 7252,
       "hash": "b7a545bbb08256bd809f11cfe66d88da3e22d169ea4407737b1ef0ec1ed3d791",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/OAvsPMeAi04X8gArIg28Y/_buildManifest.js",
-      "bytes": 219,
-      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/OAvsPMeAi04X8gArIg28Y/_clientMiddlewareManifest.js",
-      "bytes": 96,
-      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/OAvsPMeAi04X8gArIg28Y/_ssgManifest.js",
-      "bytes": 107,
-      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
     },
     {

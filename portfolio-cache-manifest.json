@@ -1,6 +1,12 @@
 {
-  "version": "636fc4162791c02b",
+  "version": "e43da98dd2a460c4",
   "assets": [
+    {
+      "path": "/_next/static/chunks/076o3-269eeax.js",
+      "bytes": 154190,
+      "hash": "62360620ee78980908cc59778a1d7ee9a40325028be39bca0224998467fd13dd",
+      "priority": 0
+    },
     {
       "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
       "bytes": 112594,
@@ -20,18 +26,6 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/chunks/1oivfqds6u2d2.css",
-      "bytes": 315102,
-      "hash": "f0861d3d788ad914f31010a6ee7d2fa7ae0e4e60bea076868798eca538e769ff",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/chunks/2sq4uaye5gqpt.js",
-      "bytes": 152796,
-      "hash": "9b8d71b84f9688917a237f2ee056c4f80c52a5932a225ba26bd991358716e6d8",
-      "priority": 0
-    },
-    {
       "path": "/_next/static/chunks/2vlgjjnsppgna.js",
       "bytes": 181923,
       "hash": "ce47fb918b440fc409e311e09f1bbd48479977775caefe6bbf3ba6565ca1e826",
@@ -47,6 +41,12 @@
       "path": "/_next/static/chunks/3dmm3v_fq28gc.js",
       "bytes": 229820,
       "hash": "12c72318dee8d15a8fc5ea65c908da89cbbbfdc3ec455040db8b2fd3d2e7e0f8",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/3syd9hy7__rce.css",
+      "bytes": 315783,
+      "hash": "d1c81274b22ffc0b7cf3b6ab2fa42367f2adbd30b7f8dd372fdade3b353a3e68",
       "priority": 0
     },
     {
@@ -122,19 +122,19 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/Qygk6Byj2PpxCBN_FAa9L/_buildManifest.js",
+      "path": "/_next/static/QIV7ODRaCZdpIXZZ6ZiHV/_buildManifest.js",
       "bytes": 219,
       "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
       "priority": 0
     },
     {
-      "path": "/_next/static/Qygk6Byj2PpxCBN_FAa9L/_clientMiddlewareManifest.js",
+      "path": "/_next/static/QIV7ODRaCZdpIXZZ6ZiHV/_clientMiddlewareManifest.js",
       "bytes": 96,
       "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
       "priority": 0
     },
     {
-      "path": "/_next/static/Qygk6Byj2PpxCBN_FAa9L/_ssgManifest.js",
+      "path": "/_next/static/QIV7ODRaCZdpIXZZ6ZiHV/_ssgManifest.js",
       "bytes": 107,
       "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
@@ -501,26 +501,26 @@
     },
     {
       "path": "/demos/gaknyampe/_sitemap.html",
-      "bytes": 47565,
-      "hash": "58f08bb0592342093f3e0475d11f8b6fb53ba79a59f0cdf4b54a26da4020a710",
+      "bytes": 47628,
+      "hash": "8af3feae67e95343b0c2cf0c0865539accc484a3169cd9e29544874414e56cd5",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/%2Bnot-found.html",
-      "bytes": 47565,
-      "hash": "58f08bb0592342093f3e0475d11f8b6fb53ba79a59f0cdf4b54a26da4020a710",
+      "bytes": 47628,
+      "hash": "8af3feae67e95343b0c2cf0c0865539accc484a3169cd9e29544874414e56cd5",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/aktifitas.html",
-      "bytes": 56662,
-      "hash": "5c814deb60408e4efb4a322c731c50db977e4c597ee2df08544a048992ba04d8",
+      "bytes": 56725,
+      "hash": "da72dcfa660984449c2a2c634a772b681ad83396e9050af82cd8b065337a50ee",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/aktivitas.html",
-      "bytes": 61523,
-      "hash": "4a456a4230e6c2e0cefc10c4ef0ab9f6282d0fe30ecc2c9cb53f426848922f61",
+      "bytes": 61586,
+      "hash": "5ed2d9e08a1ba788a6f8f682a0b8f4d6707e96906ee108cef308383041ecbace",
       "priority": 0
     },
     {
@@ -1059,8 +1059,8 @@
     },
     {
       "path": "/demos/gaknyampe/checkout.html",
-      "bytes": 49932,
-      "hash": "04f15dbe0f82e9aa5ab75b8adf2cc7f1bacadecbd8399ff6a4c2c1d77f059001",
+      "bytes": 49995,
+      "hash": "9fcc82095e9a1818114c41874653e65531fcceb2ba12dd3de14365a031b1f37e",
       "priority": 0
     },
     {
@@ -1101,44 +1101,44 @@
     },
     {
       "path": "/demos/gaknyampe/index.html",
-      "bytes": 71256,
-      "hash": "9b95ee0e5a06094ae891127df3ecff55f19b5ca25d2a38c72c4df2721ad90e58",
+      "bytes": 71263,
+      "hash": "fcf20c783eb4a33aa0598f7f0b40556555341cc3a58cf5a6586c4684716e5211",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/isi-saldo.html",
-      "bytes": 63234,
-      "hash": "b31954896c54b0f26300617072fac8c58e1ecaa470390959fbe751eda6543bd0",
+      "bytes": 63297,
+      "hash": "e887e4d63fa3882861a8d82fae97e1ad4fd57ca9a52590080544a33bcc0717ef",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/jelajah.html",
-      "bytes": 110694,
-      "hash": "52e30a72addf5a0d3430ff1427dc0475ddba0846529e09163c9bec83d0c9d1f8",
+      "bytes": 110757,
+      "hash": "9667be329048713260f310bc861584c21840745bac66b4d60d8c9c9c14ac173b",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/keranjang.html",
-      "bytes": 50853,
-      "hash": "1e2b71e4ea56e18be5b89fe189349c5dbe76562cafb9b2736a67b6fd9bd4e875",
+      "bytes": 50916,
+      "hash": "0ad5af8b0ce2d179e98324db046ad75924be0bfd8eddc79e2077062010a22d8f",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/makan-nanti.html",
-      "bytes": 120599,
-      "hash": "9ee5d26dfd2c777646d496864525909df1055114a518a9165844fe2e436336d0",
+      "bytes": 120662,
+      "hash": "c1fcda68502e39ca3d73b62a2782cd525cc9db736ff8d8b2e42b4df116e2151f",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/nebeng-dulu.html",
-      "bytes": 49963,
-      "hash": "cba74cdd7d3a223bf5ae39f5e725c15be4ec1c8cf6d90c16af834687ad58a503",
+      "bytes": 50026,
+      "hash": "b7d5d4c2a830daa6e7c265c0d91225bd5d1e56bff8e1ed093ee77ac921631c7a",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/notifikasi.html",
-      "bytes": 55510,
-      "hash": "4affa887e872e1d95363dde00c7e09ef00dd6b8cfc16aef5ffe48114933dfbe4",
+      "bytes": 55573,
+      "hash": "c7eb1376cb360682abcc4b2f7ec99b3e6b7e77f907267feddd41161393cffd0f",
       "priority": 0
     },
     {
@@ -1149,44 +1149,44 @@
     },
     {
       "path": "/demos/gaknyampe/profile.html",
-      "bytes": 62313,
-      "hash": "945da16b63e40f268469bdc4e1ac746a2569368979e25563cc785e7ef5249d60",
+      "bytes": 62376,
+      "hash": "f24a0b4cd99b27868153b593ad951849ce1271c661233b5c9acdaaf0c4762e58",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/restoran/%5Bid%5D.html",
-      "bytes": 49904,
-      "hash": "5179407a4b666cfdf589a156d9a0ac2a84fb37b41f6d55775f1da6e7c7431b8f",
+      "bytes": 49967,
+      "hash": "6f816256a7abaa1f53cfeafe3d3fb67be048eb30d67420fe0e3ce5e94ffd7d34",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/router-base.js",
-      "bytes": 317,
-      "hash": "5001481885a5367ab69e095f822281088ed30d0fc5100b25cd84c0c304813288",
+      "bytes": 3113,
+      "hash": "2cb4b7589522674b56b5f9e566d350f7759dc1fcf19fcd0bda8742d5d711215d",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/scan.html",
-      "bytes": 52263,
-      "hash": "73dc6dc96c070bc632a72103b771132d0c1477652e5500d0c28f98d389a833b8",
+      "bytes": 52326,
+      "hash": "b8319be2864722e76a4267968b5bbadfa43e2b46626efd2a56e518085c653e22",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/semua-aja.html",
-      "bytes": 60429,
-      "hash": "8e8d0ca0355e0a898f964efb58597814b023554cccdf2b912b6bbf6263e306a2",
+      "bytes": 60492,
+      "hash": "5064e936f09bb760939a7c6f59f28ba168784bf37fe27ea0d459a1a14dba48d0",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/tracking.html",
-      "bytes": 49946,
-      "hash": "94b929a3589e6c95626e1d210a2377abe216efbab0be528a4e6f00305218c289",
+      "bytes": 50009,
+      "hash": "d33a0b5187444c6890469d3183736b8652cc494b70f84a0f5e50ddccc520ee77",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/traktir.html",
-      "bytes": 65959,
-      "hash": "24b593fd2c6116bce6ad52f5a46829ac042b0a474810eaf23f56a8a81ccdaf3c",
+      "bytes": 66022,
+      "hash": "378098b63a6d31ece320eea5b6d706a217cf7fc80fd1cc693ada5a6717c088da",
       "priority": 0
     },
     {
@@ -2054,6 +2054,12 @@
       "priority": 1
     },
     {
+      "path": "/demos/systemadf/adf-catalog-v65.js",
+      "bytes": 3426,
+      "hash": "f989905fb1baf4b5f920eda7d1947c37468168d63a4d520a73c22fe2425d36de",
+      "priority": 0
+    },
+    {
       "path": "/demos/systemadf/adf-demo-data-v41.js",
       "bytes": 23698,
       "hash": "81a22b4d4196bf0a1dcbaabd1a0f21c4ea57a4dd4b05177d38f769a9c18b0d49",
@@ -2757,14 +2763,14 @@
     },
     {
       "path": "/demos/systemadf/demo-v43/catalog-covers/7-7-urgent-upload.png",
-      "bytes": 1049,
-      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "bytes": 85668,
+      "hash": "425b064d4da7aa8ae9939f856721360120d62fc5d879040eee9b9308a188fc27",
       "priority": 1
     },
     {
       "path": "/demos/systemadf/demo-v43/catalog-covers/828-realme-festival.png",
-      "bytes": 1049,
-      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "bytes": 87110,
+      "hash": "9f6eaabae547adcc3dd2f3542aface5ddc926d0ec203fd30f0904453a9221268",
       "priority": 1
     },
     {
@@ -2775,8 +2781,8 @@
     },
     {
       "path": "/demos/systemadf/demo-v43/catalog-covers/august-asset-official-store.png",
-      "bytes": 1049,
-      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "bytes": 254753,
+      "hash": "599e30186b9f2709c75a4909a6d5f8408846b941ced243be9efe07c4d8313261",
       "priority": 1
     },
     {
@@ -2787,8 +2793,8 @@
     },
     {
       "path": "/demos/systemadf/demo-v43/catalog-covers/october-assets.png",
-      "bytes": 1049,
-      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "bytes": 100057,
+      "hash": "814927761085a09214f1a53a179a39287e7cfaa0a0608a845307ed98212e56e3",
       "priority": 1
     },
     {
@@ -2799,20 +2805,20 @@
     },
     {
       "path": "/demos/systemadf/demo-v43/catalog-covers/p4-series.png",
-      "bytes": 1049,
-      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "bytes": 198710,
+      "hash": "b88de35484085fffbdfa46c8601626c7e93e7e45c8caf82c72d00572bdad1c12",
       "priority": 1
     },
     {
       "path": "/demos/systemadf/demo-v43/catalog-covers/realme-16-pro-5g-harry-potter-edition.png",
-      "bytes": 1049,
-      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "bytes": 148388,
+      "hash": "4bed773f2403e9e117c356c665fa1f0557659ab433c7c030ed3993ece6e0abe9",
       "priority": 1
     },
     {
       "path": "/demos/systemadf/demo-v43/catalog-covers/september-official-store.png",
-      "bytes": 1049,
-      "hash": "e08f5f774ada5778e1152eece5df93375cec7c2617c583b988b1c0be8a70b580",
+      "bytes": 504445,
+      "hash": "44ebb5e3e9b0ee282e4609109a9c5d811196b2e1ff508d1bdc9c59c7bb160a0e",
       "priority": 1
     },
     {
@@ -3045,8 +3051,8 @@
     },
     {
       "path": "/demos/systemadf/index.html",
-      "bytes": 2402,
-      "hash": "52bacc694e7fbfc559e2a839688e242983ec69a691dc397fffbb687957b588f6",
+      "bytes": 2467,
+      "hash": "9845322aeca64ed65cfd35f11f8877f2b83c203ca4ca8770a8b6027b07976699",
       "priority": 0
     },
     {
@@ -4106,9 +4112,9 @@
       "priority": 1
     },
     {
-      "path": "/preview-picker-covers/01-rumah-subsidi.jpg",
-      "bytes": 262035,
-      "hash": "f504b5c630ab5c2ff02c8b95238ad9bd8a91b72e07408b1b5f831b084ebf65fd",
+      "path": "/preview-picker-covers/01-rumah-subsidi.png",
+      "bytes": 930967,
+      "hash": "019a9600e80aff0a15c306bd0703373ef8261acac35414e777ec745acb7d4a47",
       "priority": 1
     },
     {

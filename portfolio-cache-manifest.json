@@ -1,12 +1,6 @@
 {
-  "version": "e43da98dd2a460c4",
+  "version": "ec23f153737945a2",
   "assets": [
-    {
-      "path": "/_next/static/chunks/076o3-269eeax.js",
-      "bytes": 154190,
-      "hash": "62360620ee78980908cc59778a1d7ee9a40325028be39bca0224998467fd13dd",
-      "priority": 0
-    },
     {
       "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
       "bytes": 112594,
@@ -23,6 +17,12 @@
       "path": "/_next/static/chunks/0umf92h1sb77c.js",
       "bytes": 13822,
       "hash": "c410d0f2543e080768fc14f73b2bd1fdf103e26956e9730390b5e41c4fb5ff8b",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/1ng2lcv6r1woq.css",
+      "bytes": 316398,
+      "hash": "da650df1ad65e87946bfd2c6659256550f5dd6398b7b9d7a31879fe3a6082452",
       "priority": 0
     },
     {
@@ -44,15 +44,33 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/chunks/3syd9hy7__rce.css",
-      "bytes": 315783,
-      "hash": "d1c81274b22ffc0b7cf3b6ab2fa42367f2adbd30b7f8dd372fdade3b353a3e68",
+      "path": "/_next/static/chunks/3hmp9jtwjn9zo.js",
+      "bytes": 157859,
+      "hash": "833f9e4517192e88c445cb54d92c379592354e103af6b3c0a9a1d850103073cf",
       "priority": 0
     },
     {
       "path": "/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
       "bytes": 10030,
       "hash": "8bbb58cbfd4633c1d828c6bc37bc32abc768a149c01b1dfc4f5131fd81274551",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/ju4F3OVNI26zJyk7cFVrg/_buildManifest.js",
+      "bytes": 219,
+      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/ju4F3OVNI26zJyk7cFVrg/_clientMiddlewareManifest.js",
+      "bytes": 96,
+      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/ju4F3OVNI26zJyk7cFVrg/_ssgManifest.js",
+      "bytes": 107,
+      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
     },
     {
@@ -119,24 +137,6 @@
       "path": "/_next/static/media/fef07dbb0973bf53-s.3p2_lha1f2xer.woff2",
       "bytes": 7252,
       "hash": "b7a545bbb08256bd809f11cfe66d88da3e22d169ea4407737b1ef0ec1ed3d791",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/QIV7ODRaCZdpIXZZ6ZiHV/_buildManifest.js",
-      "bytes": 219,
-      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/QIV7ODRaCZdpIXZZ6ZiHV/_clientMiddlewareManifest.js",
-      "bytes": 96,
-      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/QIV7ODRaCZdpIXZZ6ZiHV/_ssgManifest.js",
-      "bytes": 107,
-      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
     },
     {
@@ -3867,8 +3867,14 @@
     },
     {
       "path": "/portfolio-covers/desktop/cover-porprov.png",
-      "bytes": 2280392,
-      "hash": "c98f372af6d6e2ab5270303f025de6d1f91344ab15184cbc2ea768db5ade4277",
+      "bytes": 1606902,
+      "hash": "e38bd4aebbffd069bfa5f28c045efb18b8896aed06abc36e3e59b5e04f50fd8f",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-covers/desktop/cover-porprov%20copy.png",
+      "bytes": 1606902,
+      "hash": "e38bd4aebbffd069bfa5f28c045efb18b8896aed06abc36e3e59b5e04f50fd8f",
       "priority": 1
     },
     {
@@ -3954,6 +3960,102 @@
       "bytes": 5946,
       "hash": "04f29794109ca5c223b80dc693258acfd6bd0cf8b693cb90b15c933b062a44c4",
       "priority": 0
+    },
+    {
+      "path": "/portfolio-info-covers/desktop/00-adf-system.png",
+      "bytes": 1842100,
+      "hash": "9754a8f76821d1d58eb49923800ae13fbdb162abf0d1959c468186498f627956",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-info-covers/desktop/01-rumah-subsidi.png",
+      "bytes": 1777817,
+      "hash": "c05395247ea59cb7fc603d465811ed111620906b4b8b0c1851c2e94622b4bcc8",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-info-covers/desktop/02-intos.png",
+      "bytes": 1953559,
+      "hash": "111f582c9c720d02e7b1509938073fe3690bfea27647b3e1bc42979cf1db0281",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-info-covers/desktop/03-zeemy.png",
+      "bytes": 1038395,
+      "hash": "99220f08d2bb3b352032892d0d1c5be3a08e02b55fec0bd87f91c0e46490a2ac",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-info-covers/desktop/04-kreavityworks.png",
+      "bytes": 2640827,
+      "hash": "192c4dbf767aff76dd46c7c4470c8d752b901fb441f4cc5483c60b639c3a6fdb",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-info-covers/desktop/05-khabila-kitchen.png",
+      "bytes": 2755135,
+      "hash": "93f29a95ce6fa5f6187b6f1701e4d32d4f8202bbf146e1306a1c3eb9c4746bf7",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-info-covers/desktop/07-gaknyampe.png",
+      "bytes": 3850643,
+      "hash": "95e988131d150769b69b96958b428448b4f7795ab7a2045c0425f6d3cffc455a",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-info-covers/desktop/08-neon-chaos.png",
+      "bytes": 2456519,
+      "hash": "06a964700371c097dbdd37ac8dd6c8dcd51bed76abb6b3c6d3deec4c4f5303cd",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-info-covers/mobile/00-adf-system.png",
+      "bytes": 1239604,
+      "hash": "076a56af45d7a0fd530fc29e4a249d5cf199eae6aff391dc5b7fcde74ba92b3e",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-info-covers/mobile/01-rumah-subsidi.png",
+      "bytes": 781315,
+      "hash": "2bbdb2a826e26bfbcc08e1ec46cb1d83b06af0382f084af2090e2fc34a3bc7bc",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-info-covers/mobile/02-intos.png",
+      "bytes": 1170086,
+      "hash": "67a0affde03a83a3037bb8cc12f89f8f69cd58f7917c06433f88f40994482ce0",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-info-covers/mobile/04-kreavityworks.png",
+      "bytes": 1484180,
+      "hash": "472bc14e9f83639c2cf58e83c3d91b7019bdf2760a3124adfe9829312731ef81",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-info-covers/mobile/05-khabila-kitchen.png",
+      "bytes": 1570042,
+      "hash": "2335c2af68ecc48b34d03c56121102473e25451449076af4c835ee95150c5361",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-info-covers/mobile/07-gaknyampe.png",
+      "bytes": 2163377,
+      "hash": "0c4703ea1c82420f9b65ae2212451f54d42bdfc4b658af4b5e5c8d5c0ccab024",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-info-covers/mobile/08-neon-chaos.png",
+      "bytes": 1359549,
+      "hash": "5261db1184abe161449630a053babb97cd1b9e5445f3beec4311009065714dd0",
+      "priority": 1
+    },
+    {
+      "path": "/portfolio-info-covers/mobile/cover-zeemy.png",
+      "bytes": 650490,
+      "hash": "7e9fd755579608010b15e14c997d32fe44721935fd88a22bccf00263d380ed91",
+      "priority": 1
     },
     {
       "path": "/portfolio-v2/adf-logo.png",
@@ -4112,51 +4214,57 @@
       "priority": 1
     },
     {
+      "path": "/preview-picker-covers/00-adf-system.png",
+      "bytes": 831586,
+      "hash": "a38b524bb7c4834e5f77ddcf7a63f444b16d53bfdf8295f5c385ea50206fd352",
+      "priority": 1
+    },
+    {
       "path": "/preview-picker-covers/01-rumah-subsidi.png",
-      "bytes": 930967,
-      "hash": "019a9600e80aff0a15c306bd0703373ef8261acac35414e777ec745acb7d4a47",
+      "bytes": 530117,
+      "hash": "490a3a1c25ae45d595d3592f18bcc98cca878f99bfdfafefacabec4ebeef5be1",
       "priority": 1
     },
     {
-      "path": "/preview-picker-covers/02-intos.jpg",
-      "bytes": 230886,
-      "hash": "6d9e2926368867a9181f7c1d4dc2f9d90669689cd5f44d38a29dd4f5597805d1",
+      "path": "/preview-picker-covers/02-intos.png",
+      "bytes": 701967,
+      "hash": "61cca511e7f18fbc1d3f7bb39048fd56807d56e8b0688126876d36e4a505a02b",
       "priority": 1
     },
     {
-      "path": "/preview-picker-covers/03-zeemy.jpg",
-      "bytes": 112032,
-      "hash": "7ab52426ba48dda08b89b4c6854e0768cb32a110db75cd395d7529ba0eceb6da",
+      "path": "/preview-picker-covers/03-zeemy.png",
+      "bytes": 521429,
+      "hash": "ec9fdcae7e0d50049c48c11ab2d3d47f33d9041311483cc05587d8ef38f6afc8",
       "priority": 1
     },
     {
-      "path": "/preview-picker-covers/04-kreavityworks.jpg",
-      "bytes": 106262,
-      "hash": "856f899a555cf31e221ccc4e1fa174e87dc6647a36f0a488d8e8975491563310",
+      "path": "/preview-picker-covers/04-kreavityworks.png",
+      "bytes": 1037224,
+      "hash": "7c87ca8acf6905d74d5d61df56ed4edb6b2f61340d29c99f5d6a42e4d01aeb5c",
       "priority": 1
     },
     {
-      "path": "/preview-picker-covers/05-khabila-kitchen.jpg",
-      "bytes": 252551,
-      "hash": "3ce36135a36ba1c8be50fcfd1d4d48b2c0702472806565fedceae50b56caaaf6",
+      "path": "/preview-picker-covers/05-khabila-kitchen.png",
+      "bytes": 1008857,
+      "hash": "19c3121e9453db72e0cc03684ec7dc172973b4d4f680ee293f4714ad3ca4c76b",
       "priority": 1
     },
     {
-      "path": "/preview-picker-covers/06-porprov.jpg",
-      "bytes": 215002,
-      "hash": "332e93f7ccb4b636f185ab971631970b0982bb5a5a58d1031d150d914d5b49fe",
+      "path": "/preview-picker-covers/06-porprov.png",
+      "bytes": 745698,
+      "hash": "6816c1f9c4a34c87f68ca3699f6cd91e331ed243d0e1803f0c56af1657fca662",
       "priority": 1
     },
     {
-      "path": "/preview-picker-covers/07-gaknyampe.jpg",
-      "bytes": 182497,
-      "hash": "6d2a8cf7fe45aa5dab25fce544922df33b72b2ffea5b9ba9c17b4b9c8c4ac1c2",
+      "path": "/preview-picker-covers/07-gaknyampe.png",
+      "bytes": 1379694,
+      "hash": "cd5e96def8efc9569ffbe2b6acee949159f4b9088d28a0ca640c26c4a32d7e78",
       "priority": 1
     },
     {
-      "path": "/preview-picker-covers/08-3d-game.jpg",
-      "bytes": 199794,
-      "hash": "18c087f6df2307865b0c193525cfcb15232a514ba5f546f2db77be9535f1f3b7",
+      "path": "/preview-picker-covers/08-3d-game.png",
+      "bytes": 863042,
+      "hash": "343b1ad4cb377899937748520d14371ea3775cb48ded113dda1e779d0335819b",
       "priority": 1
     },
     {

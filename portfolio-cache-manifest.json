@@ -1,5 +1,5 @@
 {
-  "version": "68d1db7922a39c6d",
+  "version": "99b6cdb7eaaddffc",
   "assets": [
     {
       "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
@@ -20,15 +20,15 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/chunks/2vlgjjnsppgna.js",
-      "bytes": 181923,
-      "hash": "ce47fb918b440fc409e311e09f1bbd48479977775caefe6bbf3ba6565ca1e826",
+      "path": "/_next/static/chunks/1aclbdjctit__.js",
+      "bytes": 258808,
+      "hash": "60711e052f256be9c5bbccc5430c2ee00d7e9343b4855f521d6db1ef52fff431",
       "priority": 0
     },
     {
-      "path": "/_next/static/chunks/31hawc5djjipv.js",
-      "bytes": 256034,
-      "hash": "b2fd13ed31922f1db8b5a89a64fac2cb5cc6b7000f1406cb11c8fb3f0f711e8d",
+      "path": "/_next/static/chunks/2vlgjjnsppgna.js",
+      "bytes": 181923,
+      "hash": "ce47fb918b440fc409e311e09f1bbd48479977775caefe6bbf3ba6565ca1e826",
       "priority": 0
     },
     {
@@ -53,24 +53,6 @@
       "path": "/_next/static/chunks/turbopack-3-ry682tkyiqk.js",
       "bytes": 10030,
       "hash": "8bbb58cbfd4633c1d828c6bc37bc32abc768a149c01b1dfc4f5131fd81274551",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/fX2j5PqSwmow5UZyty80e/_buildManifest.js",
-      "bytes": 219,
-      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/fX2j5PqSwmow5UZyty80e/_clientMiddlewareManifest.js",
-      "bytes": 96,
-      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/fX2j5PqSwmow5UZyty80e/_ssgManifest.js",
-      "bytes": 107,
-      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
     },
     {
@@ -137,6 +119,24 @@
       "path": "/_next/static/media/fef07dbb0973bf53-s.3p2_lha1f2xer.woff2",
       "bytes": 7252,
       "hash": "b7a545bbb08256bd809f11cfe66d88da3e22d169ea4407737b1ef0ec1ed3d791",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/TYWwbZuJNENlUwO8-vTrJ/_buildManifest.js",
+      "bytes": 219,
+      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/TYWwbZuJNENlUwO8-vTrJ/_clientMiddlewareManifest.js",
+      "bytes": 96,
+      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/TYWwbZuJNENlUwO8-vTrJ/_ssgManifest.js",
+      "bytes": 107,
+      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
     },
     {

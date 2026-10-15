@@ -1,5 +1,5 @@
 {
-  "version": "99b6cdb7eaaddffc",
+  "version": "cd040798e0897635",
   "assets": [
     {
       "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
@@ -122,19 +122,19 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/TYWwbZuJNENlUwO8-vTrJ/_buildManifest.js",
+      "path": "/_next/static/oCyPuwdBFJ0Kuqqkd7ebl/_buildManifest.js",
       "bytes": 219,
       "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
       "priority": 0
     },
     {
-      "path": "/_next/static/TYWwbZuJNENlUwO8-vTrJ/_clientMiddlewareManifest.js",
+      "path": "/_next/static/oCyPuwdBFJ0Kuqqkd7ebl/_clientMiddlewareManifest.js",
       "bytes": 96,
       "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
       "priority": 0
     },
     {
-      "path": "/_next/static/TYWwbZuJNENlUwO8-vTrJ/_ssgManifest.js",
+      "path": "/_next/static/oCyPuwdBFJ0Kuqqkd7ebl/_ssgManifest.js",
       "bytes": 107,
       "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
       "priority": 0
@@ -627,20 +627,26 @@
     },
     {
       "path": "/demos/systemadf/adf-demo-data-v41.js",
-      "bytes": 23698,
-      "hash": "81a22b4d4196bf0a1dcbaabd1a0f21c4ea57a4dd4b05177d38f769a9c18b0d49",
+      "bytes": 23764,
+      "hash": "b15c4b8a63e623e564f8819d8b8b5dfd30f0353302e8b423be2f68413e3a365f",
       "priority": 0
     },
     {
       "path": "/demos/systemadf/adf-demo-data-v42.js",
-      "bytes": 41840,
-      "hash": "306b17793a92f37250bcf6774dad890ff465c0e65e56aa8fc8c57800e7bdc45b",
+      "bytes": 41998,
+      "hash": "fbc163d63b6c4d5f219f1f47172d75dae69c96b12d1af7012140894155a12fbe",
       "priority": 0
     },
     {
       "path": "/demos/systemadf/adf-demo-data-v43.js",
-      "bytes": 107192,
-      "hash": "da539cca37c8cb172410b29959e937f2da20b42db64447a1cb68eb01f49005ec",
+      "bytes": 96187,
+      "hash": "45fb8cfb6d3faf606f040e851742c033299c52fc096070a0bfca348092dae097",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/adf-report-data-v80.js",
+      "bytes": 6455,
+      "hash": "440b58b19cb8d87da9101ba04f533a8d4bff5c38517ff936726c2b2bc6b62ec3",
       "priority": 0
     },
     {
@@ -699,8 +705,8 @@
     },
     {
       "path": "/demos/systemadf/assets/index-BZT3ErqY.js",
-      "bytes": 1449728,
-      "hash": "1805555991b6cdf15b9d6f9094d214a32d3a1c067eaab074cf54fd6a3b836ea2",
+      "bytes": 1444030,
+      "hash": "2a6e8f603f547a08704877eb0777cacf139da28d9465bbeb4d7a3997f7e8aeb8",
       "priority": 0
     },
     {
@@ -717,8 +723,8 @@
     },
     {
       "path": "/demos/systemadf/assets/index-CTKa-ey-.js",
-      "bytes": 1449670,
-      "hash": "53942ecb2183bd0a55c85b26479c58c476f05ef1adb379ad068f025d5648cf6c",
+      "bytes": 1443972,
+      "hash": "8a2b39cb9eaa92cf78926192b6128f5cc787d8353273cb404b5cb49d1215f6f4",
       "priority": 0
     },
     {
@@ -963,14 +969,14 @@
     },
     {
       "path": "/demos/systemadf/demo-v43/data.json",
-      "bytes": 101694,
-      "hash": "7f9099b1cd229e52b679350d120c120913ab0e1fa675628899bfa90f984691fc",
+      "bytes": 90653,
+      "hash": "3f189a5c3c48602d7a16b121a21a346da76ab07994a44a05d6c78bb8741efe88",
       "priority": 0
     },
     {
       "path": "/demos/systemadf/index.html",
-      "bytes": 2593,
-      "hash": "e9bbfa17334e5fe8b1d68c963c6403c5f820a86a8c067ba1402449ce589d8ef8",
+      "bytes": 2774,
+      "hash": "2c3a4d7fd52fefacd91fec1cbf73dacc619a3c310cc353bbd2232237fd52c3c4",
       "priority": 0
     },
     {
@@ -1061,6 +1067,12 @@
       "path": "/demos/systemadf/portfolio-preview-bridge.js",
       "bytes": 785,
       "hash": "37eff5621c090135679be7f1dea97f2f6b6ac4959da27ac4b5287d7a8c3b5b32",
+      "priority": 0
+    },
+    {
+      "path": "/demos/systemadf/portfolio-privacy-v79.js",
+      "bytes": 10616,
+      "hash": "455b665632e0497ff1f5c3184f9ada648d5c1faec5f7e008e01957c69a50df13",
       "priority": 0
     },
     {

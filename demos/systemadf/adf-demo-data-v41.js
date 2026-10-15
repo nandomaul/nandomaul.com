@@ -12,7 +12,7 @@ window.NandoADFInventoryV41=[{"id":"office-001","sku":"OFF-001","name":"Tisu Ker
   const read=k=>{const x=JSON.parse(localStorage.getItem(k)||'[]');if(!Array.isArray(x))throw Error('Unexpected demo storage '+k);return x;};
   const merge=(k,rows,old=[])=>{const current=read(k).filter(x=>!old.includes(x.id)),ids=new Set(current.map(x=>x.id));localStorage.setItem(k,JSON.stringify([...current,...rows.filter(x=>!ids.has(x.id))]));};
   const table=(k,rows,old)=>merge(prefix+k,rows,old);
-  const people=['Nadia','Raka','Salsa','Dimas','Tasya','Defrin','Rizka','Hadist'],brands=['realme','akaso','adf','akg','gmi'];
+  const people=["Kian Nusantara","Ezra Pramudya","Alea Pradipta","Nara Pradipta","Aluna Daniswara","Avara Mahesa","Sena Adiwangsa","Sena Pramudya"],brands=['realme','akaso','adf','akg','gmi'];
   const subjects=[['Product launch key visual','Key Visual','Marketplace'],['Creator livestream banner','Banner','TikTok'],['Product education carousel','Social Media','Instagram'],['Double-date campaign set','E-commerce Set','Shopee · Tokopedia'],['Retail display adaptation','Retail Guideline','Offline Store'],['Creator cover pack','Cover','Instagram · TikTok'],['Partner campaign presentation','Presentation','Internal'],['Product feature card','Social Media','Instagram']];
   const refs=['content-demo/creator-upload-01.png','content-demo/creator-upload-02.png','content-demo/creator-upload-03.png'];
   const statuses=['Done','Done','Done','Approved','Read','Revise','Edit','Accepted','Waiting for Accepted'];

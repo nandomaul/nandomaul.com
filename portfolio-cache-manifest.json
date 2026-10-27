@@ -1,6 +1,24 @@
 {
-  "version": "1a6f4a34b50a4b01",
+  "version": "43ab2d816c726726",
   "assets": [
+    {
+      "path": "/_next/static/7sqvWvbjEBOPQl-uiYTmp/_buildManifest.js",
+      "bytes": 219,
+      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/7sqvWvbjEBOPQl-uiYTmp/_clientMiddlewareManifest.js",
+      "bytes": 96,
+      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/7sqvWvbjEBOPQl-uiYTmp/_ssgManifest.js",
+      "bytes": 107,
+      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
+      "priority": 0
+    },
     {
       "path": "/_next/static/chunks/0cz1d0mv5g_q7.js",
       "bytes": 112594,
@@ -8,9 +26,9 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/chunks/0m4lk93awlr0x.css",
-      "bytes": 3609,
-      "hash": "054855a19bca040dfc6f671baa879124424c77eac628b0ffa2f955090b544672",
+      "path": "/_next/static/chunks/0eorgyvelqsw9.js",
+      "bytes": 261992,
+      "hash": "b2848e750ad7e585573332d9e525e5a7ed3b18cf6c14125e86144f6444cc8292",
       "priority": 0
     },
     {
@@ -20,21 +38,9 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/chunks/0vmn070utcj9n.css",
-      "bytes": 325614,
-      "hash": "5762a894b9052beb298e91aa6211fa3a91b6bb721a56a375640c9144d3867a16",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/chunks/1aclbdjctit__.js",
-      "bytes": 258808,
-      "hash": "60711e052f256be9c5bbccc5430c2ee00d7e9343b4855f521d6db1ef52fff431",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/chunks/2vlgjjnsppgna.js",
-      "bytes": 181923,
-      "hash": "ce47fb918b440fc409e311e09f1bbd48479977775caefe6bbf3ba6565ca1e826",
+      "path": "/_next/static/chunks/1nyjksklc68d3.js",
+      "bytes": 182110,
+      "hash": "58505524b9cfcd9d83347c0d0f918aa266fb01de8e441d8c02ad377cb9725f78",
       "priority": 0
     },
     {
@@ -44,9 +50,21 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/chunks/3dmm3v_fq28gc.js",
+      "path": "/_next/static/chunks/361w87mea3yxc.css",
+      "bytes": 3609,
+      "hash": "d07e13825554b4d4246d85a791325dcbd1a75836e36f2b6b1e85be3e535dba63",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/3wbm-994r45kr.js",
       "bytes": 229820,
-      "hash": "12c72318dee8d15a8fc5ea65c908da89cbbbfdc3ec455040db8b2fd3d2e7e0f8",
+      "hash": "0112d166f239984294780810c159749ca06e78e3f1ce5db35ab98f31b95c9d5c",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/chunks/42vbhh8pduly9.css",
+      "bytes": 326140,
+      "hash": "311e48027353b9207bed74bf11246853d61fa9f8a4b2c8cc1559bc2759e08119",
       "priority": 0
     },
     {
@@ -56,87 +74,69 @@
       "priority": 0
     },
     {
-      "path": "/_next/static/media/4fa387ec64143e14-s.2tuy5pz7dlieh.woff2",
-      "bytes": 12872,
-      "hash": "75b3bedbebc35f347c0ae3b416aa871941555357e7b0f83767eb5987875589ed",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/media/53b9e256198e5412-s.390ncx5urfkfu.woff2",
-      "bytes": 7968,
-      "hash": "f689f638f29fff460a2d5749edb5d5c38d7bef0389f32032d871f23fc6ebb008",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/media/5ce348bf30bf5439-s.31988l_ccedte.woff2",
-      "bytes": 6204,
-      "hash": "e27f657e38d52887baa3b6b2f812bef93dfdd356f0810e40edd4ee284cc7e9f6",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/media/6306c77e7c8268e4-s.2dbetqa9o8jxf.woff2",
-      "bytes": 5892,
-      "hash": "d67e4a94ba498635f764ddca7d1ec4271f5642f032eb24b426764480f66f8497",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/media/7178b3e590c64307-s.21jp631_3pja2.woff2",
-      "bytes": 16540,
-      "hash": "58a6b173d5ca1dec92166ea3c6cb1a84a4144556d10928ac14e8e6b40e4787bd",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2",
-      "bytes": 23108,
-      "hash": "5f3d6ad60f29d6cb708414ec6887163d63bf197377ef5417d2483ff31ace6c3b",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/media/7d817b4c03b0c5f1-s.1uyisp29ctx0d.woff2",
-      "bytes": 7728,
-      "hash": "16e1d48b6dd29eb240aec5db36184eb182933c082cd43de7f35af686d58087d2",
-      "priority": 0
-    },
-    {
-      "path": "/_next/static/media/8a480f0b521d4e75-s.1qq4vpdcun5oj.woff2",
+      "path": "/_next/static/media/07935285219a259d-s.1qq4vpdcun5oj.woff2",
       "bytes": 14900,
       "hash": "6129fc8571c3e0cb0a4c41f5160c974a843b055009dc4ad8858bd808e18a2d86",
       "priority": 0
     },
     {
-      "path": "/_next/static/media/bbc41e54d2fcbd21-s.1rgnod-3esatf.woff2",
+      "path": "/_next/static/media/07a39a8a4660cc7c-s.p.0r6juujl39pe6.woff2",
+      "bytes": 23108,
+      "hash": "5f3d6ad60f29d6cb708414ec6887163d63bf197377ef5417d2483ff31ace6c3b",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/media/2a04751c893bf294-s.1rgnod-3esatf.woff2",
       "bytes": 14712,
       "hash": "745994b5cd950ec201b66526375f057d540847cccfc70f4f24f5f571d26d3923",
       "priority": 0
     },
     {
-      "path": "/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2",
-      "bytes": 29288,
-      "hash": "9b6f5ff45b278c744b5f379a2c4ecbaf858a842b8eaf82ac8d21b699ca16c608",
+      "path": "/_next/static/media/2bb852295097cd96-s.2dbetqa9o8jxf.woff2",
+      "bytes": 5892,
+      "hash": "d67e4a94ba498635f764ddca7d1ec4271f5642f032eb24b426764480f66f8497",
       "priority": 0
     },
     {
-      "path": "/_next/static/media/fef07dbb0973bf53-s.3p2_lha1f2xer.woff2",
+      "path": "/_next/static/media/4f6667dd39116621-s.3p2_lha1f2xer.woff2",
       "bytes": 7252,
       "hash": "b7a545bbb08256bd809f11cfe66d88da3e22d169ea4407737b1ef0ec1ed3d791",
       "priority": 0
     },
     {
-      "path": "/_next/static/xlp-XhnQeUER9evgH5HSW/_buildManifest.js",
-      "bytes": 219,
-      "hash": "9476e0afd3f9da68a64e6ec58631191fd3eaca62c9f5a377e7517fe9a89e59ea",
+      "path": "/_next/static/media/605ce01b664af129-s.p.0wgildi0cnwt9.woff2",
+      "bytes": 29288,
+      "hash": "9b6f5ff45b278c744b5f379a2c4ecbaf858a842b8eaf82ac8d21b699ca16c608",
       "priority": 0
     },
     {
-      "path": "/_next/static/xlp-XhnQeUER9evgH5HSW/_clientMiddlewareManifest.js",
-      "bytes": 96,
-      "hash": "5483e3295dc35dfe29ea932efc85341c916f10ff78ff5b0e965e003710893a4a",
+      "path": "/_next/static/media/6e342921ee4dcd9d-s.2tuy5pz7dlieh.woff2",
+      "bytes": 12872,
+      "hash": "75b3bedbebc35f347c0ae3b416aa871941555357e7b0f83767eb5987875589ed",
       "priority": 0
     },
     {
-      "path": "/_next/static/xlp-XhnQeUER9evgH5HSW/_ssgManifest.js",
-      "bytes": 107,
-      "hash": "acb6635cb8bf07a5a407c467dd429fe72539a0cf090b0668d27b36b4210fd3d7",
+      "path": "/_next/static/media/77814b00d5ca94a4-s.21jp631_3pja2.woff2",
+      "bytes": 16540,
+      "hash": "58a6b173d5ca1dec92166ea3c6cb1a84a4144556d10928ac14e8e6b40e4787bd",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/media/9eb5a876700c0028-s.1uyisp29ctx0d.woff2",
+      "bytes": 7728,
+      "hash": "16e1d48b6dd29eb240aec5db36184eb182933c082cd43de7f35af686d58087d2",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/media/b0c6b664fd57c2c6-s.31988l_ccedte.woff2",
+      "bytes": 6204,
+      "hash": "e27f657e38d52887baa3b6b2f812bef93dfdd356f0810e40edd4ee284cc7e9f6",
+      "priority": 0
+    },
+    {
+      "path": "/_next/static/media/f58031ded4338640-s.390ncx5urfkfu.woff2",
+      "bytes": 7968,
+      "hash": "f689f638f29fff460a2d5749edb5d5c38d7bef0389f32032d871f23fc6ebb008",
       "priority": 0
     },
     {
@@ -154,13 +154,13 @@
     {
       "path": "/admin/dashboard/index.html",
       "bytes": 3564,
-      "hash": "308bb32653a4e1b310f86d50fc9f0fc28bf4b09b6ef1b86b3e434366836841e9",
+      "hash": "ee9fcb2624d1cdc87acc03a6aa296fd9695917e6993221785e2aaefdc637fa1b",
       "priority": 0
     },
     {
       "path": "/admin/index.html",
       "bytes": 3613,
-      "hash": "8d7bb8d4f20e222c087082cfe48a03b4c595cded5b3ca2e93811f648db526889",
+      "hash": "113350d0c5aa83bfbb0b08bef437c5c7e9949e9740d68813fdd27ec4407e5bd5",
       "priority": 0
     },
     {
@@ -238,7 +238,7 @@
     {
       "path": "/catalog/index.html",
       "bytes": 449,
-      "hash": "a2db7723689216cf0838b9716400635a7042b22bdf95587cc4e0675447c79418",
+      "hash": "69bfe526d1ed0ae7f860a029ae7491a1dbdabc038362424a66bf1e46a40fe777",
       "priority": 0
     },
     {
@@ -256,14 +256,80 @@
     {
       "path": "/content-marketing/index.html",
       "bytes": 449,
-      "hash": "a2db7723689216cf0838b9716400635a7042b22bdf95587cc4e0675447c79418",
+      "hash": "69bfe526d1ed0ae7f860a029ae7491a1dbdabc038362424a66bf1e46a40fe777",
       "priority": 0
     },
     {
       "path": "/dashboard/index.html",
       "bytes": 449,
-      "hash": "a2db7723689216cf0838b9716400635a7042b22bdf95587cc4e0675447c79418",
+      "hash": "69bfe526d1ed0ae7f860a029ae7491a1dbdabc038362424a66bf1e46a40fe777",
       "priority": 0
+    },
+    {
+      "path": "/demos/blueprint/assets/blueprint-v88-CWSHNDS4.css",
+      "bytes": 150178,
+      "hash": "b37b4dd601b0a7796ca97c8cc47c494dab75c779183c7451807df361bcda5299",
+      "priority": 0
+    },
+    {
+      "path": "/demos/blueprint/assets/blueprint-v88-SFZAJUOH.js",
+      "bytes": 4068745,
+      "hash": "9ccb368b544c7182f18544fb987b330e6743bd8dab4815c4fee486a5a30e29f0",
+      "priority": 0
+    },
+    {
+      "path": "/demos/blueprint/index.html",
+      "bytes": 850,
+      "hash": "5d42224bbe848a0bfb8e4a9afee09bf6ec9dafc3456605b5af1a4414efcfb65c",
+      "priority": 0
+    },
+    {
+      "path": "/demos/blueprint/portfolio-demo-v83.json",
+      "bytes": 2041,
+      "hash": "915db201678d4cd020c3bd26e128c01a40fc18e7cf18d2ef346f75967f4e1def",
+      "priority": 0
+    },
+    {
+      "path": "/demos/blueprint/stickers/v1/check-it.webp",
+      "bytes": 43650,
+      "hash": "736af0d63a2828b4a2d9d05d240dcce7fb75c63bb01ff42287da00db50c1bb5e",
+      "priority": 1
+    },
+    {
+      "path": "/demos/blueprint/stickers/v1/go-it.webp",
+      "bytes": 40270,
+      "hash": "7bea603c9c38087bd5d5097533136ecf363e990a363a55c7d68c9808cd5404e1",
+      "priority": 1
+    },
+    {
+      "path": "/demos/blueprint/stickers/v1/here.webp",
+      "bytes": 48764,
+      "hash": "97008ca8d221f25385517b0b04c6ae8375edc603597a062efa10713d4a1039a8",
+      "priority": 1
+    },
+    {
+      "path": "/demos/blueprint/stickers/v1/make-sure.webp",
+      "bytes": 45126,
+      "hash": "2689f3ab62ffd6c3e7e4c8c42f406c13a8b853fe5cfc802dfcf3d206bc58c59b",
+      "priority": 1
+    },
+    {
+      "path": "/demos/blueprint/stickers/v1/nice.webp",
+      "bytes": 41762,
+      "hash": "78b9c0a9e03ffacabb9cf21ecf5e4662c9591b23fcbaf04d4c9b909b03f0ef8f",
+      "priority": 1
+    },
+    {
+      "path": "/demos/blueprint/stickers/v1/please.webp",
+      "bytes": 41302,
+      "hash": "6854f6e031ddd4561d2a3e6f2af5c1fd3f666bef7de5bb8c0939a6f484a88bb9",
+      "priority": 1
+    },
+    {
+      "path": "/demos/blueprint/stickers/v1/plus-one.webp",
+      "bytes": 40454,
+      "hash": "bb9ebd7b2b64ba5388c84b845c2f0ca148edc6c334218dcad90dea0afdd662c6",
+      "priority": 1
     },
     {
       "path": "/demos/gaknyampe/_expo/static/js/web/entry-49c7277850628b03300ac76f388e41dc.js",
@@ -292,37 +358,37 @@
     {
       "path": "/demos/gaknyampe/_sitemap.html",
       "bytes": 47754,
-      "hash": "9cc4cb4105b97d4282b98de7b918b4300e95b4df15f65e7bc6e889a4e9ccf719",
+      "hash": "62d519d1a25356bbc2589c80203b1e206bb19f7eabb8a99e245683fd6f7574f6",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/%2Bnot-found.html",
       "bytes": 47754,
-      "hash": "9cc4cb4105b97d4282b98de7b918b4300e95b4df15f65e7bc6e889a4e9ccf719",
+      "hash": "62d519d1a25356bbc2589c80203b1e206bb19f7eabb8a99e245683fd6f7574f6",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/aktifitas.html",
       "bytes": 56851,
-      "hash": "07ddb874cc1c69a899b96d6a2f8fb2b042ca8a1e66fd07026347e5d19bc5f7d1",
+      "hash": "b2cf5278f1b3f5260587f9e8ace7cfbae72f45fefa12db362d43de56bd855c55",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/aktivitas.html",
       "bytes": 61712,
-      "hash": "a561d589640de664d1c0fe896925ba283f44f7892e1c8f3aa3745a6f718e0451",
+      "hash": "f5e1df1845b57f363b59e3deb01e6d58a65622dc28fd5411c8c74d868e16f661",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/assets/assets/games/nebeng-dulu.73dcaff844f3f98510529accf47365d8.html",
       "bytes": 2214326,
-      "hash": "67a97704a5ae510013996ab0a4ce1270bf99877f8c62a20a92940696ee2582c2",
+      "hash": "96db9547d2343967ba1b760dd90899ff3caf5013b2755a90c9bf9f698d046a13",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/checkout.html",
       "bytes": 50121,
-      "hash": "6e83ec32df7b12f64a667e34a529982ac66814b8f5f4e1015f64689b82e6dc6b",
+      "hash": "e21289cc03e02a1f8705807a274fae4f2a1809676b138e9053ed97dbe072c401",
       "priority": 0
     },
     {
@@ -340,67 +406,67 @@
     {
       "path": "/demos/gaknyampe/games/blok-nebeng.html",
       "bytes": 9656056,
-      "hash": "c314450ad44c9ccb6651a2e695a2ac1d6f0e31b4f46bccf699c76acd3a8fde06",
+      "hash": "c86bacfad1e6895aac0b4a3c676c2cdfef56382d99707bdea37ff686012eea7f",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/games/capit-tanding.html",
       "bytes": 37522764,
-      "hash": "4e0485b38b12b5501daa074af8c483b50c9eb2e1cf08bbdf68e7c5c7dff2e0a9",
+      "hash": "ab4d611edb451ce87f4bba9291b10647ff04a1cb347cce68276c3b4a54ef57e2",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/games/nebeng-dulu.html",
       "bytes": 2214804,
-      "hash": "f7459d2d5789ed64adb7ba9ba67c0a91ca3b1baf304264db37210a7e6b6253af",
+      "hash": "f66e20ab622795e7cfdefc7effde54ec33f29f63797167dcd836a10c4de56780",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/games/oyen-nebeng.html",
       "bytes": 20319726,
-      "hash": "8637df3a3f00711b1f8afd82a0509bb1eba5f4b4a99b1c624343b13dbc2fb374",
+      "hash": "96dac7a35d8ce36e75f94c31582c801a3f9aa89c3af8987b2de3385574b0e657",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/index.html",
       "bytes": 71389,
-      "hash": "870443360938c512f35f55d61bd3da7402503d51109fdc430da9cc96f8ab2abc",
+      "hash": "3a6d5fe9d08b2553b4958e74a76075d0efa1aecc2cab25f5efcd096fe428cc7c",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/isi-saldo.html",
       "bytes": 63423,
-      "hash": "ad020e54e305c2ddfa5fd7899194c1446d8e130ab72552f76337e253600b5801",
+      "hash": "6cd4cc51625ff315a6474e6bffbeefb183892cd578306b3b6b3a85630487901b",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/jelajah.html",
       "bytes": 110883,
-      "hash": "7bd711ea7fe40470f2b6f88a4932a01b8d34d6222f11a44d1e38ce6ea8462e30",
+      "hash": "589dc46d8dd06f12661729fb3a429730e89a17db065806dd7f66962a0cf3853a",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/keranjang.html",
       "bytes": 51042,
-      "hash": "881bbfc1f58df50022cbb4553381c95d72950fecff220d18440db2d14435262e",
+      "hash": "abd747beedc628a14369bc7ebb6ccb469fa49bbe97048c888c69cc0f10d13514",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/makan-nanti.html",
       "bytes": 120788,
-      "hash": "8c90fb31aafec5e0b5dc4b8e255595a27f0f3dae666670bd4e1ce033ef4a13df",
+      "hash": "9596c7ff7a71faba366fc1c5c2b1288d45645d3f842940e6f4ebed949a109c57",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/nebeng-dulu.html",
       "bytes": 50152,
-      "hash": "35f1b442fa06675361a8559aa3aa2b8d8f4c57ae0a195dc781761a421ef0247d",
+      "hash": "e72be9f478be961277a08dbdab157dbd7c8f9c84e42239597915ddd226179ba7",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/notifikasi.html",
       "bytes": 55699,
-      "hash": "c683a184060c93ddc605b349d0b936661134bd446bf49ba341a815927055ad50",
+      "hash": "996eec57bc80044fa78d1092e1998e1b3c115cb102e55100a1bae388678618b9",
       "priority": 0
     },
     {
@@ -412,13 +478,13 @@
     {
       "path": "/demos/gaknyampe/profile.html",
       "bytes": 62502,
-      "hash": "cac7071573c3aa52afdd2f24953a70dc3d7d7141ab11ea352a26301adbb0d972",
+      "hash": "1c99df0762573c4eb91b8faf1e76d1f8b09b26d75a193a9758ef8039c706a868",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/restoran/%5Bid%5D.html",
       "bytes": 50093,
-      "hash": "ffd8654c0297d4f3faf3cd5c153bbf69a64dd94667a25a23407ba022e577523a",
+      "hash": "4a2f5496bb0190f851d74a8d00a6e417ea75e492aef408efba600c44cc35047e",
       "priority": 0
     },
     {
@@ -430,31 +496,31 @@
     {
       "path": "/demos/gaknyampe/scan.html",
       "bytes": 52452,
-      "hash": "8c96b8a0950f17b5311a6169d6979bb639e064fcdf5ba2865fc8e5f21871bce7",
+      "hash": "ae282f277f7082138b2b59151bab95248d475be0ebe3ff1e7873c0e693e9e3ee",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/semua-aja.html",
       "bytes": 60618,
-      "hash": "0e93ac53b099b93c0cc3725b67411cf6087687c6c8a31cb231bf32ffd01b3026",
+      "hash": "dd23deecd0f03d1c95722125adbc2229a5d5ed28b75b2f8a135a5959a861f22d",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/tracking.html",
       "bytes": 50135,
-      "hash": "bc401ba7f764e454061f7a1c2241443b1000df5d53f8574a20fe427dd8a68a16",
+      "hash": "10fc53a990950627ac92a6a1bf9e598315b915075438fb463d1dd3ac6a6f1c87",
       "priority": 0
     },
     {
       "path": "/demos/gaknyampe/traktir.html",
       "bytes": 66148,
-      "hash": "b2401003b032d861df4b044d88303724c2a39a36a228a17fe020ae360ca43094",
+      "hash": "1696ab0ddc0954ee97a920d2c42a5c28a3872f05bca5a696178c9329afb9ab16",
       "priority": 0
     },
     {
       "path": "/demos/kreavityworks/404.html",
       "bytes": 1054,
-      "hash": "6dc35e2244fa6529e67ba9ff8d79cbd28c9c55716c66b528027572e749c3885c",
+      "hash": "2e0f7bb1c524b767f8ceed85d2f4486bfc580947c1492e4f8d9a81e36feabcc7",
       "priority": 0
     },
     {
@@ -484,13 +550,13 @@
     {
       "path": "/demos/kreavityworks/googlee403290d1db632d6.html",
       "bytes": 180,
-      "hash": "83076f2adfa27f82ca0749d54bbc0652a37a70beaf70a1836523bb07e699728c",
+      "hash": "8d23747066cd18ac2dde6083151b39aa7cc4a3c125bce45711018c9a96c4d878",
       "priority": 0
     },
     {
       "path": "/demos/kreavityworks/index.html",
       "bytes": 1807,
-      "hash": "9dbfc6e561eeaf357622824ee94cee2e26fca18fb378baf41f1d240f0ab9d008",
+      "hash": "af2ede4d43fc913ceced98b9a225ecacaa4d33151c983eb8b21bc40df313ad2d",
       "priority": 0
     },
     {
@@ -508,19 +574,19 @@
     {
       "path": "/demos/property/404.html",
       "bytes": 5130,
-      "hash": "e7853ab6810f48dd7b5000960788b486a8ed7d42fbdd1eb1e48fe2233fe0c3b2",
+      "hash": "a0892130680d790d6be68d1ce795d20d65d7f68ff3528490718cce22f9d4b004",
       "priority": 0
     },
     {
       "path": "/demos/property/admin/dashboard/index.html",
       "bytes": 3664,
-      "hash": "08762a0c408533e134d7f5610b1e0660f086fdef45ad4383fc1dabb917b8e599",
+      "hash": "d89c7e687292ba341e1ced17e827a53bbe24e13b2a7b886286b17f0e83f36356",
       "priority": 0
     },
     {
       "path": "/demos/property/admin/index.html",
       "bytes": 3664,
-      "hash": "08762a0c408533e134d7f5610b1e0660f086fdef45ad4383fc1dabb917b8e599",
+      "hash": "d89c7e687292ba341e1ced17e827a53bbe24e13b2a7b886286b17f0e83f36356",
       "priority": 0
     },
     {
@@ -586,13 +652,13 @@
     {
       "path": "/demos/property/dashboard/index.html",
       "bytes": 3659,
-      "hash": "e953ea95620423326b117bbed67660133f651f15f1b2c0f6e5f37e5ed45c3c8a",
+      "hash": "cf233f20af843e156d7c9f0ef6c5767c337cff519326821eba3507fef7100768",
       "priority": 0
     },
     {
       "path": "/demos/property/index.html",
       "bytes": 3770,
-      "hash": "fcd2248d9b0bbd3d9bed83e5209a6ba726267acc787ab14e50a4ced5d4aa38bb",
+      "hash": "44de651c515864b7d6cffb92fc70048c2163436c21c931ade967e9828be3ca85",
       "priority": 0
     },
     {
@@ -976,7 +1042,7 @@
     {
       "path": "/demos/systemadf/index.html",
       "bytes": 2773,
-      "hash": "3619be99ee876e08b049f55a4d0552a0ce433898bebfae99aaaa722f593b15bf",
+      "hash": "164161201d4f5a334d7b2064b9d58899eef09b01259ec3f6b25cb821f892ccb3",
       "priority": 0
     },
     {
@@ -1108,13 +1174,13 @@
     {
       "path": "/frontpage/index.html",
       "bytes": 449,
-      "hash": "a2db7723689216cf0838b9716400635a7042b22bdf95587cc4e0675447c79418",
+      "hash": "69bfe526d1ed0ae7f860a029ae7491a1dbdabc038362424a66bf1e46a40fe777",
       "priority": 0
     },
     {
       "path": "/game-engine.html",
       "bytes": 106516,
-      "hash": "2a91592c5e4ff40559370d19189749e6e7dead66af1456c8406795642e0c18c9",
+      "hash": "96b831f7e106cc8d43d2fbf68bd4097b5d2528de9cde41c029fea05065af4f82",
       "priority": 0
     },
     {
@@ -1124,15 +1190,15 @@
       "priority": 1
     },
     {
-      "path": "/image-delivery-v77-6c3b9557f1213b93.js",
-      "bytes": 99988,
-      "hash": "6c3b9557f1213b93646c9335e15f9d2c762bafe08522740b24370edc546c8951",
+      "path": "/image-delivery-v77-e20b4a94c32f4199.js",
+      "bytes": 101001,
+      "hash": "e20b4a94c32f41997b5e42c0f9ce880b32c480d6e23efd80362259e48f59e1d4",
       "priority": 0
     },
     {
       "path": "/intelligence-os/404.html",
       "bytes": 788,
-      "hash": "ad9353f4c6ba467b501620f75199d599c632086b45be3620e572163405148ee5",
+      "hash": "972ed23b9ed2eeb3cf075606449e5ae32992a329cb352eab6466528196d485df",
       "priority": 0
     },
     {
@@ -1150,7 +1216,7 @@
     {
       "path": "/intelligence-os/index.html",
       "bytes": 837,
-      "hash": "3f37937c13391b92943733120f675725c7cbd71c7c154f3977f9cbd26f5e8d26",
+      "hash": "d0b1cbed6e379d6af9df45715503f8f47f3550cc1069a50c9cf6bef5b4754cb8",
       "priority": 0
     },
     {
@@ -1162,7 +1228,7 @@
     {
       "path": "/KhabilaKitchen/404.html",
       "bytes": 127,
-      "hash": "e6bc4b81aed52a7b4471516229bd458d31837b6592739ca2e8172f0fdeff7776",
+      "hash": "525b7229bb37217698c39b7b39cea62b2dac494b97dff3395ea514afa859675f",
       "priority": 0
     },
     {
@@ -1180,7 +1246,7 @@
     {
       "path": "/KhabilaKitchen/index.html",
       "bytes": 716,
-      "hash": "d1bf18a92ccf8128d9887f32ea6ce80c6e444e13921230e36ae180c428fbe9bf",
+      "hash": "840c713198ef968dbef560b9b63d8c4c23d231e0e897babc3510fdae3c9d61c5",
       "priority": 0
     },
     {
@@ -1192,7 +1258,7 @@
     {
       "path": "/office-inventory/index.html",
       "bytes": 449,
-      "hash": "a2db7723689216cf0838b9716400635a7042b22bdf95587cc4e0675447c79418",
+      "hash": "69bfe526d1ed0ae7f860a029ae7491a1dbdabc038362424a66bf1e46a40fe777",
       "priority": 0
     },
     {
@@ -1319,6 +1385,12 @@
       "path": "/optimized-images-v72/098467029d3eacbfe4691a13.webp",
       "bytes": 117188,
       "hash": "59367b468d91530c48eed6ee85085072bbd712243e8b90c9008a963da2422ca8",
+      "priority": 1
+    },
+    {
+      "path": "/optimized-images-v72/0aabdb226a3d9f63f0ab6113.webp",
+      "bytes": 30336,
+      "hash": "0f84fc24852472b3e10c4a1622e2a4fd7ab94f65bdd5086f6dc1a08d2431348e",
       "priority": 1
     },
     {
@@ -1802,6 +1874,12 @@
       "priority": 1
     },
     {
+      "path": "/optimized-images-v72/2ef3e54a3abb63131e24bf19.webp",
+      "bytes": 23792,
+      "hash": "b00b7431c62469599aa8a43425a8d5dc05e9050c5a8fd3868cbd5b1c257f1ad4",
+      "priority": 1
+    },
+    {
       "path": "/optimized-images-v72/2efc964b6bad2f9d44594f76.webp",
       "bytes": 23586,
       "hash": "e2489a2011ecda9b5d8f0315221c752b00762d0990a3483bffe0d0fd5bffe219",
@@ -1919,6 +1997,12 @@
       "path": "/optimized-images-v72/3a211ee1dc98cca5634509cf.webp",
       "bytes": 89228,
       "hash": "8e35c11d58c6feec1c6d9bdbba90fa423befa13c3c641b8e84ef27c4f29e89bf",
+      "priority": 1
+    },
+    {
+      "path": "/optimized-images-v72/3a468de64d8d8802c1d1ada0.webp",
+      "bytes": 36532,
+      "hash": "44522b091f2f0148a62688b033110b6df8dda1ad37db94aaa7de63eee1975874",
       "priority": 1
     },
     {
@@ -2063,6 +2147,12 @@
       "path": "/optimized-images-v72/47ed284464df138aea8a3ea0.webp",
       "bytes": 95368,
       "hash": "c98a4dc3a2e800a18838305c58fbbcea06d34e7c9127e258352146827b24ca99",
+      "priority": 1
+    },
+    {
+      "path": "/optimized-images-v72/4915dee41b350f21c5994ebc.webp",
+      "bytes": 23640,
+      "hash": "2677d0c68f1c3a747940db18639c7b5451cf5224c71a74d40208c0514e38593f",
       "priority": 1
     },
     {
@@ -2243,6 +2333,12 @@
       "path": "/optimized-images-v72/59bcf3290d2ce49a3fa15eae.webp",
       "bytes": 156754,
       "hash": "89d6f67ee552daa21056febc810fc4806085f77f22d8406821129c35c5d95d69",
+      "priority": 1
+    },
+    {
+      "path": "/optimized-images-v72/5aaedc09c84e11f0cd35544c.webp",
+      "bytes": 14800,
+      "hash": "e76640cb268f1df26208412803c08fa4e4b676e3e420e77b991aa81a1852a3c7",
       "priority": 1
     },
     {
@@ -2534,6 +2630,12 @@
       "priority": 1
     },
     {
+      "path": "/optimized-images-v72/6fc57e96356d09b68f433d48.webp",
+      "bytes": 26632,
+      "hash": "a9c054ed5652cd11bd3c39a94374ffd46cbf35ab99553cf4cbecf503d5b7a40b",
+      "priority": 1
+    },
+    {
       "path": "/optimized-images-v72/70099486b9b43995e807cc63.webp",
       "bytes": 207466,
       "hash": "a2a2f0e0146037c6ff4b5643291815922a098f5092fb81f5f5517ab2c256063a",
@@ -2597,12 +2699,6 @@
       "path": "/optimized-images-v72/73892de54c54d070a7e1dbaf.webp",
       "bytes": 56124,
       "hash": "10a81c705e7d28919901beb1d8a32622f6a85cf246996921d620eda28956d8b4",
-      "priority": 1
-    },
-    {
-      "path": "/optimized-images-v72/7438951a11918036694d3a9b.webp",
-      "bytes": 98552,
-      "hash": "82a00cb46b32fefe9cc8bcc0ec2a7852ab8cc06f111fde8c1d5938a43bc914db",
       "priority": 1
     },
     {
@@ -2741,6 +2837,12 @@
       "path": "/optimized-images-v72/83d9ed6e9b397d3c18959511.webp",
       "bytes": 21488,
       "hash": "2b5be434510e1a5727051b7f2ab4bff40481a809a4e14f06a4f498b9b5ba7d82",
+      "priority": 1
+    },
+    {
+      "path": "/optimized-images-v72/840112c547e9fe8d60b6c49a.webp",
+      "bytes": 23950,
+      "hash": "8b47a622e80e59f2507a362f2c3d56ab858f2dec41e45beaedc5d64c2192e85e",
       "priority": 1
     },
     {
@@ -3122,6 +3224,12 @@
       "priority": 1
     },
     {
+      "path": "/optimized-images-v72/a80fd02e48154d5684169195.webp",
+      "bytes": 33756,
+      "hash": "3e6d73409906b0dc57d8b403720c51e4801e038e090919f6e8610440ac61358b",
+      "priority": 1
+    },
+    {
       "path": "/optimized-images-v72/a814a6ed93eeef73094571f4.webp",
       "bytes": 2638,
       "hash": "58a5c08937bec81969d7007756e8362c2ed63e617a5504535153671d77373fe6",
@@ -3299,6 +3407,12 @@
       "path": "/optimized-images-v72/bca977a635d4e8d0b2d702e4.webp",
       "bytes": 3864,
       "hash": "c12285b2ec64acc5265d502d159273c12c1a4cd94e609e14b42c5d7eb4d0fee6",
+      "priority": 1
+    },
+    {
+      "path": "/optimized-images-v72/bcd6618509b09e3f1a1d321a.webp",
+      "bytes": 13620,
+      "hash": "fdebc0d18857300cd08624601394fd7b4cd53df0fa52e4a3f5585c13458587b6",
       "priority": 1
     },
     {
@@ -3545,6 +3659,12 @@
       "path": "/optimized-images-v72/d0e3f7fc6f88584220d49642.webp",
       "bytes": 3564,
       "hash": "a607d0d26480652823dfd051204a815982cf7817b2a3625107d49fcbc0b431b6",
+      "priority": 1
+    },
+    {
+      "path": "/optimized-images-v72/d2a17d4b45048ad4d78fd75f.webp",
+      "bytes": 18620,
+      "hash": "536cc523040aa14b2c84639ab12bfe5de3ce06ac64c9c201199993ecd22f9937",
       "priority": 1
     },
     {
@@ -3890,6 +4010,12 @@
       "priority": 1
     },
     {
+      "path": "/optimized-images-v72/f7dc0e7f014c84a49a68d9c3.webp",
+      "bytes": 40478,
+      "hash": "23877ef1bf9d9bcbfa99d22c596fca9886a5b4613666f709628b18075bef1f3e",
+      "priority": 1
+    },
+    {
       "path": "/optimized-images-v72/f82f14a49ca8b32532bef52e.webp",
       "bytes": 41252,
       "hash": "c385e14b7b37c39b2c15609dff4115f7a6706c59c5446ed4373f5378554692a3",
@@ -3976,19 +4102,19 @@
     {
       "path": "/p4series/index.html",
       "bytes": 449,
-      "hash": "a2db7723689216cf0838b9716400635a7042b22bdf95587cc4e0675447c79418",
+      "hash": "69bfe526d1ed0ae7f860a029ae7491a1dbdabc038362424a66bf1e46a40fe777",
       "priority": 0
     },
     {
       "path": "/popup/index.html",
       "bytes": 449,
-      "hash": "a2db7723689216cf0838b9716400635a7042b22bdf95587cc4e0675447c79418",
+      "hash": "69bfe526d1ed0ae7f860a029ae7491a1dbdabc038362424a66bf1e46a40fe777",
       "priority": 0
     },
     {
       "path": "/Por-Prov/404.html",
       "bytes": 127,
-      "hash": "e6bc4b81aed52a7b4471516229bd458d31837b6592739ca2e8172f0fdeff7776",
+      "hash": "525b7229bb37217698c39b7b39cea62b2dac494b97dff3395ea514afa859675f",
       "priority": 0
     },
     {
@@ -4006,7 +4132,7 @@
     {
       "path": "/Por-Prov/index.html",
       "bytes": 734,
-      "hash": "c14d49fb32ceb83c4f87985ca58c5bd44752e7e19c0acb7708e0f2daf35e0f73",
+      "hash": "f43cd19360585155c2ccae703dae48463aa9f383af416959a534f5ad57fe3ced",
       "priority": 0
     },
     {
@@ -4036,19 +4162,19 @@
     {
       "path": "/reports-lab/index.html",
       "bytes": 449,
-      "hash": "a2db7723689216cf0838b9716400635a7042b22bdf95587cc4e0675447c79418",
+      "hash": "69bfe526d1ed0ae7f860a029ae7491a1dbdabc038362424a66bf1e46a40fe777",
       "priority": 0
     },
     {
       "path": "/requestpage/index.html",
       "bytes": 449,
-      "hash": "a2db7723689216cf0838b9716400635a7042b22bdf95587cc4e0675447c79418",
+      "hash": "69bfe526d1ed0ae7f860a029ae7491a1dbdabc038362424a66bf1e46a40fe777",
       "priority": 0
     },
     {
       "path": "/systemadf.html",
       "bytes": 449,
-      "hash": "a2db7723689216cf0838b9716400635a7042b22bdf95587cc4e0675447c79418",
+      "hash": "69bfe526d1ed0ae7f860a029ae7491a1dbdabc038362424a66bf1e46a40fe777",
       "priority": 0
     },
     {
@@ -4342,19 +4468,19 @@
     {
       "path": "/ZeeMy/_not-found/index.html",
       "bytes": 10847,
-      "hash": "4e874ca95dbde97bf704d8b78d4f774faca171af89d8fa214a5497bfb1a6e4d5",
+      "hash": "fcf4040a7b510b1e515ba9d366895e6aec430d359409d96c080b74c23b8c9e03",
       "priority": 0
     },
     {
       "path": "/ZeeMy/404.html",
       "bytes": 10847,
-      "hash": "4e874ca95dbde97bf704d8b78d4f774faca171af89d8fa214a5497bfb1a6e4d5",
+      "hash": "fcf4040a7b510b1e515ba9d366895e6aec430d359409d96c080b74c23b8c9e03",
       "priority": 0
     },
     {
       "path": "/ZeeMy/404/index.html",
       "bytes": 10847,
-      "hash": "4e874ca95dbde97bf704d8b78d4f774faca171af89d8fa214a5497bfb1a6e4d5",
+      "hash": "fcf4040a7b510b1e515ba9d366895e6aec430d359409d96c080b74c23b8c9e03",
       "priority": 0
     },
     {
@@ -4384,7 +4510,7 @@
     {
       "path": "/ZeeMy/index.html",
       "bytes": 9545,
-      "hash": "2d785b77f634ed02469c690862e71bfc514bcbd821443e9f782abb93164d23d3",
+      "hash": "49b334ee36dd3ed4f4ad822bae7776e4700b32df3b899a34d72c02359c4d32b8",
       "priority": 0
     },
     {
@@ -4561,6 +4687,7 @@
     "/content-demo/creator-upload-01.png": "/optimized-images-v72/8a367b89f08cf0675e551c79.webp",
     "/content-demo/creator-upload-02.png": "/optimized-images-v72/ac8208011f68c364c8f24747.webp",
     "/content-demo/creator-upload-03.png": "/optimized-images-v72/37ab178f7fc61dca46b66ba7.webp",
+    "/demos/blueprint/stickers/v1/ok.webp": "/optimized-images-v72/3a468de64d8d8802c1d1ada0.webp",
     "/demos/gaknyampe/assets/assets/images/chat-alien-selfie.c1f1d1879e51c656b0b38e28d931fb2a.png": "/optimized-images-v72/143653eee9b1cfdfb39710be.webp",
     "/demos/gaknyampe/assets/assets/images/chat-bukti-pengantaran.89e9562f7cfc76c297df957b5fae10e2.png": "/optimized-images-v72/91012bec6e1fd0825200c3ba.webp",
     "/demos/gaknyampe/assets/assets/images/chat-dinosaurus.bdf25fad082a9db3585172eacab26718.png": "/optimized-images-v72/2eecf673f48fcdfe572aa19e.webp",
@@ -4897,7 +5024,14 @@
     "/portfolio/landing-page.png": "/optimized-images-v72/5edc8bc7d2b76bd0c06d0c95.webp",
     "/portfolio/mark.png": "/optimized-images-v72/341d180a7ffff7c74d43e948.webp",
     "/portfolio/ui-ux.png": "/optimized-images-v72/bc9a5882bdc21b7fcf338184.webp",
+    "/portfolio-blueprint-v83/blueprint-desktop.webp": "/optimized-images-v72/4915dee41b350f21c5994ebc.webp",
+    "/portfolio-blueprint-v83/blueprint-info-desktop.webp": "/optimized-images-v72/2ef3e54a3abb63131e24bf19.webp",
+    "/portfolio-blueprint-v83/blueprint-info-mobile.webp": "/optimized-images-v72/6fc57e96356d09b68f433d48.webp",
+    "/portfolio-blueprint-v83/blueprint-mobile.webp": "/optimized-images-v72/d2a17d4b45048ad4d78fd75f.webp",
+    "/portfolio-blueprint-v83/blueprint-picker.webp": "/optimized-images-v72/bcd6618509b09e3f1a1d321a.webp",
+    "/portfolio-blueprint-v83/porprov.webp": "/optimized-images-v72/a80fd02e48154d5684169195.webp",
     "/portfolio-covers/desktop/cover-adf.png": "/optimized-images-v72/d6e7e671c767add8561efdec.webp",
+    "/portfolio-covers/desktop/cover-blueprint.png": "/optimized-images-v72/0aabdb226a3d9f63f0ab6113.webp",
     "/portfolio-covers/desktop/cover-gaknyampe.png": "/optimized-images-v72/6cc2bf4e826bf2de6d98134b.webp",
     "/portfolio-covers/desktop/cover-intos.png": "/optimized-images-v72/7009c08c9f4d6b0da906f267.webp",
     "/portfolio-covers/desktop/cover-khabila-kitchen.png": "/optimized-images-v72/aee8ba48da538d68196adf13.webp",
@@ -4909,12 +5043,13 @@
     "/portfolio-covers/desktop/cover-selected-websites.png": "/optimized-images-v72/323d17547fb9b4e9ee5697e3.webp",
     "/portfolio-covers/desktop/cover-zeemy.png": "/optimized-images-v72/3bef51bfca525d8f34e4f63d.webp",
     "/portfolio-covers/mobile/cover-adf.png": "/optimized-images-v72/b3a0ba1faad8052338740535.webp",
+    "/portfolio-covers/mobile/cover-blueprint.png": "/optimized-images-v72/840112c547e9fe8d60b6c49a.webp",
     "/portfolio-covers/mobile/cover-gaknyampe.png": "/optimized-images-v72/2d149d74db2df8ee3d53ceda.webp",
     "/portfolio-covers/mobile/cover-intos.png": "/optimized-images-v72/de2e739608a1a92344cd9966.webp",
     "/portfolio-covers/mobile/cover-khabila-kitchen.png": "/optimized-images-v72/3fc3fee937fab94848af4bd8.webp",
     "/portfolio-covers/mobile/cover-kreavityworks.png": "/optimized-images-v72/76269a4d2f75f4b7fee407f1.webp",
     "/portfolio-covers/mobile/cover-neon-chaos.png": "/optimized-images-v72/c51ec88f21400fb96f811898.webp",
-    "/portfolio-covers/mobile/cover-porprov.png": "/optimized-images-v72/7438951a11918036694d3a9b.webp",
+    "/portfolio-covers/mobile/cover-porprov.png": "/optimized-images-v72/f7dc0e7f014c84a49a68d9c3.webp",
     "/portfolio-covers/mobile/cover-rumah-subsidi.png": "/optimized-images-v72/f58ef537c5f95da85f0061ec.webp",
     "/portfolio-covers/mobile/cover-selected-websites.png": "/optimized-images-v72/70fcf440c7e0ef9f53408812.webp",
     "/portfolio-covers/mobile/cover-zeemy.png": "/optimized-images-v72/69d75a48c3f4e79d9f1aa4d9.webp",
@@ -4956,6 +5091,7 @@
     "/portfolio-v2/zeemy-sprite.png": "/optimized-images-v72/db0d8a3fcdca8312e7c8c3c2.webp",
     "/preview-picker-covers/00-adf-system.png": "/optimized-images-v72/f2ce0be37457ef6840e0e02e.webp",
     "/preview-picker-covers/01-rumah-subsidi.png": "/optimized-images-v72/e0dcc8a11626edb1a3de5094.webp",
+    "/preview-picker-covers/02-blueprint.png": "/optimized-images-v72/5aaedc09c84e11f0cd35544c.webp",
     "/preview-picker-covers/02-intos.png": "/optimized-images-v72/2ed2dd4e16b858cd70ccaf1f.webp",
     "/preview-picker-covers/03-zeemy.png": "/optimized-images-v72/09419ebf445d6137ab9361f4.webp",
     "/preview-picker-covers/04-kreavityworks.png": "/optimized-images-v72/2164f38c676496ff6cfe512b.webp",

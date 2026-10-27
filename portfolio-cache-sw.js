@@ -125,4 +125,4 @@ self.addEventListener('message',event=>{
 });
 
 /* IMAGE DELIVERY V72 */
-const IMAGE_DELIVERY_VERSION_V72 = "5013ff1d76352514";
+const IMAGE_DELIVERY_VERSION_V72 = "68b0e4547e62f7db";

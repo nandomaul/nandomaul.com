@@ -1,0 +1,68 @@
+{
+  "revision": 88,
+  "mode": "local-demo-only",
+  "login": false,
+  "productionConnection": false,
+  "manifest": [
+    {
+      "file": "assets/blueprint-v88-CWSHNDS4.css",
+      "bytes": 150178,
+      "sha256": "b37b4dd601b0a7796ca97c8cc47c494dab75c779183c7451807df361bcda5299"
+    },
+    {
+      "file": "assets/blueprint-v88-SFZAJUOH.js",
+      "bytes": 4068745,
+      "sha256": "9ccb368b544c7182f18544fb987b330e6743bd8dab4815c4fee486a5a30e29f0"
+    },
+    {
+      "file": "index.html",
+      "bytes": 850,
+      "sha256": "fb50da777693b2f0e670e166f9f218bc7e24787a3a88745fbe546b4d66d085d0"
+    },
+    {
+      "file": "stickers/v1/check-it.webp",
+      "bytes": 43650,
+      "sha256": "736af0d63a2828b4a2d9d05d240dcce7fb75c63bb01ff42287da00db50c1bb5e"
+    },
+    {
+      "file": "stickers/v1/go-it.webp",
+      "bytes": 40270,
+      "sha256": "7bea603c9c38087bd5d5097533136ecf363e990a363a55c7d68c9808cd5404e1"
+    },
+    {
+      "file": "stickers/v1/here.webp",
+      "bytes": 48764,
+      "sha256": "97008ca8d221f25385517b0b04c6ae8375edc603597a062efa10713d4a1039a8"
+    },
+    {
+      "file": "stickers/v1/make-sure.webp",
+      "bytes": 45126,
+      "sha256": "2689f3ab62ffd6c3e7e4c8c42f406c13a8b853fe5cfc802dfcf3d206bc58c59b"
+    },
+    {
+      "file": "stickers/v1/nice.webp",
+      "bytes": 41762,
+      "sha256": "78b9c0a9e03ffacabb9cf21ecf5e4662c9591b23fcbaf04d4c9b909b03f0ef8f"
+    },
+    {
+      "file": "stickers/v1/ok.webp",
+      "bytes": 37694,
+      "sha256": "43be887daa431d6f4fa4572dea7ad97785e64b90f86376ceffb8cbfdd9bf27ea"
+    },
+    {
+      "file": "stickers/v1/please.webp",
+      "bytes": 41302,
+      "sha256": "6854f6e031ddd4561d2a3e6f2af5c1fd3f666bef7de5bb8c0939a6f484a88bb9"
+    },
+    {
+      "file": "stickers/v1/plus-one.webp",
+      "bytes": 40454,
+      "sha256": "bb9ebd7b2b64ba5388c84b845c2f0ca148edc6c334218dcad90dea0afdd662c6"
+    }
+  ],
+  "mobileInitialFlowZoom": 136,
+  "languageDefault": "en",
+  "chatStickerSeed": "nice-v86",
+  "presence": "simulated-local-demo",
+  "dailyActivity": "local-demo-v87"
+}
